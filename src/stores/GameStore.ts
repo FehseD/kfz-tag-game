@@ -1,5 +1,4 @@
 import { defineStore } from "pinia";
-import * as fs from "node:fs";
 
 export type Game = {
   id: number;
@@ -15,26 +14,28 @@ export const useGameStore = defineStore("gameStore", {
     game: [] as Game[],
   }),
   actions: {
-    startGame(gameSize: number) {
-      this.game = [];
-      const kreiseIds = [] as number[];
-      const data = JSON.parse(fs.readFileSync("data.json").toString());
-      for (let i = 0; i < gameSize; i++) {
-        let selectedKreis;
+    async startGame(gameSize: number) {
+      fetch('./data.json').then(async res => {
+        const data = await res.json();
+        this.game = [];
+        const kreiseIds = [] as number[];
+        for (let i = 0; i < gameSize; i++) {
+          let selectedKreis;
 
-        do {
-          selectedKreis = Math.round(Math.random() * (data.length - 1));
-        } while (kreiseIds.includes(selectedKreis))
+          do {
+            selectedKreis = Math.round(Math.random() * (data.length - 1));
+          } while (kreiseIds.includes(selectedKreis))
 
-        kreiseIds.push(selectedKreis);
-      }
-      kreiseIds.forEach((kreisId) => {
-        const kreis = data[kreisId] as Game;
-        kreis.id = kreisId;
-        kreis.answers = this.giveAnswers(kreis);
-        this.game.push(kreis);
+          kreiseIds.push(selectedKreis);
+        }
+        kreiseIds.forEach((kreisId) => {
+          const kreis = data[kreisId] as Game;
+          kreis.id = kreisId;
+          kreis.answers = this.giveAnswers(kreis);
+          this.game.push(kreis);
+        });
+        console.log(this.game);
       });
-      console.log(this.game);
     },
     giveAnswers(gameItem: Game): Array<{ text: string, isRight: boolean }> {
       const answers = [
