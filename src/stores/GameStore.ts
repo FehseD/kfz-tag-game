@@ -1,5 +1,5 @@
 import { defineStore } from "pinia";
-import data from "@/assets/data";
+import * as fs from "node:fs";
 
 export type Game = {
   id: number;
@@ -18,6 +18,7 @@ export const useGameStore = defineStore("gameStore", {
     startGame(gameSize: number) {
       this.game = [];
       const kreiseIds = [] as number[];
+      const data = JSON.parse(fs.readFileSync("data.json").toString());
       for (let i = 0; i < gameSize; i++) {
         let selectedKreis;
 

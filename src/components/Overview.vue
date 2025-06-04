@@ -27,7 +27,7 @@ import { useGameStore } from "@/stores/GameStore";
 import router from "@/router";
 import { useSaveStore } from "@/stores/SaveStore";
 import { storeToRefs } from "pinia";
-import data from "@/assets/data";
+import data from "../../public/data.json";
 import { Ref, ref } from "vue";
 
 ChartJS.register(ArcElement, Tooltip, Legend)
