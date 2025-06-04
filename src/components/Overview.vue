@@ -20,9 +20,7 @@ import {
   ArcElement,
   Tooltip,
   Legend,
-  ChartData,
-  CoreChartOptions,
-  ElementChartOptions, PluginChartOptions, DatasetChartOptions
+  ChartData
 } from 'chart.js'
 import { Pie } from 'vue-chartjs'
 import { useGameStore } from "@/stores/GameStore";
@@ -31,7 +29,6 @@ import { useSaveStore } from "@/stores/SaveStore";
 import { storeToRefs } from "pinia";
 import data from "@/assets/data";
 import { Ref, ref } from "vue";
-import { _DeepPartialObject } from "chart.js/dist/types/utils";
 
 ChartJS.register(ArcElement, Tooltip, Legend)
 
@@ -53,7 +50,7 @@ const chartConfig: Ref<ChartData<"pie", number[], unknown>> = ref({
   ]
 });
 
-const options: Ref<_DeepPartialObject<CoreChartOptions<"pie"> & ElementChartOptions<"pie"> & PluginChartOptions<"pie"> & DatasetChartOptions<"pie">>> = ref({
+const options = ref({
   responsive: true,
   maintainAspectRatio: false,
 });

@@ -33,8 +33,8 @@ export const useSaveStore = defineStore("saveStore", {
       localStorage.setItem('wrongerAnswered', JSON.stringify(this.wrongerAnswered));
     },
     loadAnswers() {
-      this.rightAnswered = JSON.parse(localStorage.getItem('rightAnswered'));
-      this.wrongerAnswered = JSON.parse(localStorage.getItem('wrongerAnswered'));
+      this.rightAnswered = JSON.parse(<string>localStorage.getItem('rightAnswered'));
+      this.wrongerAnswered = JSON.parse(<string>localStorage.getItem('wrongerAnswered'));
     }
   },
   getters: {}
