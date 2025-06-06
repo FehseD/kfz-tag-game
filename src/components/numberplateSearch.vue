@@ -8,11 +8,14 @@
       <v-data-table :items="items"/>
     </v-card>
   </div>
-  <v-card class="position-fixed left-0 right-0 bottom-0 h-25 pa-4 mx-auto d-flex flex-nowrap flex-column"
-          max-width="60em">
-    <div class="d-flex flex-wrap gc-4 align-baseline flex-grow-1">
-      <v-btn v-for="char in chars" :disabled="!available.includes(char)" :key="'char:' + char" rounded
-             class="flex-grow-1" height="4em" :size="useDisplay().mobile.value ? 30 : undefined"
+  <v-card
+    :class="'position-fixed left-0 right-0 bottom-0 h-25 mx-auto d-flex flex-nowrap flex-column ' + (useDisplay().mobile.value ? '' : 'pa-4')"
+    max-width="60em">
+    <div :class="'d-flex flex-wrap align-stretch flex-grow-1 ' + (useDisplay().mobile.value ? 'ga-2' : 'gc-4')">
+      <v-btn v-for="char in chars" :disabled="!available.includes(char)" :key="'char:' + char"
+             :rounded="useDisplay().mobile.value ? 1 : true"
+             class="flex-grow-1" :style="'height: ' + (useDisplay().mobile.value ? '' : '4em')"
+             :size="useDisplay().mobile.value ? 30 : undefined"
              :color="!available.includes(char) ? '' : 'grey-darken-3'" @click="input(char)">
         {{ char }}
       </v-btn>
