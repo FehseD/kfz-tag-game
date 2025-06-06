@@ -1,41 +1,46 @@
 import { defineStore } from "pinia";
 
-export type Game = {
-  id: number;
-  tag: string
-  county: string
-  state: string
+export type GameData = {
+  tag: string,
+  county: string,
+  state: string,
   explanation: string
+}
+
+export type Game = GameData & {
+  id: number;
   answers: Array<{ text: string, isRight: boolean }>
 }
 
 export const useGameStore = defineStore("gameStore", {
   state: () => ({
     game: [] as Game[],
+    data: [] as Array<GameData>
   }),
   actions: {
-    async startGame(gameSize: number) {
-      fetch('./data.json').then(async res => {
-        const data = await res.json();
-        this.game = [];
-        const kreiseIds = [] as number[];
-        for (let i = 0; i < gameSize; i++) {
-          let selectedKreis;
+    async loadGameData() {
+      const res = await fetch('./data.json');
+      this.data = await res.json();
+    },
+    startGame(gameSize: number) {
+      this.game = [];
+      const kreiseIds = [] as number[];
+      for (let i = 0; i < gameSize; i++) {
+        let selectedKreis;
 
-          do {
-            selectedKreis = Math.round(Math.random() * (data.length - 1));
-          } while (kreiseIds.includes(selectedKreis))
+        do {
+          selectedKreis = Math.round(Math.random() * (this.data.length - 1));
+        } while (kreiseIds.includes(selectedKreis))
 
-          kreiseIds.push(selectedKreis);
-        }
-        kreiseIds.forEach((kreisId) => {
-          const kreis = data[kreisId] as Game;
-          kreis.id = kreisId;
-          kreis.answers = this.giveAnswers(kreis);
-          this.game.push(kreis);
-        });
-        console.log(this.game);
+        kreiseIds.push(selectedKreis);
+      }
+      kreiseIds.forEach((kreisId) => {
+        const kreis = this.data[kreisId] as Game;
+        kreis.id = kreisId;
+        kreis.answers = this.giveAnswers(kreis);
+        this.game.push(kreis);
       });
+      console.log(this.game);
     },
     giveAnswers(gameItem: Game): Array<{ text: string, isRight: boolean }> {
       const answers = [
