@@ -19,9 +19,10 @@
              :color="!available.includes(char) ? '' : 'grey-darken-3'" @click="input(char)">
         {{ char }}
       </v-btn>
+      <v-btn rounded width="5em" elevation="10" color="warning" icon="mdi-backspace" class="flex-grow-1"
+             @click="filter = filter.slice(0, -1)" :size="useDisplay().mobile.value ? 30 : undefined"
+             :style="'height: ' + (useDisplay().mobile.value ? '' : '4em')"/>
     </div>
-    <v-btn rounded width="5em" elevation="10" color="warning" icon="mdi-backspace" block class="flex-grow-0"
-           @click="filter = filter.slice(0, -1)" :size="useDisplay().mobile.value ? 30 : undefined"/>
   </v-card>
 </template>
 
