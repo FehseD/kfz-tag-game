@@ -32,7 +32,7 @@ import { GameData, useGameStore } from "@/stores/GameStore";
 import { Ref, ref, watch } from "vue";
 import { useDisplay } from "vuetify";
 
-const chars = ['Q', 'W', 'E', 'R', 'T', 'Z', 'U', 'I', 'O', 'P', 'Ü', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'Ö', 'Ä', 'Y', 'X', 'C', 'V', 'B', 'N', 'M'];
+const chars = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ä', 'Ö', 'Ü'];
 const available: Ref<Array<string>> = ref([]);
 
 const gameStore = storeToRefs(useGameStore());
