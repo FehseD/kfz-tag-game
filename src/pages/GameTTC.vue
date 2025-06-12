@@ -49,12 +49,12 @@
 
 <script setup lang="ts">
 import { storeToRefs } from "pinia";
-import { useGameStore } from "@/stores/GameStore";
+import { useGameStoreTagToCity } from "@/stores/GameStoreTagToCity";
 import { ref, Ref } from "vue";
 import { useSaveStore } from "@/stores/SaveStore";
 import router from "@/router";
 
-const games = storeToRefs(useGameStore()).game;
+const games = storeToRefs(useGameStoreTagToCity()).game;
 const saveStoreMethods = useSaveStore();
 const window: Ref<number> = ref(0);
 const revealed = ref(false);
@@ -62,16 +62,16 @@ const revealed = ref(false);
 function restart() {
   revealed.value = false;
   window.value = 0;
-  useGameStore().startGame(5);
+  useGameStoreTagToCity().startGame(5);
 }
 
 function reveal(id: number, isRight: boolean) {
   if (revealed.value == true) return
   revealed.value = true;
   if (isRight) {
-    saveStoreMethods.saveNewRightAnswer(id);
+    saveStoreMethods.saveNewRightAnswerTagToCity(id);
   } else {
-    saveStoreMethods.saveNewWrongAnswer(id);
+    saveStoreMethods.saveNewWrongAnswerTagToCity(id);
   }
 }
 

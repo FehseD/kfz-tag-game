@@ -11,16 +11,22 @@
 
 <script lang="ts" setup>
 import { useSaveStore } from "@/stores/SaveStore";
-import { useGameStore } from "@/stores/GameStore";
+import { useGameStoreTagToCity } from "@/stores/GameStoreTagToCity";
 import { ref } from "vue";
+import { useGameStoreCityToTag } from "@/stores/GameStoreCityToTag";
 
 const saveStoreMethods = useSaveStore();
 saveStoreMethods.loadAnswers();
 
 const loadingData = ref(true);
 
-const gameStore = useGameStore();
-gameStore.loadGameData().then(() => {
+const gameStoreTagToCity = useGameStoreTagToCity();
+gameStoreTagToCity.loadGameData().then(() => {
+  loadingData.value = false;
+});
+
+const gameStoreCityToTag = useGameStoreCityToTag();
+gameStoreCityToTag.loadGameData().then(() => {
   loadingData.value = false;
 });
 </script>

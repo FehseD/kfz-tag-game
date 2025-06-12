@@ -28,14 +28,14 @@
 
 <script setup lang="ts">
 import { storeToRefs } from "pinia";
-import { GameData, useGameStore } from "@/stores/GameStore";
+import { GameData, useGameStoreTagToCity } from "@/stores/GameStoreTagToCity";
 import { Ref, ref, watch } from "vue";
 import { useDisplay } from "vuetify";
 
 const chars = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ä', 'Ö', 'Ü'];
 const available: Ref<Array<string>> = ref([]);
 
-const gameStore = storeToRefs(useGameStore());
+const gameStore = storeToRefs(useGameStoreTagToCity());
 
 const items: Ref<Array<GameData>> = ref(gameStore.data.value);
 

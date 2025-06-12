@@ -12,7 +12,7 @@ export type Game = GameData & {
   answers: Array<{ text: string, isRight: boolean }>
 }
 
-export const useGameStore = defineStore("gameStore", {
+export const useGameStoreCityToTag = defineStore("gameStoreCityToTag", {
   state: () => ({
     game: [] as Game[],
     data: [] as Array<GameData>

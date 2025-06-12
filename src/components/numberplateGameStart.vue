@@ -4,12 +4,26 @@
       <v-card-title>
         Numberplate game
       </v-card-title>
-      <v-card-item class="h-25">
-        <Pie :data="chartConfig" :options="options"/>
-      </v-card-item>
-      <v-card-actions>
-        <v-btn @click="start()" variant="tonal" color="success" size="large" block>Start</v-btn>
-      </v-card-actions>
+      <div class="w-100 d-flex flex-nowrap flex-row justify-center mb-8">
+        <div class="d-flex flex-column align-center">
+          <p>Tag to City</p>
+          <div>
+            <Pie :data="chartConfigTagToCity" :options="options"/>
+          </div>
+        </div>
+        <div class="d-flex flex-column align-center">
+          <p>City to Tag</p>
+          <div>
+            <Pie :data="chartConfigCityToTag" :options="options"/>
+          </div>
+        </div>
+      </div>
+      <div>
+        <v-btn @click="startCityToTag()" variant="tonal" color="success" size="large" block class="my-2">City to Tag
+          Start
+        </v-btn>
+        <v-btn @click="startTagToCity()" disabled variant="tonal" color="success" size="large" block>Tag to City Start</v-btn>
+      </div>
     </v-card>
   </div>
 </template>
@@ -25,34 +39,53 @@ import {
   Legend,
   ChartData
 } from 'chart.js'
-import { useGameStore } from "@/stores/GameStore";
+import { useGameStoreCityToTag } from "@/stores/GameStoreCityToTag";
 import { storeToRefs } from "pinia";
 import { useSaveStore } from "@/stores/SaveStore";
+import { useGameStoreTagToCity } from "@/stores/GameStoreTagToCity";
 
 ChartJS.register(ArcElement, Tooltip, Legend)
 
-const gameStoreMethods = useGameStore();
-const gameStore = storeToRefs(gameStoreMethods);
+const gameStoreCityToTagMethods = useGameStoreCityToTag();
+const gameStoreCityToTag = storeToRefs(gameStoreCityToTagMethods);
 const saveStore = storeToRefs(useSaveStore());
 
-function start() {
-  gameStoreMethods.startGame(5);
-  router.push('/game');
+const gameStoreTagToCityMethods = useGameStoreTagToCity();
+const gameStoreTagToCity = storeToRefs(gameStoreTagToCityMethods);
+
+function startCityToTag() {
+  gameStoreCityToTagMethods.startGame(5);
+  router.push('/gamectt');
 }
 
-const chartConfig: Ref<ChartData<"pie", number[], unknown>> = ref({
-  labels: ['Right:' + saveStore.rightAnswered.value.length, 'Wrong:' + saveStore.wrongerAnswered.value.length, 'Unseen:' + (gameStore.data.value.length - saveStore.wrongerAnswered.value.length - saveStore.rightAnswered.value.length)],
+function startTagToCity() {
+  gameStoreTagToCityMethods.startGame(5);
+  router.push('/gamettc');
+}
+
+const chartConfigCityToTag: Ref<ChartData<"pie", number[], unknown>> = ref({
+  labels: ['Right:' + saveStore.ctt.value.rightAnswered.length, 'Wrong:' + saveStore.ctt.value.wrongerAnswered.length, 'Unseen:' + (gameStoreCityToTag.data.value.length - saveStore.ctt.value.wrongerAnswered.length - saveStore.ctt.value.rightAnswered.length)],
   datasets: [
     {
       backgroundColor: ['#41B883', '#E46651', '#00D8FF'],
-      data: [saveStore.rightAnswered.value.length, saveStore.wrongerAnswered.value.length, gameStore.data.value.length - saveStore.wrongerAnswered.value.length - saveStore.rightAnswered.value.length],
+      data: [saveStore.ctt.value.rightAnswered.length, saveStore.ctt.value.wrongerAnswered.length, gameStoreCityToTag.data.value.length - saveStore.ctt.value.wrongerAnswered.length - saveStore.ctt.value.rightAnswered.length],
+    }
+  ]
+});
+
+const chartConfigTagToCity: Ref<ChartData<"pie", number[], unknown>> = ref({
+  labels: ['Right:' + saveStore.ttc.value.rightAnswered.length, 'Wrong:' + saveStore.ttc.value.wrongerAnswered.length, 'Unseen:' + (gameStoreTagToCity.data.value.length - saveStore.ttc.value.wrongerAnswered.length - saveStore.ttc.value.rightAnswered.length)],
+  datasets: [
+    {
+      backgroundColor: ['#41B883', '#E46651', '#00D8FF'],
+      data: [saveStore.ttc.value.rightAnswered.length, saveStore.ttc.value.wrongerAnswered.length, gameStoreTagToCity.data.value.length - saveStore.ttc.value.wrongerAnswered.length - saveStore.ttc.value.rightAnswered.length],
     }
   ]
 });
 
 const options = ref({
   responsive: true,
-  maintainAspectRatio: false,
+  maintainAspectRatio: false
 });
 </script>
 
