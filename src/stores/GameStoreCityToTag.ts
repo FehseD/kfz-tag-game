@@ -1,41 +1,37 @@
-import { defineStore } from "pinia";
+import { defineStore, storeToRefs } from "pinia";
+import { GameData, useGameDataStore } from "@/stores/GameDataStore";
 
-export type GameData = {
-  tag: string,
-  county: string,
-  state: string,
-  explanation: string
-}
+
 
 export type Game = GameData & {
-  id: number;
   answers: Array<{ text: string, isRight: boolean }>
 }
 
 export const useGameStoreCityToTag = defineStore("gameStoreCityToTag", {
   state: () => ({
     game: [] as Game[],
-    data: [] as Array<GameData>
+    // data: [] as Array<GameData>
   }),
   actions: {
-    async loadGameData() {
-      const res = await fetch('./data.json');
-      this.data = await res.json();
-    },
+    // async loadGameData() {
+    //   const res = await fetch('./data.json');
+    //   this.data = await res.json();
+    // },
     startGame(gameSize: number) {
+      const gameDataStoreData = storeToRefs(useGameDataStore()).data;
       this.game = [];
       const kreiseIds = [] as number[];
       for (let i = 0; i < gameSize; i++) {
         let selectedKreis;
 
         do {
-          selectedKreis = Math.round(Math.random() * (this.data.length - 1));
+          selectedKreis = Math.round(Math.random() * (gameDataStoreData.value.length - 1));
         } while (kreiseIds.includes(selectedKreis))
 
         kreiseIds.push(selectedKreis);
       }
       kreiseIds.forEach((kreisId) => {
-        const kreis = this.data[kreisId] as Game;
+        const kreis = gameDataStoreData.value[kreisId] as Game;
         kreis.id = kreisId;
         kreis.answers = this.giveAnswers(kreis);
         this.game.push(kreis);

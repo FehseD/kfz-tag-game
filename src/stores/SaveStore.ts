@@ -9,7 +9,8 @@ export const useSaveStore = defineStore("saveStore", {
     ttc: {
       rightAnswered: [] as Array<number>,
       wrongerAnswered: [] as Array<number>,
-    }
+    },
+    seen: [] as Array<number>,
   }),
   actions: {
     saveNewRightAnswerCityToTag(id: number) {
@@ -56,31 +57,50 @@ export const useSaveStore = defineStore("saveStore", {
         this.saveInLocalStorage();
       }
     },
+    toggleSeen(id: number) {
+      if (!this.seen.includes(id)) {
+        this.seen.push(id);
+      } else {
+        this.seen.splice(this.seen.indexOf(id), 1);
+      }
+      this.saveInLocalStorage();
+    },
     saveInLocalStorage() {
       localStorage.setItem('rightAnsweredCTT', JSON.stringify(this.ctt.rightAnswered));
       localStorage.setItem('wrongerAnsweredCTT', JSON.stringify(this.ctt.wrongerAnswered));
 
       localStorage.setItem('rightAnsweredTTC', JSON.stringify(this.ttc.rightAnswered));
       localStorage.setItem('wrongerAnsweredTTC', JSON.stringify(this.ttc.wrongerAnswered));
-    },
-    loadAnswers() {
-      const rightAnsweredCityToTag = localStorage.getItem('rightAnsweredCTT');
-      const wrongerAnsweredCityToTag = localStorage.getItem('wrongerAnsweredCTT');
-      if (rightAnsweredCityToTag != null) {
-        this.ctt.rightAnswered = JSON.parse(rightAnsweredCityToTag);
-      }
-      if (wrongerAnsweredCityToTag != null) {
-        this.ctt.wrongerAnswered = JSON.parse(wrongerAnsweredCityToTag);
-      }
 
-      const rightAnsweredTagToCity = localStorage.getItem('rightAnsweredTTC');
-      const wrongerAnsweredTagToCity = localStorage.getItem('wrongerAnsweredTTC');
-      if (rightAnsweredTagToCity != null) {
-        this.ctt.rightAnswered = JSON.parse(rightAnsweredTagToCity);
-      }
-      if (wrongerAnsweredTagToCity != null) {
-        this.ctt.wrongerAnswered = JSON.parse(wrongerAnsweredTagToCity);
-      }
+      localStorage.setItem('seenTags', JSON.stringify(this.seen));
+    },
+    async loadAnswers() {
+      return new Promise(resolve => {
+
+        const rightAnsweredCityToTag = localStorage.getItem('rightAnsweredCTT');
+        const wrongerAnsweredCityToTag = localStorage.getItem('wrongerAnsweredCTT');
+        if (rightAnsweredCityToTag != null) {
+          this.ctt.rightAnswered = JSON.parse(rightAnsweredCityToTag);
+        }
+        if (wrongerAnsweredCityToTag != null) {
+          this.ctt.wrongerAnswered = JSON.parse(wrongerAnsweredCityToTag);
+        }
+
+        const rightAnsweredTagToCity = localStorage.getItem('rightAnsweredTTC');
+        const wrongerAnsweredTagToCity = localStorage.getItem('wrongerAnsweredTTC');
+        if (rightAnsweredTagToCity != null) {
+          this.ctt.rightAnswered = JSON.parse(rightAnsweredTagToCity);
+        }
+        if (wrongerAnsweredTagToCity != null) {
+          this.ctt.wrongerAnswered = JSON.parse(wrongerAnsweredTagToCity);
+        }
+
+        const seenTags = localStorage.getItem('seenTags');
+        if (seenTags != null) {
+          this.seen = JSON.parse(seenTags);
+        }
+        resolve('done');
+      });
     }
   },
   getters: {}

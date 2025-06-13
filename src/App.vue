@@ -11,22 +11,15 @@
 
 <script lang="ts" setup>
 import { useSaveStore } from "@/stores/SaveStore";
-import { useGameStoreTagToCity } from "@/stores/GameStoreTagToCity";
 import { ref } from "vue";
-import { useGameStoreCityToTag } from "@/stores/GameStoreCityToTag";
+import { useGameDataStore } from "@/stores/GameDataStore";
 
 const saveStoreMethods = useSaveStore();
-saveStoreMethods.loadAnswers();
+const dataStore = useGameDataStore();
 
 const loadingData = ref(true);
 
-const gameStoreTagToCity = useGameStoreTagToCity();
-gameStoreTagToCity.loadGameData().then(() => {
-  loadingData.value = false;
-});
-
-const gameStoreCityToTag = useGameStoreCityToTag();
-gameStoreCityToTag.loadGameData().then(() => {
+Promise.all([saveStoreMethods.loadAnswers(), dataStore.loadGameData()]).then(() => {
   loadingData.value = false;
 });
 </script>

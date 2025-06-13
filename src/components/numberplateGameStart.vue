@@ -1,10 +1,12 @@
 <template>
   <div class="h-100 d-flex align-center justify-center">
     <v-card class="w-100 w-sm-100 w-md-75 w-lg-75 w-xxl-50">
+      {{saveStore}}
       <v-card-title>
         Numberplate game
       </v-card-title>
-      <div class="w-100 d-flex flex-nowrap flex-row justify-center mb-8">
+      <div
+        class="w-100 d-flex flex-column flex-sm-row flex-md-row flex-lg-row flex-xl-row flex-xxl-row justify-center mb-8">
         <div class="d-flex flex-column align-center">
           <p>Tag to City</p>
           <div>
@@ -22,7 +24,8 @@
         <v-btn @click="startCityToTag()" variant="tonal" color="success" size="large" block class="my-2">City to Tag
           Start
         </v-btn>
-        <v-btn @click="startTagToCity()" disabled variant="tonal" color="success" size="large" block>Tag to City Start</v-btn>
+        <v-btn @click="startTagToCity()" disabled variant="tonal" color="success" size="large" block>Tag to City Start
+        </v-btn>
       </div>
     </v-card>
   </div>
@@ -43,15 +46,16 @@ import { useGameStoreCityToTag } from "@/stores/GameStoreCityToTag";
 import { storeToRefs } from "pinia";
 import { useSaveStore } from "@/stores/SaveStore";
 import { useGameStoreTagToCity } from "@/stores/GameStoreTagToCity";
+import { useGameDataStore } from "@/stores/GameDataStore";
 
 ChartJS.register(ArcElement, Tooltip, Legend)
 
 const gameStoreCityToTagMethods = useGameStoreCityToTag();
-const gameStoreCityToTag = storeToRefs(gameStoreCityToTagMethods);
 const saveStore = storeToRefs(useSaveStore());
 
 const gameStoreTagToCityMethods = useGameStoreTagToCity();
-const gameStoreTagToCity = storeToRefs(gameStoreTagToCityMethods);
+
+const gameDataStoreData = storeToRefs(useGameDataStore()).data;
 
 function startCityToTag() {
   gameStoreCityToTagMethods.startGame(5);
@@ -64,21 +68,21 @@ function startTagToCity() {
 }
 
 const chartConfigCityToTag: Ref<ChartData<"pie", number[], unknown>> = ref({
-  labels: ['Right:' + saveStore.ctt.value.rightAnswered.length, 'Wrong:' + saveStore.ctt.value.wrongerAnswered.length, 'Unseen:' + (gameStoreCityToTag.data.value.length - saveStore.ctt.value.wrongerAnswered.length - saveStore.ctt.value.rightAnswered.length)],
+  labels: ['Right:' + saveStore.ctt.value.rightAnswered.length, 'Wrong:' + saveStore.ctt.value.wrongerAnswered.length, 'Unseen:' + (gameDataStoreData.value.length - saveStore.ctt.value.wrongerAnswered.length - saveStore.ctt.value.rightAnswered.length)],
   datasets: [
     {
       backgroundColor: ['#41B883', '#E46651', '#00D8FF'],
-      data: [saveStore.ctt.value.rightAnswered.length, saveStore.ctt.value.wrongerAnswered.length, gameStoreCityToTag.data.value.length - saveStore.ctt.value.wrongerAnswered.length - saveStore.ctt.value.rightAnswered.length],
+      data: [saveStore.ctt.value.rightAnswered.length, saveStore.ctt.value.wrongerAnswered.length, gameDataStoreData.value.length - saveStore.ctt.value.wrongerAnswered.length - saveStore.ctt.value.rightAnswered.length],
     }
   ]
 });
 
 const chartConfigTagToCity: Ref<ChartData<"pie", number[], unknown>> = ref({
-  labels: ['Right:' + saveStore.ttc.value.rightAnswered.length, 'Wrong:' + saveStore.ttc.value.wrongerAnswered.length, 'Unseen:' + (gameStoreTagToCity.data.value.length - saveStore.ttc.value.wrongerAnswered.length - saveStore.ttc.value.rightAnswered.length)],
+  labels: ['Right:' + saveStore.ttc.value.rightAnswered.length, 'Wrong:' + saveStore.ttc.value.wrongerAnswered.length, 'Unseen:' + (gameDataStoreData.value.length - saveStore.ttc.value.wrongerAnswered.length - saveStore.ttc.value.rightAnswered.length)],
   datasets: [
     {
       backgroundColor: ['#41B883', '#E46651', '#00D8FF'],
-      data: [saveStore.ttc.value.rightAnswered.length, saveStore.ttc.value.wrongerAnswered.length, gameStoreTagToCity.data.value.length - saveStore.ttc.value.wrongerAnswered.length - saveStore.ttc.value.rightAnswered.length],
+      data: [saveStore.ttc.value.rightAnswered.length, saveStore.ttc.value.wrongerAnswered.length, gameDataStoreData.value.length - saveStore.ttc.value.wrongerAnswered.length - saveStore.ttc.value.rightAnswered.length],
     }
   ]
 });
