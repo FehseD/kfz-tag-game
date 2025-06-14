@@ -1,7 +1,6 @@
 <template>
   <div class="h-100 d-flex align-center justify-center">
     <v-card class="w-100 w-sm-100 w-md-75 w-lg-75 w-xxl-50">
-      {{saveStore}}
       <v-card-title>
         Numberplate game
       </v-card-title>

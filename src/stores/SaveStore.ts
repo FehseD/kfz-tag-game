@@ -89,10 +89,10 @@ export const useSaveStore = defineStore("saveStore", {
         const rightAnsweredTagToCity = localStorage.getItem('rightAnsweredTTC');
         const wrongerAnsweredTagToCity = localStorage.getItem('wrongerAnsweredTTC');
         if (rightAnsweredTagToCity != null) {
-          this.ctt.rightAnswered = JSON.parse(rightAnsweredTagToCity);
+          this.ttc.rightAnswered = JSON.parse(rightAnsweredTagToCity);
         }
         if (wrongerAnsweredTagToCity != null) {
-          this.ctt.wrongerAnswered = JSON.parse(wrongerAnsweredTagToCity);
+          this.ttc.wrongerAnswered = JSON.parse(wrongerAnsweredTagToCity);
         }
 
         const seenTags = localStorage.getItem('seenTags');

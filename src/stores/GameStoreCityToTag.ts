@@ -1,8 +1,6 @@
 import { defineStore, storeToRefs } from "pinia";
 import { GameData, useGameDataStore } from "@/stores/GameDataStore";
 
-
-
 export type Game = GameData & {
   answers: Array<{ text: string, isRight: boolean }>
 }
@@ -10,13 +8,8 @@ export type Game = GameData & {
 export const useGameStoreCityToTag = defineStore("gameStoreCityToTag", {
   state: () => ({
     game: [] as Game[],
-    // data: [] as Array<GameData>
   }),
   actions: {
-    // async loadGameData() {
-    //   const res = await fetch('./data.json');
-    //   this.data = await res.json();
-    // },
     startGame(gameSize: number) {
       const gameDataStoreData = storeToRefs(useGameDataStore()).data;
       this.game = [];
@@ -76,14 +69,10 @@ export const useGameStoreCityToTag = defineStore("gameStoreCityToTag", {
     shuffle(array: Array<{ text: string, isRight: boolean }>): Array<{ text: string, isRight: boolean }> {
       let currentIndex = array.length;
 
-      // While there remain elements to shuffle...
       while (currentIndex != 0) {
-
-        // Pick a remaining element...
         const randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        // And swap it with the current element.
         [array[currentIndex], array[randomIndex]] = [
           array[randomIndex], array[currentIndex]];
       }
