@@ -8,8 +8,14 @@
       <v-card-subtitle v-if="!useDisplay().mobile.value">
         <v-text-field v-model="filter" label="Tag filter"></v-text-field>
       </v-card-subtitle>
-      <v-data-table v-if="!useDisplay().mobile.value" :items="items"/>
-      <v-data-iterator v-else :items="items" :page="page">
+      <v-data-table v-if="!useDisplay().mobile.value" :items="items" :headers="headers">
+        <template #item.seen="{item}">
+          <v-checkbox-btn :model-value="saveStore.seen.value.includes(item.id)"
+                          @click="saveStoreMethods.toggleSeen(item.id)"/>
+        </template>
+      </v-data-table>
+      <v-data-iterator v-else :items=" items
+          " :page="page">
         <template #default="{ items }">
           <template
             v-for="(item, i) in items"
@@ -26,7 +32,9 @@
                 Tag: {{ item.raw.tag }}
                 <br>
                 Explanation: <span v-for="(char, index) in item.raw.explanation" :key="'char' + i + char + index"
-                                   :style="'font-size:' + (char == char.toUpperCase() ? '1.5em' : '')">{{ char }}</span>
+                                   :style="'font-size:' + (char == char.toUpperCase() ? '1.5em' : '')">{{
+                  char
+                }}</span>
               </v-card-text>
             </v-card>
             <v-divider/>
@@ -73,6 +81,38 @@ import { GameData, useGameDataStore } from "@/stores/GameDataStore";
 import { useSaveStore } from "@/stores/SaveStore";
 
 const chars = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ä', 'Ö', 'Ü'];
+const headers: any = [
+  {
+    title: 'Id',
+    value: 'id',
+    align: 'center',
+  },
+  {
+    title: 'Tag',
+    value: 'tag',
+    align: 'left',
+  },
+  {
+    title: 'County',
+    value: 'county',
+    align: 'left',
+  },
+  {
+    title: 'Explanation',
+    value: 'explanation',
+    align: 'right'
+  },
+  {
+    title: 'State',
+    value: 'state',
+    align: 'right'
+  },
+  {
+    title: 'Seen',
+    value: 'seen',
+    align: 'right'
+  }
+]
 const available: Ref<Array<string>> = ref([]);
 
 const gameStore = storeToRefs(useGameDataStore());
