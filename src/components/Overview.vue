@@ -7,6 +7,9 @@
       <v-window-item value="1" class="h-100">
         <numberplate-search/>
       </v-window-item>
+      <v-window-item value="2" class="h-100">
+        <seen-statistics/>
+      </v-window-item>
     </v-window>
   </v-container>
 </template>
@@ -15,6 +18,7 @@
 import { ref } from "vue";
 import NumberplateGameStart from "@/components/numberplateGameStart.vue";
 import NumberplateSearch from "@/components/numberplateSearch.vue";
+import SeenStatistics from "@/components/seenStatistics.vue";
 
 const page = ref(0);
 </script>
