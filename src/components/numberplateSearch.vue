@@ -56,9 +56,9 @@
              :color="!available.includes(char) ? '' : 'grey-darken-3'" @click="input(char)">
         {{ char }}
       </v-btn>
-      <v-btn rounded width="5em" elevation="10" color="warning" icon="mdi-backspace" class="flex-grow-1"
+      <v-btn rounded elevation="10" color="warning" icon="mdi-backspace" class="flex-grow-1"
              @click="filter = filter.slice(0, -1)" size="30"
-             style="height: unset"/>
+             style="height: unset; min-width: 8em"/>
     </div>
     <div v-else class="d-flex flex-wrap align-stretch flex-grow-1 gc-4">
       <v-btn v-for="char in chars" :disabled="!available.includes(char)" :key="'char:' + char"
