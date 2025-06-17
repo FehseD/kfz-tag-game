@@ -15,11 +15,7 @@ export const useGameDataStore = defineStore("dataGameStore", {
   actions: {
     async loadGameData() {
       const res = await fetch('./data.json');
-      const data = await res.json();
-      data.forEach((gameData: GameData, index: number) => {
-        gameData.id = index;
-      });
-      this.data = data;
+      this.data = await res.json();
     },
   }
 });

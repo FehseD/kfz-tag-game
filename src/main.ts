@@ -4,6 +4,8 @@
  * Bootstraps Vuetify and other plugins then mounts the App`
  */
 
+import 'leaflet/dist/leaflet.css'
+
 // Plugins
 import { registerPlugins } from '@/plugins'
 // Components

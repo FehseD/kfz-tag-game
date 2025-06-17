@@ -1,3626 +1,5077 @@
-[{
-  "tag": "A",
-  "county": "Stadt Augsburg, Landkreis Augsburg",
-  "state": "Bayern",
-  "explanation": "Augsburg"
-}, {
-  "tag": "AA",
-  "county": "Ostalbkreis",
-  "state": "Baden-Württemberg",
-  "explanation": "AAlen"
-}, {
-  "tag": "AB",
-  "county": "Stadt Aschaffenburg, Landkreis Aschaffenburg",
-  "state": "Bayern",
-  "explanation": "AschaffenBurg"
-}, {
-  "tag": "ABG",
-  "county": "Landkreis Altenburger Land",
-  "state": "Thüringen",
-  "explanation": "AltenBurG"
-}, {
-  "tag": "ABI",
-  "county": "Landkreis Anhalt-Bitterfeld",
-  "state": "Sachsen-Anhalt",
-  "explanation": "Anhalt, BItterfeld"
-}, {
-  "tag": "AC",
-  "county": "Städteregion Aachen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "AaChen"
-}, {
-  "tag": "AE",
-  "county": "Vogtlandkreis",
-  "state": "Sachsen",
-  "explanation": "AuErbach"
-}, {
-  "tag": "AH",
-  "county": "Kreis Borken",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "AHaus"
-}, {
-  "tag": "AIB",
-  "county": "Landkreis München, Landkreis Rosenheim",
-  "state": "Bayern",
-  "explanation": "AIBling"
-}, {
-  "tag": "AIC",
-  "county": "Landkreis Aichach-Friedberg",
-  "state": "Bayern",
-  "explanation": "AIChach"
-}, {
-  "tag": "AK",
-  "county": "Landkreis Altenkirchen (Westerwald)",
-  "state": "Rheinland-Pfalz",
-  "explanation": "AltenKirchen"
-}, {
-  "tag": "ALF",
-  "county": "Landkreis Hildesheim",
-  "state": "Niedersachsen",
-  "explanation": "ALFeld"
-}, {
-  "tag": "ALZ",
-  "county": "Landkreis Aschaffenburg",
-  "state": "Bayern",
-  "explanation": "ALZenau"
-}, {
-  "tag": "AM",
-  "county": "Stadt Amberg",
-  "state": "Bayern",
-  "explanation": "AMberg"
-}, {
-  "tag": "AN",
-  "county": "Stadt Ansbach, Landkreis Ansbach",
-  "state": "Bayern",
-  "explanation": "ANsbach"
-}, {
-  "tag": "ANA",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "ANnAberg"
-}, {
-  "tag": "ANG",
-  "county": "Landkreis Uckermark",
-  "state": "Brandenburg",
-  "explanation": "ANGermünde"
-}, {
-  "tag": "ANK",
-  "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "ANKlam"
-}, {
-  "tag": "AÖ",
-  "county": "Landkreis Altötting",
-  "state": "Bayern",
-  "explanation": "AltÖtting"
-}, {
-  "tag": "AP",
-  "county": "Landkreis Weimarer Land",
-  "state": "Thüringen",
-  "explanation": "APolda"
-}, {
-  "tag": "APD",
-  "county": "Landkreis Weimarer Land",
-  "state": "Thüringen",
-  "explanation": "APolDa"
-}, {
-  "tag": "ARN",
-  "county": "Ilm-Kreis",
-  "state": "Thüringen",
-  "explanation": "ARNstadt"
-}, {
-  "tag": "ART",
-  "county": "Kyffhäuserkreis",
-  "state": "Thüringen",
-  "explanation": "ARTern"
-}, {
-  "tag": "AS",
-  "county": "Landkreis Amberg-Sulzbach",
-  "state": "Bayern",
-  "explanation": "Amberg, Sulzbach"
-}, {
-  "tag": "ASL",
-  "county": "Salzlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "ASchersLeben"
-}, {
-  "tag": "ASZ",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "Aue, SchwarZenberg"
-}, {
-  "tag": "AT",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "AltenTreptow"
-}, {
-  "tag": "AU",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "AUe"
-}, {
-  "tag": "AUR",
-  "county": "Landkreis Aurich",
-  "state": "Niedersachsen",
-  "explanation": "AURich"
-}, {
-  "tag": "AW",
-  "county": "Landkreis Ahrweiler",
-  "state": "Rheinland-Pfalz",
-  "explanation": "AhrWeiler"
-}, {
-  "tag": "AZ",
-  "county": "Landkreis Alzey-Worms",
-  "state": "Rheinland-Pfalz",
-  "explanation": "AlZey"
-}, {
-  "tag": "AZE",
-  "county": "Landkreis Anhalt-Bitterfeld",
-  "state": "Sachsen-Anhalt",
-  "explanation": "Anhalt-ZErbst"
-}, {
-  "tag": "B",
-  "county": "Berlin",
-  "state": "Berlin",
-  "explanation": "Berlin"
-}, {
-  "tag": "BA",
-  "county": "Stadt Bamberg, Landkreis Bamberg",
-  "state": "Bayern",
-  "explanation": "BAmberg"
-}, {
-  "tag": "BAD",
-  "county": "Stadt Baden-Baden",
-  "state": "Baden-Württemberg",
-  "explanation": "BADen-Baden"
-}, {
-  "tag": "BAR",
-  "county": "Landkreis Barnim",
-  "state": "Brandenburg",
-  "explanation": "BARnim"
-}, {
-  "tag": "BB",
-  "county": "Landkreis Böblingen",
-  "state": "Baden-Württemberg",
-  "explanation": "BöBlingen"
-}, {
-  "tag": "BBG",
-  "county": "Salzlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "BernBurG"
-}, {
-  "tag": "BBL",
-  "county": "Brandenburg, Landesregierung, Landtag und Polizei",
-  "state": "Brandenburg",
-  "explanation": "BrandenBurgische Landesregierung"
-}, {
-  "tag": "BC",
-  "county": "Landkreis Biberach",
-  "state": "Baden-Württemberg",
-  "explanation": "BiberaCh"
-}, {
-  "tag": "BCH",
-  "county": "Neckar-Odenwald-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "BuCHen"
-}, {
-  "tag": "BD",
-  "county": "Deutscher Bundestag, Bundesrat, Bundespräsidialamt, Bundesregierung, Bundesministerien, Bundesfinanzverwaltung und Bundesverfassungsgericht",
-  "state": "bundesweit",
-  "explanation": "BundesDienst"
-}, {
-  "tag": "BE",
-  "county": "Kreis Warendorf",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BEckum"
-}, {
-  "tag": "BED",
-  "county": "Landkreis Mittelsachsen",
-  "state": "Sachsen",
-  "explanation": "Brand-ErbisDorf"
-}, {
-  "tag": "BER",
-  "county": "Landkreis Barnim",
-  "state": "Brandenburg",
-  "explanation": "BERnau"
-}, {
-  "tag": "BF",
-  "county": "Kreis Steinfurt",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BurgsteinFurt"
-}, {
-  "tag": "BGD",
-  "county": "Landkreis Berchtesgadener Land",
-  "state": "Bayern",
-  "explanation": "BerchtesGaDen"
-}, {
-  "tag": "BGL",
-  "county": "Landkreis Berchtesgadener Land",
-  "state": "Bayern",
-  "explanation": "BerchtesGadener Land"
-}, {
-  "tag": "BH",
-  "county": "Ortenaukreis, Landkreis Rastatt",
-  "state": "Baden-Württemberg",
-  "explanation": "BüHl"
-}, {
-  "tag": "BI",
-  "county": "Stadt Bielefeld",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BIelefeld"
-}, {
-  "tag": "BID",
-  "county": "Landkreis Marburg-Biedenkopf",
-  "state": "Hessen",
-  "explanation": "BIeDenkopf"
-}, {
-  "tag": "BIN",
-  "county": "Landkreis Mainz-Bingen",
-  "state": "Rheinland-Pfalz",
-  "explanation": "BINgen"
-}, {
-  "tag": "BIR",
-  "county": "Landkreis Birkenfeld",
-  "state": "Rheinland-Pfalz",
-  "explanation": "BIRkenfeld"
-}, {
-  "tag": "BIT",
-  "county": "Eifelkreis Bitburg-Prüm",
-  "state": "Rheinland-Pfalz",
-  "explanation": "BITburg"
-}, {
-  "tag": "BIW",
-  "county": "Landkreis Bautzen",
-  "state": "Sachsen",
-  "explanation": "BIschofsWerda"
-}, {
-  "tag": "BK",
-  "county": "Landkreis Backnang",
-  "state": "Baden-Württemberg",
-  "explanation": "BacKnang"
-}, {
-  "tag": "BKS",
-  "county": "Landkreis Bernkastel-Wittlich",
-  "state": "Rheinland-Pfalz",
-  "explanation": "BernKaStel"
-}, {
-  "tag": "BL",
-  "county": "Zollernalbkreis",
-  "state": "Baden-Württemberg",
-  "explanation": "BaLingen"
-}, {
-  "tag": "BLB",
-  "county": "Kreis Siegen-Wittgenstein",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BerLeBurg"
-}, {
-  "tag": "BLK",
-  "county": "Burgenlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "BurgenLandKreis"
-}, {
-  "tag": "BM",
-  "county": "Rhein-Erft-Kreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BergheiM"
-}, {
-  "tag": "BN",
-  "county": "Stadt Bonn, Diplomaten",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BonN"
-}, {
-  "tag": "BNA",
-  "county": "Landkreis Leipzig",
-  "state": "Sachsen",
-  "explanation": "BorNA"
-}, {
-  "tag": "BO",
-  "county": "Stadt Bochum",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BOchum"
-}, {
-  "tag": "BÖ",
-  "county": "Landkreis Börde",
-  "state": "Sachsen-Anhalt",
-  "explanation": "BÖrde"
-}, {
-  "tag": "BOG",
-  "county": "Landkreis Straubing-Bogen",
-  "state": "Bayern",
-  "explanation": "BOGen"
-}, {
-  "tag": "BOH",
-  "county": "Kreis Borken",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BOcHolt"
-}, {
-  "tag": "BOR",
-  "county": "Kreis Borken",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BORken"
-}, {
-  "tag": "BOT",
-  "county": "Stadt Bottrop",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BOTtrop"
-}, {
-  "tag": "BP",
-  "county": "Bundespolizei",
-  "state": "bundesweit",
-  "explanation": "BundesPolizei"
-}, {
-  "tag": "BRA",
-  "county": "Landkreis Wesermarsch",
-  "state": "Niedersachsen",
-  "explanation": "BRAke"
-}, {
-  "tag": "BRB",
-  "county": "Stadt Brandenburg an der Havel",
-  "state": "Brandenburg",
-  "explanation": "BRandenBurg"
-}, {
-  "tag": "BRG",
-  "county": "Landkreis Jerichower Land",
-  "state": "Sachsen-Anhalt",
-  "explanation": "BuRG"
-}, {
-  "tag": "BRK",
-  "county": "Landkreis Bad Kissingen",
-  "state": "Bayern",
-  "explanation": "BRücKenau"
-}, {
-  "tag": "BRL",
-  "county": "Landkreis Goslar",
-  "state": "Niedersachsen",
-  "explanation": "BRaunLage"
-}, {
-  "tag": "BRV",
-  "county": "Landkreis Rotenburg (Wümme)",
-  "state": "Niedersachsen",
-  "explanation": "BRemerVörde"
-}, {
-  "tag": "BS",
-  "county": "Stadt Braunschweig, Polizeidirektion Braunschweig",
-  "state": "Niedersachsen",
-  "explanation": "BraunSchweig"
-}, {
-  "tag": "BSB",
-  "county": "Landkreis Osnabrück",
-  "state": "Niedersachsen",
-  "explanation": "BerSenBrück"
-}, {
-  "tag": "BSK",
-  "county": "Landkreis Oder-Spree",
-  "state": "Brandenburg",
-  "explanation": "BeeSKow"
-}, {
-  "tag": "BT",
-  "county": "Stadt Bayreuth, Landkreis Bayreuth",
-  "state": "Bayern",
-  "explanation": "BayreuTh"
-}, {
-  "tag": "BTF",
-  "county": "Landkreis Anhalt-Bitterfeld",
-  "state": "Sachsen-Anhalt",
-  "explanation": "BitTerFeld"
-}, {
-  "tag": "BÜD",
-  "county": "Wetteraukreis",
-  "state": "Hessen",
-  "explanation": "BÜDingen"
-}, {
-  "tag": "BUL",
-  "county": "Landkreis Amberg-Sulzbach, Landkreis Schwandorf",
-  "state": "Bayern",
-  "explanation": "BUrgLengenfeld"
-}, {
-  "tag": "BÜR",
-  "county": "Kreis Paderborn",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "BÜRen"
-}, {
-  "tag": "BÜS",
-  "county": "Gemeinde Büsingen am Hochrhein (Gemeinde im Landkreis Konstanz, deutsche Exklave in der Schweiz)",
-  "state": "Baden-Württemberg",
-  "explanation": "BÜSingen"
-}, {
-  "tag": "BÜZ",
-  "county": "Landkreis Rostock",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "BÜtZow"
-}, {
-  "tag": "BW",
-  "county": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
-  "state": "bundesweit",
-  "explanation": "Bundes-Wasserstraßen- und Schifffahrtsverwaltung"
-}, {
-  "tag": "BWL",
-  "county": "Baden-Württemberg, Landesregierung, Landtag und Polizei",
-  "state": "Baden-Württemberg",
-  "explanation": "Baden-Württembergischer Landtag"
-}, {
-  "tag": "BYL",
-  "county": "Bayern, Landesregierung und Landtag",
-  "state": "Bayern",
-  "explanation": "BaYerischer Landtag"
-}, {
-  "tag": "BZ",
-  "county": "Landkreis Bautzen",
-  "state": "Sachsen",
-  "explanation": "BautZen"
-}, {
-  "tag": "C",
-  "county": "Stadt Chemnitz",
-  "state": "Sachsen",
-  "explanation": "Chemnitz"
-}, {
-  "tag": "CA",
-  "county": "Landkreis Oberspreewald-Lausitz",
-  "state": "Brandenburg",
-  "explanation": "CAlau"
-}, {
-  "tag": "CAS",
-  "county": "Kreis Recklinghausen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "CAStrop"
-}, {
-  "tag": "CB",
-  "county": "Stadt Cottbus",
-  "state": "Brandenburg",
-  "explanation": "CottBus"
-}, {
-  "tag": "CE",
-  "county": "Landkreis Celle",
-  "state": "Niedersachsen",
-  "explanation": "CElle"
-}, {
-  "tag": "CHA",
-  "county": "Landkreis Cham",
-  "state": "Bayern",
-  "explanation": "CHAm"
-}, {
-  "tag": "CLP",
-  "county": "Landkreis Cloppenburg",
-  "state": "Niedersachsen",
-  "explanation": "CLopPenburg"
-}, {
-  "tag": "CLZ",
-  "county": "Landkreis Goslar",
-  "state": "Niedersachsen",
-  "explanation": "CLausthal-Zellerfeld"
-}, {
-  "tag": "CO",
-  "county": "Stadt Coburg und Landkreis Coburg",
-  "state": "Bayern",
-  "explanation": "COburg"
-}, {
-  "tag": "COC",
-  "county": "Landkreis Cochem-Zell",
-  "state": "Rheinland-Pfalz",
-  "explanation": "COChem"
-}, {
-  "tag": "COE",
-  "county": "Kreis Coesfeld",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "COEsfeld"
-}, {
-  "tag": "CR",
-  "county": "Landkreis Schwäbisch Hall",
-  "state": "Baden-Württemberg",
-  "explanation": "CRailsheim"
-}, {
-  "tag": "CUX",
-  "county": "Landkreis Cuxhaven",
-  "state": "Niedersachsen",
-  "explanation": "CUXhaven"
-}, {
-  "tag": "CW",
-  "county": "Landkreis Calw",
-  "state": "Baden-Württemberg",
-  "explanation": "CalW"
-}, {
-  "tag": "D",
-  "county": "Stadt Düsseldorf",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "Düsseldorf"
-}, {
-  "tag": "DA",
-  "county": "Landkreis Darmstadt-Dieburg und Stadt Darmstadt",
-  "state": "Hessen",
-  "explanation": "DArmstadt"
-}, {
-  "tag": "DAH",
-  "county": "Landkreis Dachau",
-  "state": "Bayern",
-  "explanation": "DAcHau"
-}, {
-  "tag": "DAN",
-  "county": "Landkreis Lüchow-Dannenberg",
-  "state": "Niedersachsen",
-  "explanation": "DANnenberg"
-}, {
-  "tag": "DAU",
-  "county": "Landkreis Vulkaneifel",
-  "state": "Rheinland-Pfalz",
-  "explanation": "DAUn"
-}, {
-  "tag": "DBR",
-  "county": "Landkreis Rostock",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "DoBeRan"
-}, {
-  "tag": "DD",
-  "county": "Stadt Dresden, Polizei Sachsen",
-  "state": "Sachsen",
-  "explanation": "DresDen"
-}, {
-  "tag": "DE",
-  "county": "Stadt Dessau-Roßlau",
-  "state": "Sachsen-Anhalt",
-  "explanation": "DEssau"
-}, {
-  "tag": "DEG",
-  "county": "Landkreis Deggendorf",
-  "state": "Bayern",
-  "explanation": "DEGgendorf"
-}, {
-  "tag": "DEL",
-  "county": "Stadt Delmenhorst",
-  "state": "Niedersachsen",
-  "explanation": "DELmenhorst"
-}, {
-  "tag": "DGF",
-  "county": "Landkreis Dingolfing-Landau",
-  "state": "Bayern",
-  "explanation": "DinGolFing"
-}, {
-  "tag": "DH",
-  "county": "Landkreis Diepholz",
-  "state": "Niedersachsen",
-  "explanation": "DiepHolz"
-}, {
-  "tag": "DI",
-  "county": "Landkreis Darmstadt-Dieburg",
-  "state": "Hessen",
-  "explanation": "DIeburg"
-}, {
-  "tag": "DIL",
-  "county": "Lahn-Dill-Kreis ohne die Stadt Wetzlar",
-  "state": "Hessen",
-  "explanation": "DILlenburg"
-}, {
-  "tag": "DIN",
-  "county": "Kreis Wesel",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "DINslaken"
-}, {
-  "tag": "DIZ",
-  "county": "Rhein-Lahn-Kreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "DIeZ"
-}, {
-  "tag": "DKB",
-  "county": "Landkreis Ansbach",
-  "state": "Bayern",
-  "explanation": "DinKelsBühl"
-}, {
-  "tag": "DL",
-  "county": "Landkreis Mittelsachsen",
-  "state": "Sachsen",
-  "explanation": "DöbeLn"
-}, {
-  "tag": "DLG",
-  "county": "Landkreis Dillingen an der Donau",
-  "state": "Bayern",
-  "explanation": "DilLinGen"
-}, {
-  "tag": "DM",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "DemMin"
-}, {
-  "tag": "DN",
-  "county": "Kreis Düren",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "DüreN"
-}, {
-  "tag": "DO",
-  "county": "Stadt Dortmund",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "DOrtmund"
-}, {
-  "tag": "DON",
-  "county": "Landkreis Donau-Ries",
-  "state": "Bayern",
-  "explanation": "DONauwörth"
-}, {
-  "tag": "DU",
-  "county": "Stadt Duisburg",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "DUisburg"
-}, {
-  "tag": "DUD",
-  "county": "Landkreis Göttingen ohne die Stadt Göttingen",
-  "state": "Niedersachsen",
-  "explanation": "DUDerstadt"
-}, {
-  "tag": "DÜW",
-  "county": "Landkreis Bad Dürkheim",
-  "state": "Rheinland-Pfalz",
-  "explanation": "DÜrkheim an der Weinstraße"
-}, {
-  "tag": "DW",
-  "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
-  "state": "Sachsen",
-  "explanation": "DippoldisWalde"
-}, {
-  "tag": "DZ",
-  "county": "Landkreis Nordsachsen",
-  "state": "Sachsen",
-  "explanation": "DelitZsch"
-}, {
-  "tag": "E",
-  "county": "Stadt Essen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "Essen"
-}, {
-  "tag": "EA",
-  "county": "Stadt Eisenach",
-  "state": "Thüringen",
-  "explanation": "EisenAch"
-}, {
-  "tag": "EB",
-  "county": "Landkreis Nordsachsen",
-  "state": "Sachsen",
-  "explanation": "EilenBurg"
-}, {
-  "tag": "EBE",
-  "county": "Landkreis Ebersberg",
-  "state": "Bayern",
-  "explanation": "EBErsberg"
-}, {
-  "tag": "EBN",
-  "county": "Landkreis Haßberge",
-  "state": "Bayern",
-  "explanation": "EBerN"
-}, {
-  "tag": "EBS",
-  "county": "Landkreis Forchheim, Landkreis Kulmbach, Landkreis Bayreuth",
-  "state": "Bayern",
-  "explanation": "EBermannStadt"
-}, {
-  "tag": "ECK",
-  "county": "Kreis Rendsburg-Eckernförde",
-  "state": "Schleswig-Holstein",
-  "explanation": "ECKernförde"
-}, {
-  "tag": "ED",
-  "county": "Landkreis Erding",
-  "state": "Bayern",
-  "explanation": "ErDing"
-}, {
-  "tag": "EE",
-  "county": "Landkreis Elbe-Elster",
-  "state": "Brandenburg",
-  "explanation": "Elbe, Elster"
-}, {
-  "tag": "EF",
-  "county": "Stadt Erfurt",
-  "state": "Thüringen",
-  "explanation": "ErFurt"
-}, {
-  "tag": "EG",
-  "county": "Landkreis Rottal-Inn",
-  "state": "Bayern",
-  "explanation": "EGgenfelden"
-}, {
-  "tag": "EH",
-  "county": "Landkreis Oder-Spree",
-  "state": "Brandenburg",
-  "explanation": "EisenHüttenstadt"
-}, {
-  "tag": "EI",
-  "county": "Landkreis Eichstätt",
-  "state": "Bayern",
-  "explanation": "EIchstätt"
-}, {
-  "tag": "EIC",
-  "county": "Landkreis Eichsfeld",
-  "state": "Thüringen",
-  "explanation": "EIChsfeld"
-}, {
-  "tag": "EIL",
-  "county": "Landkreis Mansfeld-Südharz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "EIsLeben"
-}, {
-  "tag": "EIN",
-  "county": "Landkreis Northeim",
-  "state": "Niedersachsen",
-  "explanation": "EINbeck"
-}, {
-  "tag": "EIS",
-  "county": "Saale-Holzland-Kreis",
-  "state": "Thüringen",
-  "explanation": "EISenberg"
-}, {
-  "tag": "EL",
-  "county": "Landkreis Emsland",
-  "state": "Niedersachsen",
-  "explanation": "EmsLand"
-}, {
-  "tag": "EM",
-  "county": "Landkreis Emmendingen",
-  "state": "Baden-Württemberg",
-  "explanation": "EMmendingen"
-}, {
-  "tag": "EMD",
-  "county": "Stadt Emden",
-  "state": "Niedersachsen",
-  "explanation": "EMDen"
-}, {
-  "tag": "EMS",
-  "county": "Rhein-Lahn-Kreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "EMS"
-}, {
-  "tag": "EN",
-  "county": "Ennepe-Ruhr-Kreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "ENnepe"
-}, {
-  "tag": "ER",
-  "county": "Stadt Erlangen",
-  "state": "Bayern",
-  "explanation": "ERlangen"
-}, {
-  "tag": "ERB",
-  "county": "Odenwaldkreis",
-  "state": "Hessen",
-  "explanation": "ERBach"
-}, {
-  "tag": "ERH",
-  "county": "Landkreis Erlangen-Höchstadt",
-  "state": "Bayern",
-  "explanation": "ERlangen, Höchstadt"
-}, {
-  "tag": "ERK",
-  "county": "Kreis Heinsberg",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "ERKelenz"
-}, {
-  "tag": "ERZ",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "ERZgebirge"
-}, {
-  "tag": "ES",
-  "county": "Landkreis Esslingen",
-  "state": "Baden-Württemberg",
-  "explanation": "ESslingen"
-}, {
-  "tag": "ESB",
-  "county": "Landkreis Neustadt an der Waldnaab, Landkreis Amberg-Sulzbach, Landkreis Bayreuth, Landkreis Nürnberger Land",
-  "state": "Bayern",
-  "explanation": "ESchenBach"
-}, {
-  "tag": "ESW",
-  "county": "Werra-Meißner-Kreis",
-  "state": "Hessen",
-  "explanation": "ESchWege"
-}, {
-  "tag": "EU",
-  "county": "Kreis Euskirchen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "EUskirchen"
-}, {
-  "tag": "EW",
-  "county": "Landkreis Barnim",
-  "state": "Brandenburg",
-  "explanation": "EbersWalde"
-}, {
-  "tag": "F",
-  "county": "Stadt Frankfurt am Main",
-  "state": "Hessen",
-  "explanation": "Frankfurt"
-}, {
-  "tag": "FB",
-  "county": "Wetteraukreis",
-  "state": "Hessen",
-  "explanation": "FriedBerg"
-}, {
-  "tag": "FD",
-  "county": "Landkreis Fulda",
-  "state": "Hessen",
-  "explanation": "FulDa"
-}, {
-  "tag": "FDB",
-  "county": "Landkreis Aichach-Friedberg",
-  "state": "Bayern",
-  "explanation": "FrieDBerg"
-}, {
-  "tag": "FDS",
-  "county": "Landkreis Freudenstadt",
-  "state": "Baden-Württemberg",
-  "explanation": "FreuDenStadt"
-}, {
-  "tag": "FEU",
-  "county": "Landkreis Ansbach",
-  "state": "Bayern",
-  "explanation": "FEUchtwangen"
-}, {
-  "tag": "FF",
-  "county": "Stadt Frankfurt (Oder)",
-  "state": "Brandenburg",
-  "explanation": "FrankFurt"
-}, {
-  "tag": "FFB",
-  "county": "Landkreis Fürstenfeldbruck",
-  "state": "Bayern",
-  "explanation": "FürstenFeldBruck"
-}, {
-  "tag": "FG",
-  "county": "Landkreis Mittelsachsen",
-  "state": "Sachsen",
-  "explanation": "FreiberG"
-}, {
-  "tag": "FI",
-  "county": "Landkreis Elbe-Elster",
-  "state": "Brandenburg",
-  "explanation": "FInsterwalde"
-}, {
-  "tag": "FKB",
-  "county": "Landkreis Waldeck-Frankenberg",
-  "state": "Hessen",
-  "explanation": "FranKenBerg"
-}, {
-  "tag": "FL",
-  "county": "Stadt Flensburg",
-  "state": "Schleswig-Holstein",
-  "explanation": "FLensburg"
-}, {
-  "tag": "FLÖ",
-  "county": "Landkreis Mittelsachsen",
-  "state": "Sachsen",
-  "explanation": "FLÖha"
-}, {
-  "tag": "FN",
-  "county": "Bodenseekreis",
-  "state": "Baden-Württemberg",
-  "explanation": "FriedrichshafeN"
-}, {
-  "tag": "FO",
-  "county": "Landkreis Forchheim",
-  "state": "Bayern",
-  "explanation": "FOrchheim"
-}, {
-  "tag": "FOR",
-  "county": "Landkreis Spree-Neiße",
-  "state": "Brandenburg",
-  "explanation": "FORst"
-}, {
-  "tag": "FR",
-  "county": "Landkreis Breisgau-Hochschwarzwald, Stadt Freiburg im Breisgau",
-  "state": "Baden-Württemberg",
-  "explanation": "FReiburg"
-}, {
-  "tag": "FRG",
-  "county": "Landkreis Freyung-Grafenau",
-  "state": "Bayern",
-  "explanation": "FReyung, Grafenau"
-}, {
-  "tag": "FRI",
-  "county": "Landkreis Friesland",
-  "state": "Niedersachsen",
-  "explanation": "FRIesland"
-}, {
-  "tag": "FRW",
-  "county": "Landkreis Märkisch-Oderland",
-  "state": "Brandenburg",
-  "explanation": "FReienWalde"
-}, {
-  "tag": "FS",
-  "county": "Landkreis Freising",
-  "state": "Bayern",
-  "explanation": "FreiSing"
-}, {
-  "tag": "FT",
-  "county": "Stadt Frankenthal (Pfalz)",
-  "state": "Rheinland-Pfalz",
-  "explanation": "FrankenThal"
-}, {
-  "tag": "FTL",
-  "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
-  "state": "Sachsen",
-  "explanation": "FreiTaL"
-}, {
-  "tag": "FÜ",
-  "county": "Landkreis Fürth, Stadt Fürth",
-  "state": "Bayern",
-  "explanation": "FÜrth"
-}, {
-  "tag": "FÜS",
-  "county": "Landkreis Ostallgäu",
-  "state": "Bayern",
-  "explanation": "FÜSsen"
-}, {
-  "tag": "FW",
-  "county": "Landkreis Oder-Spree",
-  "state": "Brandenburg",
-  "explanation": "FürstenWalde"
-}, {
-  "tag": "FZ",
-  "county": "Schwalm-Eder-Kreis",
-  "state": "Hessen",
-  "explanation": "FritZlar"
-}, {
-  "tag": "G",
-  "county": "Stadt Gera",
-  "state": "Thüringen",
-  "explanation": "Gera"
-}, {
-  "tag": "GA",
-  "county": "Altmarkkreis Salzwedel",
-  "state": "Sachsen-Anhalt",
-  "explanation": "GArdelegen"
-}, {
-  "tag": "GAN",
-  "county": "Landkreis Northeim",
-  "state": "Niedersachsen",
-  "explanation": "GANdersheim"
-}, {
-  "tag": "GAP",
-  "county": "Landkreis Garmisch-Partenkirchen",
-  "state": "Bayern",
-  "explanation": "GArmisch-Partenkirchen"
-}, {
-  "tag": "GC",
-  "county": "Landkreis Zwickau",
-  "state": "Sachsen",
-  "explanation": "GlauChau"
-}, {
-  "tag": "GD",
-  "county": "Ostalbkreis",
-  "state": "Baden-Württemberg",
-  "explanation": "GmünD"
-}, {
-  "tag": "GDB",
-  "county": "Landkreis Nordwestmecklenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "GaDeBusch"
-}, {
-  "tag": "GE",
-  "county": "Stadt Gelsenkirchen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GElsenkirchen"
-}, {
-  "tag": "GEL",
-  "county": "Kreis Kleve",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GELdern"
-}, {
-  "tag": "GEO",
-  "county": "Landkreis Schweinfurt, Landkreis Haßberge",
-  "state": "Bayern",
-  "explanation": "GErOlzhofen"
-}, {
-  "tag": "GER",
-  "county": "Landkreis Germersheim",
-  "state": "Rheinland-Pfalz",
-  "explanation": "GERmersheim"
-}, {
-  "tag": "GF",
-  "county": "Landkreis Gifhorn",
-  "state": "Niedersachsen",
-  "explanation": "GiFhorn"
-}, {
-  "tag": "GG",
-  "county": "Kreis Groß-Gerau",
-  "state": "Hessen",
-  "explanation": "Groß-Gerau"
-}, {
-  "tag": "GHA",
-  "county": "Landkreis Leipzig",
-  "state": "Sachsen",
-  "explanation": "GeitHAin"
-}, {
-  "tag": "GHC",
-  "county": "Landkreis Wittenberg",
-  "state": "Sachsen-Anhalt",
-  "explanation": "GräfenHainiChen"
-}, {
-  "tag": "GI",
-  "county": "Landkreis Gießen",
-  "state": "Hessen",
-  "explanation": "GIeßen"
-}, {
-  "tag": "GK",
-  "county": "Kreis Heinsberg",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GeilenKirchen"
-}, {
-  "tag": "GL",
-  "county": "Rheinisch-Bergischer Kreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GLadbach"
-}, {
-  "tag": "GLA",
-  "county": "Kreis Recklinghausen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GLAdbeck"
-}, {
-  "tag": "GM",
-  "county": "Oberbergischer Kreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GumMersbach"
-}, {
-  "tag": "GMN",
-  "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "GrimMeN"
-}, {
-  "tag": "GN",
-  "county": "Main-Kinzig-Kreis ohne die Stadt Hanau",
-  "state": "Hessen",
-  "explanation": "GelnhauseN"
-}, {
-  "tag": "GNT",
-  "county": "Landkreis Jerichower Land",
-  "state": "Sachsen-Anhalt",
-  "explanation": "GeNThin"
-}, {
-  "tag": "GÖ",
-  "county": "Landkreis Göttingen, Stadt Göttingen",
-  "state": "Niedersachsen",
-  "explanation": "GÖttingen"
-}, {
-  "tag": "GOA",
-  "county": "Rhein-Hunsrück-Kreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "GOAr"
-}, {
-  "tag": "GOH",
-  "county": "Rhein-Lahn-Kreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "GOarsHausen"
-}, {
-  "tag": "GP",
-  "county": "Landkreis Göppingen",
-  "state": "Baden-Württemberg",
-  "explanation": "GöpPingen"
-}, {
-  "tag": "GR",
-  "county": "Landkreis Görlitz",
-  "state": "Sachsen",
-  "explanation": "GöRlitz"
-}, {
-  "tag": "GRA",
-  "county": "Landkreis Freyung-Grafenau",
-  "state": "Bayern",
-  "explanation": "GRAfenau"
-}, {
-  "tag": "GRH",
-  "county": "Landkreis Meißen",
-  "state": "Sachsen",
-  "explanation": "GRoßenHain"
-}, {
-  "tag": "GRI",
-  "county": "Landkreis Rottal-Inn",
-  "state": "Bayern",
-  "explanation": "GRIesbach"
-}, {
-  "tag": "GRM",
-  "county": "Landkreis Leipzig",
-  "state": "Sachsen",
-  "explanation": "GRimMa"
-}, {
-  "tag": "GRZ",
-  "county": "Landkreis Greiz",
-  "state": "Thüringen",
-  "explanation": "GReiZ"
-}, {
-  "tag": "GS",
-  "county": "Landkreis Goslar",
-  "state": "Niedersachsen",
-  "explanation": "GoSlar"
-}, {
-  "tag": "GT",
-  "county": "Kreis Gütersloh",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GüTersloh"
-}, {
-  "tag": "GTH",
-  "county": "Landkreis Gotha",
-  "state": "Thüringen",
-  "explanation": "GoTHa"
-}, {
-  "tag": "GÜ",
-  "county": "Landkreis Rostock",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "GÜstrow"
-}, {
-  "tag": "GUB",
-  "county": "Landkreis Spree-Neiße",
-  "state": "Brandenburg",
-  "explanation": "GUBen"
-}, {
-  "tag": "GUN",
-  "county": "Landkreis Weißenburg-Gunzenhausen",
-  "state": "Bayern",
-  "explanation": "GUNzenhausen"
-}, {
-  "tag": "GV",
-  "county": "Rhein-Kreis Neuss",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "GreVenbroich"
-}, {
-  "tag": "GVM",
-  "county": "Landkreis Nordwestmecklenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "GreVesMühlen"
-}, {
-  "tag": "GW",
-  "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "GreifsWald"
-}, {
-  "tag": "GZ",
-  "county": "Landkreis Günzburg",
-  "state": "Bayern",
-  "explanation": "GünZburg"
-}, {
-  "tag": "H",
-  "county": "Region Hannover",
-  "state": "Niedersachsen",
-  "explanation": "Hannover"
-}, {
-  "tag": "HA",
-  "county": "Stadt Hagen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "HAgen"
-}, {
-  "tag": "HAB",
-  "county": "Landkreis Bad Kissingen",
-  "state": "Bayern",
-  "explanation": "HAmmelBurg"
-}, {
-  "tag": "HAL",
-  "county": "Stadt Halle (Saale)",
-  "state": "Sachsen-Anhalt",
-  "explanation": "HALle"
-}, {
-  "tag": "HAM",
-  "county": "Stadt Hamm",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "HAMm"
-}, {
-  "tag": "HAS",
-  "county": "Landkreis Haßberge",
-  "state": "Bayern",
-  "explanation": "HASsfurt"
-}, {
-  "tag": "HB",
-  "county": "Stadt Bremen, Senat und Bürgerschaft, Stadt Bremerhaven",
-  "state": "Bremen",
-  "explanation": "Hansestadt Bremen"
-}, {
-  "tag": "HBN",
-  "county": "Landkreis Hildburghausen",
-  "state": "Thüringen",
-  "explanation": "HildBurghauseN"
-}, {
-  "tag": "HBS",
-  "county": "Landkreis Harz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "HalBerStadt"
-}, {
-  "tag": "HC",
-  "county": "Landkreis Mittelsachsen",
-  "state": "Sachsen",
-  "explanation": "HainiChen"
-}, {
-  "tag": "HCH",
-  "county": "Zollernalbkreis, Landkreis Freudenstadt",
-  "state": "Baden-Württemberg",
-  "explanation": "HeCHingen"
-}, {
-  "tag": "HD",
-  "county": "Stadt Heidelberg, Rhein-Neckar-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "HeiDelberg"
-}, {
-  "tag": "HDH",
-  "county": "Landkreis Heidenheim",
-  "state": "Baden-Württemberg",
-  "explanation": "HeiDenHeim"
-}, {
-  "tag": "HDL",
-  "county": "Landkreis Börde",
-  "state": "Sachsen-Anhalt",
-  "explanation": "HalDensLeben"
-}, {
-  "tag": "HE",
-  "county": "Landkreis Helmstedt",
-  "state": "Niedersachsen",
-  "explanation": "HElmstedt"
-}, {
-  "tag": "HEB",
-  "county": "Landkreis Nürnberger Land",
-  "state": "Bayern",
-  "explanation": "HErsBruck"
-}, {
-  "tag": "HEF",
-  "county": "Landkreis Hersfeld-Rotenburg",
-  "state": "Hessen",
-  "explanation": "HErsFeld"
-}, {
-  "tag": "HEI",
-  "county": "Kreis Dithmarschen",
-  "state": "Schleswig-Holstein",
-  "explanation": "HEIde"
-}, {
-  "tag": "HEL",
-  "county": "Hessen, Landesregierung und Landtag",
-  "state": "Hessen",
-  "explanation": "HEssischer Landtag"
-}, {
-  "tag": "HER",
-  "county": "Stadt Herne",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "HERne"
-}, {
-  "tag": "HET",
-  "county": "Landkreis Mansfeld-Südharz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "HETtstedt"
-}, {
-  "tag": "HF",
-  "county": "Kreis Herford",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "HerFord"
-}, {
-  "tag": "HG",
-  "county": "Hochtaunuskreis",
-  "state": "Hessen",
-  "explanation": "HomburG"
-}, {
-  "tag": "HGN",
-  "county": "Landkreis Ludwigslust-Parchim",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "HaGeNow"
-}, {
-  "tag": "HGW",
-  "county": "Stadt Greifswald (große kreisangehörige Stadt im Landkreis Vorpommern-Greifswald)",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Hansestadt GreifsWald"
-}, {
-  "tag": "HH",
-  "county": "Freie und Hansestadt Hamburg, Senat und Bürgerschaft",
-  "state": "Hamburg",
-  "explanation": "Hansestadt Hamburg"
-}, {
-  "tag": "HHM",
-  "county": "Burgenlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "HoHenMölsen"
-}, {
-  "tag": "HI",
-  "county": "Landkreis Hildesheim",
-  "state": "Niedersachsen",
-  "explanation": "HIldesheim"
-}, {
-  "tag": "HIG",
-  "county": "Landkreis Eichsfeld",
-  "state": "Thüringen",
-  "explanation": "HeilIGenstadt"
-}, {
-  "tag": "HIP",
-  "county": "Landkreis Roth",
-  "state": "Bayern",
-  "explanation": "HIlPoltstein"
-}, {
-  "tag": "HK",
-  "county": "Landkreis Heidekreis",
-  "state": "Niedersachsen",
-  "explanation": "HeideKreis"
-}, {
-  "tag": "HL",
-  "county": "Stadt Lübeck",
-  "state": "Schleswig-Holstein",
-  "explanation": "Hansestadt Lübeck"
-}, {
-  "tag": "HM",
-  "county": "Landkreis Hameln-Pyrmont",
-  "state": "Niedersachsen",
-  "explanation": "HaMeln"
-}, {
-  "tag": "HMÜ",
-  "county": "Landkreis Göttingen ohne die Stadt Göttingen",
-  "state": "Niedersachsen",
-  "explanation": "Hann. MÜnden"
-}, {
-  "tag": "HN",
-  "county": "Stadt Heilbronn, Landkreis Heilbronn",
-  "state": "Baden-Württemberg",
-  "explanation": "HeilbronN"
-}, {
-  "tag": "HO",
-  "county": "Stadt Hof, Landkreis Hof",
-  "state": "Bayern",
-  "explanation": "HOf"
-}, {
-  "tag": "HOG",
-  "county": "Landkreis Kassel",
-  "state": "Hessen",
-  "explanation": "HOfGeismar"
-}, {
-  "tag": "HOH",
-  "county": "Landkreis Haßberge",
-  "state": "Bayern",
-  "explanation": "HOfHeim"
-}, {
-  "tag": "HOL",
-  "county": "Landkreis Holzminden",
-  "state": "Niedersachsen",
-  "explanation": "HOLzminden"
-}, {
-  "tag": "HOM",
-  "county": "Saarpfalz-Kreis ohne die Stadt St. Ingbert",
-  "state": "Saarland",
-  "explanation": "HOMburg"
-}, {
-  "tag": "HOR",
-  "county": "Landkreis Freudenstadt",
-  "state": "Baden-Württemberg",
-  "explanation": "HORb"
-}, {
-  "tag": "HÖS",
-  "county": "Landkreis Erlangen-Höchstadt",
-  "state": "Bayern",
-  "explanation": "HÖchStadt"
-}, {
-  "tag": "HOT",
-  "county": "Landkreis Zwickau",
-  "state": "Sachsen",
-  "explanation": "HOhensTein"
-}, {
-  "tag": "HP",
-  "county": "Kreis Bergstraße",
-  "state": "Hessen",
-  "explanation": "HepPenheim"
-}, {
-  "tag": "HR",
-  "county": "Schwalm-Eder-Kreis",
-  "state": "Hessen",
-  "explanation": "HombeRg"
-}, {
-  "tag": "HRO",
-  "county": "Stadt Rostock",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Hansestadt ROstock"
-}, {
-  "tag": "HS",
-  "county": "Kreis Heinsberg",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "HeinSberg"
-}, {
-  "tag": "HSK",
-  "county": "Hochsauerlandkreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "HochSauerlandKreis"
-}, {
-  "tag": "HST",
-  "county": "Stadt Stralsund (große kreisangehörige Stadt im Landkreis Vorpommern-Rügen)",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Hansestadt STralsund"
-}, {
-  "tag": "HU",
-  "county": "Stadt Hanau (Sonderstatusstadt im Main-Kinzig-Kreis), Main-Kinzig-Kreis (übriges Kreisgebiet)",
-  "state": "Hessen",
-  "explanation": "HanaU"
-}, {
-  "tag": "HV",
-  "county": "Landkreis Stendal",
-  "state": "Sachsen-Anhalt",
-  "explanation": "HaVelberg"
-}, {
-  "tag": "HVL",
-  "county": "Landkreis Havelland",
-  "state": "Brandenburg",
-  "explanation": "HaVelLand"
-}, {
-  "tag": "HWI",
-  "county": "Stadt Wismar (große kreisangehörige Stadt im Landkreis Nordwestmecklenburg)",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Hansestadt WIsmar"
-}, {
-  "tag": "HX",
-  "county": "Kreis Höxter",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "HöXter"
-}, {
-  "tag": "HY",
-  "county": "Landkreis Bautzen",
-  "state": "Sachsen",
-  "explanation": "HoYerswerda"
-}, {
-  "tag": "HZ",
-  "county": "Landkreis Harz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "HarZ"
-}, {
-  "tag": "IGB",
-  "county": "Stadt St. Ingbert (Mittelstadt im Saarpfalz-Kreis)",
-  "state": "Saarland",
-  "explanation": "InGBert"
-}, {
-  "tag": "IK",
-  "county": "Ilm-Kreis",
-  "state": "Thüringen",
-  "explanation": "Ilm-Kreis"
-}, {
-  "tag": "IL",
-  "county": "Ilm-Kreis",
-  "state": "Thüringen",
-  "explanation": "ILmenau"
-}, {
-  "tag": "ILL",
-  "county": "Landkreis Neu-Ulm",
-  "state": "Bayern",
-  "explanation": "ILLertissen"
-}, {
-  "tag": "IN",
-  "county": "Stadt Ingolstadt",
-  "state": "Bayern",
-  "explanation": "INgolstadt"
-}, {
-  "tag": "IZ",
-  "county": "Kreis Steinburg",
-  "state": "Schleswig-Holstein",
-  "explanation": "ItZehoe"
-}, {
-  "tag": "J",
-  "county": "Stadt Jena",
-  "state": "Thüringen",
-  "explanation": "Jena"
-}, {
-  "tag": "JE",
-  "county": "Landkreis Wittenberg",
-  "state": "Sachsen-Anhalt",
-  "explanation": "JEssen"
-}, {
-  "tag": "JL",
-  "county": "Landkreis Jerichower Land",
-  "state": "Sachsen-Anhalt",
-  "explanation": "Jerichower Land"
-}, {
-  "tag": "JÜL",
-  "county": "Kreis Düren",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "JÜLich"
-}, {
-  "tag": "K",
-  "county": "Stadt Köln",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "Köln"
-}, {
-  "tag": "KA",
-  "county": "Landkreis Karlsruhe, Stadt Karlsruhe",
-  "state": "Baden-Württemberg",
-  "explanation": "KArlsruhe"
-}, {
-  "tag": "KB",
-  "county": "Landkreis Waldeck-Frankenberg",
-  "state": "Hessen",
-  "explanation": "KorBach"
-}, {
-  "tag": "KC",
-  "county": "Landkreis Kronach",
-  "state": "Bayern",
-  "explanation": "KronaCh"
-}, {
-  "tag": "KE",
-  "county": "Stadt Kempten (Allgäu)",
-  "state": "Bayern",
-  "explanation": "KEmpten"
-}, {
-  "tag": "KEH",
-  "county": "Landkreis Kelheim",
-  "state": "Bayern",
-  "explanation": "KElHeim"
-}, {
-  "tag": "KEL",
-  "county": "Ortenaukreis",
-  "state": "Baden-Württemberg",
-  "explanation": "KEhL"
-}, {
-  "tag": "KEM",
-  "county": "Landkreis Tirschenreuth, Landkreis Bayreuth",
-  "state": "Bayern",
-  "explanation": "KEMnath"
-}, {
-  "tag": "KF",
-  "county": "Stadt Kaufbeuren",
-  "state": "Bayern",
-  "explanation": "KauFbeuren"
-}, {
-  "tag": "KG",
-  "county": "Landkreis Bad Kissingen",
-  "state": "Bayern",
-  "explanation": "KissinGen"
-}, {
-  "tag": "KH",
-  "county": "Landkreis Bad Kreuznach",
-  "state": "Rheinland-Pfalz",
-  "explanation": "KreuznacH"
-}, {
-  "tag": "KI",
-  "county": "Stadt Kiel",
-  "state": "Schleswig-Holstein",
-  "explanation": "KIel"
-}, {
-  "tag": "KIB",
-  "county": "Donnersbergkreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "KIrchheimBolanden"
-}, {
-  "tag": "KK",
-  "county": "Kreis Viersen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "Kempen, Krefeld"
-}, {
-  "tag": "KL",
-  "county": "Stadt Kaiserslautern, Landkreis Kaiserslautern",
-  "state": "Rheinland-Pfalz",
-  "explanation": "KaisersLautern"
-}, {
-  "tag": "KLE",
-  "county": "Kreis Kleve",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "KLEve"
-}, {
-  "tag": "KLZ",
-  "county": "Altmarkkreis Salzwedel",
-  "state": "Sachsen-Anhalt",
-  "explanation": "KLötZe"
-}, {
-  "tag": "KM",
-  "county": "Landkreis Bautzen",
-  "state": "Sachsen",
-  "explanation": "KaMenz"
-}, {
-  "tag": "KN",
-  "county": "Landkreis Konstanz ohne die Gemeinde Büsingen am Hochrhein",
-  "state": "Baden-Württemberg",
-  "explanation": "KoNstanz"
-}, {
-  "tag": "KO",
-  "county": "Stadt Koblenz",
-  "state": "Rheinland-Pfalz",
-  "explanation": "KOblenz"
-}, {
-  "tag": "KÖN",
-  "county": "Landkreis Rhön-Grabfeld",
-  "state": "Bayern",
-  "explanation": "KÖNigshofen"
-}, {
-  "tag": "KÖT",
-  "county": "Landkreis Anhalt-Bitterfeld",
-  "state": "Sachsen-Anhalt",
-  "explanation": "KÖThen"
-}, {
-  "tag": "KÖZ",
-  "county": "Landkreis Cham",
-  "state": "Bayern",
-  "explanation": "KÖtZting"
-}, {
-  "tag": "KR",
-  "county": "Stadt Krefeld",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "KRefeld"
-}, {
-  "tag": "KRU",
-  "county": "Landkreis Günzburg",
-  "state": "Bayern",
-  "explanation": "KRUmbach"
-}, {
-  "tag": "KS",
-  "county": "Landkreis Kassel und Stadt Kassel",
-  "state": "Hessen",
-  "explanation": "KasSel"
-}, {
-  "tag": "KT",
-  "county": "Landkreis Kitzingen",
-  "state": "Bayern",
-  "explanation": "KiTzingen"
-}, {
-  "tag": "KU",
-  "county": "Landkreis Kulmbach",
-  "state": "Bayern",
-  "explanation": "KUlmbach"
-}, {
-  "tag": "KÜN",
-  "county": "Hohenlohekreis",
-  "state": "Baden-Württemberg",
-  "explanation": "KÜNzelsau"
-}, {
-  "tag": "KUS",
-  "county": "Landkreis Kusel",
-  "state": "Rheinland-Pfalz",
-  "explanation": "KUSel"
-}, {
-  "tag": "KW",
-  "county": "Landkreis Dahme-Spreewald",
-  "state": "Brandenburg",
-  "explanation": "Königs Wusterhausen"
-}, {
-  "tag": "KY",
-  "county": "Landkreis Ostprignitz-Ruppin",
-  "state": "Brandenburg",
-  "explanation": "KYritz"
-}, {
-  "tag": "KYF",
-  "county": "Kyffhäuserkreis",
-  "state": "Thüringen",
-  "explanation": "KYFfhäuser"
-}, {
-  "tag": "L",
-  "county": "Sachsen",
-  "state": "Stadt Leipzig, Landkreis Leipzig",
-  "explanation": "Leipzig"
-}, {
-  "tag": "LA",
-  "county": "Stadt Landshut, Landkreis Landshut",
-  "state": "Bayern",
-  "explanation": "LAndshut"
-}, {
-  "tag": "LAN",
-  "county": "Landkreis Dingolfing-Landau",
-  "state": "Bayern",
-  "explanation": "LANdau"
-}, {
-  "tag": "LAU",
-  "county": "Landkreis Nürnberger Land",
-  "state": "Bayern",
-  "explanation": "LAUf"
-}, {
-  "tag": "LB",
-  "county": "Landkreis Ludwigsburg",
-  "state": "Baden-Württemberg",
-  "explanation": "LudwigsBurg"
-}, {
-  "tag": "LBS",
-  "county": "Saale-Orla-Kreis",
-  "state": "Thüringen",
-  "explanation": "LoBenStein"
-}, {
-  "tag": "LBZ",
-  "county": "Landkreis Ludwigslust-Parchim",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "LüBZ"
-}, {
-  "tag": "LC",
-  "county": "Landkreis Dahme-Spreewald",
-  "state": "Brandenburg",
-  "explanation": "LuCkau"
-}, {
-  "tag": "LD",
-  "county": "Stadt Landau in der Pfalz",
-  "state": "Rheinland-Pfalz",
-  "explanation": "LanDau"
-}, {
-  "tag": "LDK",
-  "county": "Lahn-Dill-Kreis ohne die Stadt Wetzlar",
-  "state": "Hessen",
-  "explanation": "Lahn-Dill-Kreis"
-}, {
-  "tag": "LDS",
-  "county": "Landkreis Dahme-Spreewald",
-  "state": "Brandenburg",
-  "explanation": "Landkreis Dahme-Spreewald"
-}, {
-  "tag": "LEO",
-  "county": "Landkreis Böblingen",
-  "state": "Baden-Württemberg",
-  "explanation": "LEOnberg"
-}, {
-  "tag": "LER",
-  "county": "Landkreis Leer",
-  "state": "Niedersachsen",
-  "explanation": "LEeR"
-}, {
-  "tag": "LEV",
-  "county": "Stadt Leverkusen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "LEVerkusen"
-}, {
-  "tag": "LF",
-  "county": "Landkreis Berchtesgadener Land, Landkreis Altötting, Landkreis Traunstein",
-  "state": "Bayern",
-  "explanation": "LauFen"
-}, {
-  "tag": "LG",
-  "county": "Landkreis Lüneburg",
-  "state": "Niedersachsen",
-  "explanation": "LüneburG"
-}, {
-  "tag": "LH",
-  "county": "Kreis Coesfeld, Kreis Unna",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "LüdingHausen"
-}, {
-  "tag": "LI",
-  "county": "Landkreis Lindau (Bodensee)",
-  "state": "Bayern",
-  "explanation": "LIndau"
-}, {
-  "tag": "LIB",
-  "county": "Landkreis Elbe-Elster",
-  "state": "Brandenburg",
-  "explanation": "LIeBenwerda"
-}, {
-  "tag": "LIF",
-  "county": "Landkreis Lichtenfels",
-  "state": "Bayern",
-  "explanation": "LIchtenFels"
-}, {
-  "tag": "LIP",
-  "county": "Kreis Lippe",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "LIPpe"
-}, {
-  "tag": "LL",
-  "county": "Landkreis Landsberg am Lech",
-  "state": "Bayern",
-  "explanation": "Landsberg am Lech"
-}, {
-  "tag": "LM",
-  "county": "Landkreis Limburg-Weilburg",
-  "state": "Hessen",
-  "explanation": "LiMburg"
-}, {
-  "tag": "LN",
-  "county": "Landkreis Dahme-Spreewald",
-  "state": "Brandenburg",
-  "explanation": "LübbeN"
-}, {
-  "tag": "LÖ",
-  "county": "Landkreis Lörrach",
-  "state": "Baden-Württemberg",
-  "explanation": "LÖrrach"
-}, {
-  "tag": "LÖB",
-  "county": "Landkreis Görlitz",
-  "state": "Sachsen",
-  "explanation": "LÖBau"
-}, {
-  "tag": "LOS",
-  "county": "Landkreis Oder-Spree",
-  "state": "Brandenburg",
-  "explanation": "Landkreis Oder-Spre"
-}, {
-  "tag": "LP",
-  "county": "Kreis Soest",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "LiPpstadt"
-}, {
-  "tag": "LR",
-  "county": "Ortenaukreis",
-  "state": "Baden-Württemberg",
-  "explanation": "LahR"
-}, {
-  "tag": "LRO",
-  "county": "Landkreis Rostock",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Landkreis ROstock"
-}, {
-  "tag": "LSA",
-  "county": "Sachsen-Anhalt, Landesregierung, Landtag und Polizei",
-  "state": "Sachsen-Anhalt",
-  "explanation": "Land Sachsen-Anhalt"
-}, {
-  "tag": "LSN",
-  "county": "Sachsen, Landesregierung und Landtag",
-  "state": "Sachsen",
-  "explanation": "Landtag SachseN"
-}, {
-  "tag": "LSZ",
-  "county": "Unstrut-Hainich-Kreis",
-  "state": "Thüringen",
-  "explanation": "LangenSalZa"
-}, {
-  "tag": "LU",
-  "county": "Stadt Ludwigshafen am Rhein",
-  "state": "Rheinland-Pfalz",
-  "explanation": "LUdwigshafen"
-}, {
-  "tag": "LÜN",
-  "county": "Kreis Unna",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "LÜNen"
-}, {
-  "tag": "LUP",
-  "county": "Landkreis Ludwigslust-Parchim",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "LUdwigslust, Parchim"
-}, {
-  "tag": "LWL",
-  "county": "Landkreis Ludwigslust-Parchim",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "LudWigsLust"
-}, {
-  "tag": "M",
-  "county": "Landkreis München, Stadt München",
-  "state": "Bayern",
-  "explanation": "München"
-}, {
-  "tag": "MA",
-  "county": "Stadt Mannheim",
-  "state": "Baden-Württemberg",
-  "explanation": "MAnnheim"
-}, {
-  "tag": "MAB",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "MArienBerg"
-}, {
-  "tag": "MAI",
-  "county": "Landkreis Kelheim, Landkreis Landshut",
-  "state": "Bayern",
-  "explanation": "MAInburg"
-}, {
-  "tag": "MAK",
-  "county": "Landkreis Wunsiedel im Fichtelgebirge",
-  "state": "Bayern",
-  "explanation": "MArKtredwitz"
-}, {
-  "tag": "MAL",
-  "county": "Landkreis Landshut",
-  "state": "Bayern",
-  "explanation": "MALlersdorf"
-}, {
-  "tag": "MB",
-  "county": "Landkreis Miesbach",
-  "state": "Bayern",
-  "explanation": "MiesBach"
-}, {
-  "tag": "MC",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "MalChin"
-}, {
-  "tag": "MD",
-  "county": "Stadt Magdeburg",
-  "state": "Sachsen-Anhalt",
-  "explanation": "MagDeburg"
-}, {
-  "tag": "ME",
-  "county": "Kreis Mettmann",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "MEttmann"
-}, {
-  "tag": "MED",
-  "county": "Kreis Dithmarschen",
-  "state": "Schleswig-Holstein",
-  "explanation": "MElDorf"
-}, {
-  "tag": "MEG",
-  "county": "Schwalm-Eder-Kreis",
-  "state": "Hessen",
-  "explanation": "MElsunGen"
-}, {
-  "tag": "MEI",
-  "county": "Landkreis Meißen",
-  "state": "Sachsen",
-  "explanation": "MEIßen"
-}, {
-  "tag": "MEK",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "Mittlerer ErzgebirgsKreis"
-}, {
-  "tag": "MEL",
-  "county": "Landkreis Osnabrück",
-  "state": "Niedersachsen",
-  "explanation": "MELle"
-}, {
-  "tag": "MER",
-  "county": "Saalekreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "MERseburg"
-}, {
-  "tag": "MET",
-  "county": "Landkreis Rhön-Grabfeld",
-  "state": "Bayern",
-  "explanation": "MEllrichstadT"
-}, {
-  "tag": "MG",
-  "county": "Stadt Mönchengladbach",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "MönchenGladbach"
-}, {
-  "tag": "MGH",
-  "county": "Main-Tauber-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "MerGentHeim"
-}, {
-  "tag": "MGN",
-  "county": "Landkreis Schmalkalden-Meiningen",
-  "state": "Thüringen",
-  "explanation": "MeininGeN"
-}, {
-  "tag": "MH",
-  "county": "Stadt Mülheim an der Ruhr",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "MülHeim"
-}, {
-  "tag": "MHL",
-  "county": "Unstrut-Hainich-Kreis",
-  "state": "Thüringen",
-  "explanation": "MüHLhausen"
-}, {
-  "tag": "MI",
-  "county": "Kreis Minden-Lübbecke",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "MInden"
-}, {
-  "tag": "MIL",
-  "county": "Landkreis Miltenberg",
-  "state": "Bayern",
-  "explanation": "MILtenberg"
-}, {
-  "tag": "MK",
-  "county": "Märkischer Kreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "Märkischer Kreis"
-}, {
-  "tag": "MKK",
-  "county": "Main-Kinzig-Kreis ohne die Stadt Hanau",
-  "state": "Hessen",
-  "explanation": "Main-Kinzig-Kreis"
-}, {
-  "tag": "ML",
-  "county": "Landkreis Mansfeld-Südharz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "Mansfelder Land"
-}, {
-  "tag": "MM",
-  "county": "Stadt Memmingen",
-  "state": "Bayern",
-  "explanation": "MemMingen"
-}, {
-  "tag": "MN",
-  "county": "Landkreis Unterallgäu",
-  "state": "Bayern",
-  "explanation": "MiNdelheim"
-}, {
-  "tag": "MO",
-  "county": "Kreis Wesel",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "MOers"
-}, {
-  "tag": "MOD",
-  "county": "Landkreis Ostallgäu",
-  "state": "Bayern",
-  "explanation": "MarktOberDorf"
-}, {
-  "tag": "MOL",
-  "county": "Landkreis Märkisch-Oderland",
-  "state": "Brandenburg",
-  "explanation": "Märkisch-OderLand"
-}, {
-  "tag": "MON",
-  "county": "Städteregion Aachen, Kreis Düren",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "MONschau"
-}, {
-  "tag": "MOS",
-  "county": "Neckar-Odenwald-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "MOSbach"
-}, {
-  "tag": "MQ",
-  "county": "Saalekreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "Merseburg, Querfurt"
-}, {
-  "tag": "MR",
-  "county": "Landkreis Marburg-Biedenkopf",
-  "state": "Hessen",
-  "explanation": "MaRburg"
-}, {
-  "tag": "MS",
-  "county": "Stadt Münster",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "MünSter"
-}, {
-  "tag": "MSE",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Mecklenburgische SEenplatte"
-}, {
-  "tag": "MSH",
-  "county": "Landkreis Mansfeld-Südharz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "Mansfeld, SüdHarz"
-}, {
-  "tag": "MSP",
-  "county": "Landkreis Main-Spessart",
-  "state": "Bayern",
-  "explanation": "Main, SPessart"
-}, {
-  "tag": "MST",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Mecklenburg-STrelitz"
-}, {
-  "tag": "MTK",
-  "county": "Main-Taunus-Kreis",
-  "state": "Hessen",
-  "explanation": "Main-Taunus-Kreis"
-}, {
-  "tag": "MTL",
-  "county": "Landkreis Leipzig",
-  "state": "Sachsen",
-  "explanation": "MuldenTaL"
-}, {
-  "tag": "MUC",
-  "county": "Stadt München",
-  "state": "Bayern",
-  "explanation": "Internationale Kennung des Münchner Flughafens"
-}, {
-  "tag": "MÜ",
-  "county": "Landkreis Mühldorf am Inn",
-  "state": "Bayern",
-  "explanation": "MÜhldorf"
-}, {
-  "tag": "MÜB",
-  "county": "Landkreis Hof, Landkreis Bayreuth",
-  "state": "Bayern",
-  "explanation": "MÜnchBerg"
-}, {
-  "tag": "MÜL",
-  "county": "Landkreis Breisgau-Hochschwarzwald",
-  "state": "Baden-Württemberg",
-  "explanation": "MÜLheim (Baden)"
-}, {
-  "tag": "MÜR",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "MÜRitz"
-}, {
-  "tag": "MVL",
-  "county": "Mecklenburg-Vorpommern, Landesregierung, Landtag und Polizei",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Mecklenburg-Vorpommerscher Landtag"
-}, {
-  "tag": "MW",
-  "county": "Landkreis Mittelsachsen",
-  "state": "Sachsen",
-  "explanation": "MittWeida"
-}, {
-  "tag": "MY",
-  "county": "Landkreis Mayen-Koblenz",
-  "state": "Rheinland-Pfalz",
-  "explanation": "MaYen"
-}, {
-  "tag": "MYK",
-  "county": "Landkreis Mayen-Koblenz",
-  "state": "Rheinland-Pfalz",
-  "explanation": "MaYen, Koblenz"
-}, {
-  "tag": "MZ",
-  "county": "Landkreis Mainz-Bingen, Stadt Mainz",
-  "state": "Rheinland-Pfalz",
-  "explanation": "MainZ"
-}, {
-  "tag": "MZG",
-  "county": "Landkreis Merzig-Wadern",
-  "state": "Saarland",
-  "explanation": "MerZiG"
-}, {
-  "tag": "N",
-  "county": "Landkreis Nürnberger Land, Stadt Nürnberg",
-  "state": "Bayern",
-  "explanation": "Nürnberg"
-}, {
-  "tag": "NAB",
-  "county": "Landkreis Schwandorf, Landkreis Amberg-Sulzbach",
-  "state": "Bayern",
-  "explanation": "NABburg"
-}, {
-  "tag": "NAI",
-  "county": "Landkreis Hof",
-  "state": "Bayern",
-  "explanation": "NAIla"
-}, {
-  "tag": "NAU",
-  "county": "Landkreis Havelland",
-  "state": "Brandenburg",
-  "explanation": "NAUen"
-}, {
-  "tag": "NB",
-  "county": "Stadt Neubrandenburg (große kreisangehörige Stadt im Landkreis Mecklenburgische Seenplatte)",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "NeuBrandenburg"
-}, {
-  "tag": "ND",
-  "county": "Landkreis Neuburg-Schrobenhausen",
-  "state": "Bayern",
-  "explanation": "Neuburg an der Donau"
-}, {
-  "tag": "NDH",
-  "county": "Landkreis Nordhausen",
-  "state": "Thüringen",
-  "explanation": "NorDHausen"
-}, {
-  "tag": "NE",
-  "county": "Rhein-Kreis Neuss",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "NEuss"
-}, {
-  "tag": "NEA",
-  "county": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-  "state": "Bayern",
-  "explanation": "NEustadt an der Aisch"
-}, {
-  "tag": "NEB",
-  "county": "Burgenlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "NEBra"
-}, {
-  "tag": "NEC",
-  "county": "Stadt Coburg und Landkreis Coburg",
-  "state": "Bayern",
-  "explanation": "NEustadt bei Coburg"
-}, {
-  "tag": "NEN",
-  "county": "Landkreis Schwandorf",
-  "state": "Bayern",
-  "explanation": "NEuNburg"
-}, {
-  "tag": "NES",
-  "county": "Landkreis Rhön-Grabfeld",
-  "state": "Bayern",
-  "explanation": "NEustadt an der Saale"
-}, {
-  "tag": "NEU",
-  "county": "Landkreis Breisgau-Hochschwarzwald",
-  "state": "Baden-Württemberg",
-  "explanation": "Titisee-NEUstadt"
-}, {
-  "tag": "NEW",
-  "county": "Landkreis Neustadt an der Waldnaab",
-  "state": "Bayern",
-  "explanation": "NEustadt an der Waldnaab"
-}, {
-  "tag": "NF",
-  "county": "Kreis Nordfriesland",
-  "state": "Schleswig-Holstein",
-  "explanation": "NordFriesland"
-}, {
-  "tag": "NH",
-  "county": "Landkreis Sonneberg",
-  "state": "Thüringen",
-  "explanation": "NeuHaus"
-}, {
-  "tag": "NI",
-  "county": "Landkreis Nienburg/Weser",
-  "state": "Niedersachsen",
-  "explanation": "NIenburg"
-}, {
-  "tag": "NK",
-  "county": "Landkreis Neunkirchen",
-  "state": "Saarland",
-  "explanation": "NeunKirchen"
-}, {
-  "tag": "NL",
-  "county": "Niedersachsen, Landesregierung und Landtag",
-  "state": "Niedersachsen",
-  "explanation": "Niedersächsischer Landtag"
-}, {
-  "tag": "NM",
-  "county": "Landkreis Neumarkt in der Oberpfalz",
-  "state": "Bayern",
-  "explanation": "NeuMarkt"
-}, {
-  "tag": "NMB",
-  "county": "Burgenlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "NauMBurg"
-}, {
-  "tag": "NMS",
-  "county": "Stadt Neumünster",
-  "state": "Schleswig-Holstein",
-  "explanation": "NeuMünSter"
-}, {
-  "tag": "NÖ",
-  "county": "Landkreis Donau-Ries",
-  "state": "Bayern",
-  "explanation": "NÖrdlingen"
-}, {
-  "tag": "NOH",
-  "county": "Landkreis Grafschaft Bentheim",
-  "state": "Niedersachsen",
-  "explanation": "NOrdHorn"
-}, {
-  "tag": "NOL",
-  "county": "Landkreis Görlitz",
-  "state": "Sachsen",
-  "explanation": "Niederschlesische OberLausitz"
-}, {
-  "tag": "NOM",
-  "county": "Landkreis Northeim",
-  "state": "Niedersachsen",
-  "explanation": "NOrtheiM"
-}, {
-  "tag": "NOR",
-  "county": "Landkreis Aurich",
-  "state": "Niedersachsen",
-  "explanation": "NORden"
-}, {
-  "tag": "NP",
-  "county": "Landkreis Ostprignitz-Ruppin",
-  "state": "Brandenburg",
-  "explanation": "NeurupPin"
-}, {
-  "tag": "NR",
-  "county": "Landkreis Neuwied",
-  "state": "Rheinland-Pfalz",
-  "explanation": "Neuwied am Rhein"
-}, {
-  "tag": "NRW",
-  "county": "Nordrhein-Westfalen, Landesregierung, Landtag und Polizei",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "NordRhein-Westfalen"
-}, {
-  "tag": "NT",
-  "county": "Landkreis Esslingen",
-  "state": "Baden-Württemberg",
-  "explanation": "NürTingen"
-}, {
-  "tag": "NU",
-  "county": "Landkreis Neu-Ulm",
-  "state": "Bayern",
-  "explanation": "Neu-Ulm"
-}, {
-  "tag": "NVP",
-  "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "NordVorPommern"
-}, {
-  "tag": "NW",
-  "county": "Stadt Neustadt an der Weinstraße",
-  "state": "Rheinland-Pfalz",
-  "explanation": "Neustadt an der Weinstraße"
-}, {
-  "tag": "NWM",
-  "county": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "NordWestMecklenburg"
-}, {
-  "tag": "NY",
-  "county": "Landkreis Görlitz",
-  "state": "Sachsen",
-  "explanation": "NieskY"
-}, {
-  "tag": "NZ",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "NeustrelitZ"
-}, {
-  "tag": "OA",
-  "county": "Landkreis Oberallgäu",
-  "state": "Bayern",
-  "explanation": "OberAllgäu"
-}, {
-  "tag": "OAL",
-  "county": "Landkreis Ostallgäu",
-  "state": "Bayern",
-  "explanation": "OstALlgäu"
-}, {
-  "tag": "OB",
-  "county": "Stadt Oberhausen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "OBerhausen"
-}, {
-  "tag": "OBB",
-  "county": "Landkreis Miltenberg",
-  "state": "Bayern",
-  "explanation": "OBernBurg"
-}, {
-  "tag": "OBG",
-  "county": "Landkreis Stendal",
-  "state": "Sachsen-Anhalt",
-  "explanation": "OsterBurG"
-}, {
-  "tag": "OC",
-  "county": "Landkreis Börde",
-  "state": "Sachsen-Anhalt",
-  "explanation": "OsChersleben"
-}, {
-  "tag": "OCH",
-  "county": "Landkreis Würzburg",
-  "state": "Bayern",
-  "explanation": "OCHsenfurt"
-}, {
-  "tag": "OD",
-  "county": "Kreis Stormarn",
-  "state": "Schleswig-Holstein",
-  "explanation": "OlDesloe"
-}, {
-  "tag": "OE",
-  "county": "Kreis Olpe",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "OlpE"
-}, {
-  "tag": "OF",
-  "county": "Landkreis Offenbach und Stadt Offenbach am Main",
-  "state": "Hessen",
-  "explanation": "OFfenbach"
-}, {
-  "tag": "OG",
-  "county": "Ortenaukreis",
-  "state": "Baden-Württemberg",
-  "explanation": "OffenburG"
-}, {
-  "tag": "OH",
-  "county": "Kreis Ostholstein",
-  "state": "Schleswig-Holstein",
-  "explanation": "OstHolstein"
-}, {
-  "tag": "OHA",
-  "county": "Landkreis Göttingen",
-  "state": "Niedersachsen",
-  "explanation": "Osterode am HArz"
-}, {
-  "tag": "ÖHR",
-  "county": "Hohenlohekreis",
-  "state": "Baden-Württemberg",
-  "explanation": "ÖHRingen"
-}, {
-  "tag": "OHV",
-  "county": "Landkreis Oberhavel",
-  "state": "Brandenburg",
-  "explanation": "OberHaVel"
-}, {
-  "tag": "OHZ",
-  "county": "Landkreis Osterholz",
-  "state": "Niedersachsen",
-  "explanation": "OsterHolZ"
-}, {
-  "tag": "OK",
-  "county": "Landkreis Börde",
-  "state": "Sachsen-Anhalt",
-  "explanation": "OhreKreis"
-}, {
-  "tag": "OL",
-  "county": "Landkreis Oldenburg, Stadt Oldenburg",
-  "state": "Niedersachsen",
-  "explanation": "OLdenburg"
-}, {
-  "tag": "OP",
-  "county": "Stadt Leverkusen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "OPladen"
-}, {
-  "tag": "OPR",
-  "county": "Landkreis Ostprignitz-Ruppin",
-  "state": "Brandenburg",
-  "explanation": "OstPrignitz, Ruppin"
-}, {
-  "tag": "OS",
-  "county": "Stadt Osnabrück, Landkreis Osnabrück",
-  "state": "Niedersachsen",
-  "explanation": "OSnabrück"
-}, {
-  "tag": "OSL",
-  "county": "Landkreis Oberspreewald-Lausitz",
-  "state": "Brandenburg",
-  "explanation": "OberSpreewald, Lausitz"
-}, {
-  "tag": "OTW",
-  "county": "Landkreis Ottweiler",
-  "state": "Saarland",
-  "explanation": "OTtWeiler"
-}, {
-  "tag": "OVI",
-  "county": "Landkreis Schwandorf",
-  "state": "Bayern",
-  "explanation": "OberVIechtach"
-}, {
-  "tag": "OVL",
-  "county": "Vogtlandkreis",
-  "state": "Sachsen",
-  "explanation": "OberVogtLand"
-}, {
-  "tag": "OVP",
-  "county": "Landkreis Ostvorpommern",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "OstVorPommern"
-}, {
-  "tag": "OZ",
-  "county": "Landkreis Nordsachsen",
-  "state": "Sachsen",
-  "explanation": "OschatZ"
-}, {
-  "tag": "P",
-  "county": "Stadt Potsdam",
-  "state": "Brandenburg",
-  "explanation": "Potsdam"
-}, {
-  "tag": "PA",
-  "county": "Stadt Passau, Landkreis Passau",
-  "state": "Bayern",
-  "explanation": "PAssau"
-}, {
-  "tag": "PAF",
-  "county": "Landkreis Pfaffenhofen an der Ilm",
-  "state": "Bayern",
-  "explanation": "PfAFfenhofen"
-}, {
-  "tag": "PAN",
-  "county": "Landkreis Rottal-Inn",
-  "state": "Bayern",
-  "explanation": "PfArrkircheN"
-}, {
-  "tag": "PAR",
-  "county": "Landkreis Neumarkt in der Oberpfalz, Landkreis Kelheim",
-  "state": "Bayern",
-  "explanation": "PARsberg"
-}, {
-  "tag": "PB",
-  "county": "Kreis Paderborn",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "PaderBorn"
-}, {
-  "tag": "PCH",
-  "county": "Landkreis Ludwigslust-Parchim",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "ParCHim"
-}, {
-  "tag": "PE",
-  "county": "Landkreis Peine",
-  "state": "Niedersachsen",
-  "explanation": "PEine"
-}, {
-  "tag": "PEG",
-  "county": "Landkreis Forchheim, Landkreis Nürnberger Land, Landkreis Bayreuth",
-  "state": "Bayern",
-  "explanation": "PEGnitz"
-}, {
-  "tag": "PF",
-  "county": "Enzkreis, Stadt Pforzheim",
-  "state": "Baden-Württemberg",
-  "explanation": "PForzheim"
-}, {
-  "tag": "PI",
-  "county": "Kreis Pinneberg",
-  "state": "Schleswig-Holstein",
-  "explanation": "PInneberg"
-}, {
-  "tag": "PIR",
-  "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
-  "state": "Sachsen",
-  "explanation": "PIRna"
-}, {
-  "tag": "PL",
-  "county": "Vogtlandkreis",
-  "state": "Sachsen",
-  "explanation": "PLauen"
-}, {
-  "tag": "PLÖ",
-  "county": "Kreis Plön",
-  "state": "Schleswig-Holstein",
-  "explanation": "PLÖn"
-}, {
-  "tag": "PM",
-  "county": "Landkreis Potsdam-Mittelmark",
-  "state": "Brandenburg",
-  "explanation": "Potsdam, Mittelmark"
-}, {
-  "tag": "PN",
-  "county": "Saale-Orla-Kreis",
-  "state": "Thüringen",
-  "explanation": "PößNeck"
-}, {
-  "tag": "PR",
-  "county": "Landkreis Prignitz",
-  "state": "Brandenburg",
-  "explanation": "PRignitz"
-}, {
-  "tag": "PRÜ",
-  "county": "Eifelkreis Bitburg-Prüm",
-  "state": "Rheinland-Pfalz",
-  "explanation": "PRÜm"
-}, {
-  "tag": "PS",
-  "county": "Stadt Pirmasens, Landkreis Südwestpfalz",
-  "state": "Rheinland-Pfalz",
-  "explanation": "PirmaSens"
-}, {
-  "tag": "PW",
-  "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "PaseWalk"
-}, {
-  "tag": "PZ",
-  "county": "Landkreis Uckermark",
-  "state": "Brandenburg",
-  "explanation": "PrenZlau"
-}, {
-  "tag": "QFT",
-  "county": "Saalekreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "QuerFurT"
-}, {
-  "tag": "QLB",
-  "county": "Landkreis Harz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "QuedLinBurg"
-}, {
-  "tag": "R",
-  "county": "Landkreis Regensburg, Stadt Regensburg",
-  "state": "Bayern",
-  "explanation": "Regensburg"
-}, {
-  "tag": "RA",
-  "county": "Landkreis Rastatt",
-  "state": "Baden-Württemberg",
-  "explanation": "Württemberg"
-}, {
-  "tag": "RC",
-  "county": "Vogtlandkreis",
-  "state": "Sachsen",
-  "explanation": "ReiChenbach"
-}, {
-  "tag": "RD",
-  "county": "Kreis Rendsburg-Eckernförde",
-  "state": "Schleswig-Holstein",
-  "explanation": "RenDsburg"
-}, {
-  "tag": "RDG",
-  "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Ribnitz-DamGarten"
-}, {
-  "tag": "RE",
-  "county": "Kreis Recklinghausen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "REcklinghausen"
-}, {
-  "tag": "REG",
-  "county": "Landkreis Regen",
-  "state": "Bayern",
-  "explanation": "REGen"
-}, {
-  "tag": "REH",
-  "county": "Landkreis Hof, Landkreis Wunsiedel im Fichtelgebirge",
-  "state": "Bayern",
-  "explanation": "REHau"
-}, {
-  "tag": "REI",
-  "county": "Landkreis Berchtesgadener Land",
-  "state": "Bayern",
-  "explanation": "REIchenhall"
-}, {
-  "tag": "RG",
-  "county": "Landkreis Meißen",
-  "state": "Sachsen",
-  "explanation": "Riesa, Großenhain"
-}, {
-  "tag": "RH",
-  "county": "Landkreis Roth",
-  "state": "Bayern",
-  "explanation": "RotH"
-}, {
-  "tag": "RI",
-  "county": "Landkreis Schaumburg",
-  "state": "Niedersachsen",
-  "explanation": "RInteln"
-}, {
-  "tag": "RID",
-  "county": "Landkreis Kelheim",
-  "state": "Bayern",
-  "explanation": "RIeDenburg"
-}, {
-  "tag": "RIE",
-  "county": "Landkreis Meißen",
-  "state": "Sachsen",
-  "explanation": "RIEsa"
-}, {
-  "tag": "RL",
-  "county": "Landkreis Mittelsachsen",
-  "state": "Sachsen",
-  "explanation": "RochLitz"
-}, {
-  "tag": "RM",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Röbel/Müritz"
-}, {
-  "tag": "RN",
-  "county": "Landkreis Havelland",
-  "state": "Brandenburg",
-  "explanation": "RatheNow"
-}, {
-  "tag": "RO",
-  "county": "Stadt Rosenheim, Landkreis Rosenheim",
-  "state": "Bayern",
-  "explanation": "ROsenheim"
-}, {
-  "tag": "ROD",
-  "county": "Landkreis Cham, Landkreis Schwandorf",
-  "state": "Bayern",
-  "explanation": "RODing"
-}, {
-  "tag": "ROF",
-  "county": "Landkreis Hersfeld-Rotenburg",
-  "state": "Hessen",
-  "explanation": "ROtenburg an der Fulda"
-}, {
-  "tag": "ROK",
-  "county": "Donnersbergkreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "ROcKenhausen"
-}, {
-  "tag": "ROL",
-  "county": "Landkreis Landshut , Landkreis Kelheim",
-  "state": "Bayern",
-  "explanation": "ROttenburg an der Laaber"
-}, {
-  "tag": "ROS",
-  "county": "Landkreis Rostock",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "ROStock"
-}, {
-  "tag": "ROT",
-  "county": "Landkreis Ansbach",
-  "state": "Bayern",
-  "explanation": "ROthenburg ob der Tauber"
-}, {
-  "tag": "ROW",
-  "county": "Landkreis Rotenburg (Wümme)",
-  "state": "Niedersachsen",
-  "explanation": "ROtenburg (Wümme)"
-}, {
-  "tag": "RP",
-  "county": "Rhein-Pfalz-Kreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "Rhein-Pfalz"
-}, {
-  "tag": "RPL",
-  "county": "Rheinland-Pfalz, Landesregierung, Landtag und Polizei",
-  "state": "Rheinland-Pfalz",
-  "explanation": "Rheinland-Pfälzischer Landtag"
-}, {
-  "tag": "RS",
-  "county": "Stadt Remscheid",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "RemScheid"
-}, {
-  "tag": "RSL",
-  "county": "Stadt Dessau-Roßlau",
-  "state": "Sachsen-Anhalt",
-  "explanation": "RosSLau"
-}, {
-  "tag": "RT",
-  "county": "Landkreis Reutlingen",
-  "state": "Baden-Württemberg",
-  "explanation": "ReuTlingen"
-}, {
-  "tag": "RU",
-  "county": "Landkreis Saalfeld-Rudolstadt",
-  "state": "Thüringen",
-  "explanation": "RUdolstadt"
-}, {
-  "tag": "RÜD",
-  "county": "Rheingau-Taunus-Kreis",
-  "state": "Hessen",
-  "explanation": "RÜDesheim"
-}, {
-  "tag": "RÜG",
-  "county": "Landkreis Vorpommern-Rügen",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "RÜGen"
-}, {
-  "tag": "RV",
-  "county": "Landkreis Ravensburg",
-  "state": "Baden-Württemberg",
-  "explanation": "RaVensburg"
-}, {
-  "tag": "RW",
-  "county": "Landkreis Rottweil",
-  "state": "Baden-Württemberg",
-  "explanation": "RottWeil"
-}, {
-  "tag": "RZ",
-  "county": "Kreis Herzogtum Lauenburg",
-  "state": "Schleswig-Holstein",
-  "explanation": "RatZeburg"
-}, {
-  "tag": "S",
-  "county": "Stadt Stuttgart",
-  "state": "Baden-Württemberg",
-  "explanation": "Stuttgart"
-}, {
-  "tag": "SAB",
-  "county": "Landkreis Trier-Saarburg",
-  "state": "Rheinland-Pfalz",
-  "explanation": "SAarBurg"
-}, {
-  "tag": "SAD",
-  "county": "Landkreis Schwandorf",
-  "state": "Bayern",
-  "explanation": "SchwAnDorf"
-}, {
-  "tag": "SAL",
-  "county": "Saarland, Landesregierung, Landtag und Polizei",
-  "state": "Saarland",
-  "explanation": "SAarländischer Landtag"
-}, {
-  "tag": "SAN",
-  "county": "Landkreis Hof, Landkreis Kulmbach, Landkreis Kronach",
-  "state": "Bayern",
-  "explanation": "StAdtsteiNach"
-}, {
-  "tag": "SAW",
-  "county": "Altmarkkreis Salzwedel",
-  "state": "Sachsen-Anhalt",
-  "explanation": "SAlzWedel"
-}, {
-  "tag": "SÄK",
-  "county": "Landkreis Säckingen",
-  "state": "Baden-Württemberg",
-  "explanation": "SÄcKingen"
-}, {
-  "tag": "SB",
-  "county": "Regionalverband Saarbrücken ohne die Stadt Völklingen",
-  "state": "Saarland",
-  "explanation": "SaarBrücken"
-}, {
-  "tag": "SBG",
-  "county": "Landkreis Vorpommern-Greifswald",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "StrasBurG"
-}, {
-  "tag": "SBK",
-  "county": "Salzlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "SchöneBecK"
-}, {
-  "tag": "SC",
-  "county": "Stadt Schwabach",
-  "state": "Bayern",
-  "explanation": "SChwabach"
-}, {
-  "tag": "SCZ",
-  "county": "Saale-Orla-Kreis",
-  "state": "Thüringen",
-  "explanation": "SChleiZ"
-}, {
-  "tag": "SDH",
-  "county": "Kyffhäuserkreis",
-  "state": "Thüringen",
-  "explanation": "SonDersHausen"
-}, {
-  "tag": "SDL",
-  "county": "Landkreis Stendal",
-  "state": "Sachsen-Anhalt",
-  "explanation": "StenDaL"
-}, {
-  "tag": "SDT",
-  "county": "Landkreis Uckermark",
-  "state": "Brandenburg",
-  "explanation": "SchweDT"
-}, {
-  "tag": "SE",
-  "county": "Kreis Segeberg",
-  "state": "Schleswig-Holstein",
-  "explanation": "SEgeberg"
-}, {
-  "tag": "SEB",
-  "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
-  "state": "Sachsen",
-  "explanation": "SEBnitz"
-}, {
-  "tag": "SEE",
-  "county": "Landkreis Märkisch-Oderland",
-  "state": "Brandenburg",
-  "explanation": "SEElow"
-}, {
-  "tag": "SEF",
-  "county": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-  "state": "Bayern",
-  "explanation": "SchEinFeld"
-}, {
-  "tag": "SEL",
-  "county": "Landkreis Wunsiedel im Fichtelgebirge",
-  "state": "Bayern",
-  "explanation": "SELb"
-}, {
-  "tag": "SFB",
-  "county": "Landkreis Oberspreewald-Lausitz",
-  "state": "Brandenburg",
-  "explanation": "SenFtenBerg"
-}, {
-  "tag": "SFT",
-  "county": "Salzlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "StaßFurT"
-}, {
-  "tag": "SG",
-  "county": "Stadt Solingen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "SolinGen"
-}, {
-  "tag": "SGH",
-  "county": "Landkreis Mansfeld-Südharz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "SanGerHausen"
-}, {
-  "tag": "SH",
-  "county": "Schleswig-Holstein, Landesregierung, Landtag und Polizei",
-  "state": "Schleswig-Holstein",
-  "explanation": "Schleswig-Holstein"
-}, {
-  "tag": "SHA",
-  "county": "Landkreis Schwäbisch Hall",
-  "state": "Baden-Württemberg",
-  "explanation": "Schwäbisch HAll"
-}, {
-  "tag": "SHG",
-  "county": "Landkreis Schaumburg",
-  "state": "Niedersachsen",
-  "explanation": "StadtHaGen"
-}, {
-  "tag": "SHK",
-  "county": "Saale-Holzland-Kreis",
-  "state": "Thüringen",
-  "explanation": "Saale-Holzland-Kreis"
-}, {
-  "tag": "SHL",
-  "county": "Stadt Suhl",
-  "state": "Thüringen",
-  "explanation": "SuHL"
-}, {
-  "tag": "SI",
-  "county": "Kreis Siegen-Wittgenstein",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "SIegen"
-}, {
-  "tag": "SIG",
-  "county": "Landkreis Sigmaringen",
-  "state": "Baden-Württemberg",
-  "explanation": "SIGmaringen"
-}, {
-  "tag": "SIM",
-  "county": "Rhein-Hunsrück-Kreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "SIMmern"
-}, {
-  "tag": "SK",
-  "county": "Saalekreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "SaaleKreis"
-}, {
-  "tag": "SL",
-  "county": "Kreis Schleswig-Flensburg",
-  "state": "Schleswig-Holstein",
-  "explanation": "SchLeswig"
-}, {
-  "tag": "SLE",
-  "county": "Kreis Düren, Kreis Euskirchen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "SchLEiden"
-}, {
-  "tag": "SLF",
-  "county": "Landkreis Saalfeld-Rudolstadt",
-  "state": "Thüringen",
-  "explanation": "SaaLFeld"
-}, {
-  "tag": "SLG",
-  "county": "Landkreis Saulgau",
-  "state": "Baden-Württemberg",
-  "explanation": "SauLGau"
-}, {
-  "tag": "SLK",
-  "county": "Salzlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "SalzLandKreis"
-}, {
-  "tag": "SLN",
-  "county": "Landkreis Altenburger Land",
-  "state": "Thüringen",
-  "explanation": "SchmölLN"
-}, {
-  "tag": "SLS",
-  "county": "Landkreis Saarlouis",
-  "state": "Saarland",
-  "explanation": "SaarLouiS"
-}, {
-  "tag": "SLÜ",
-  "county": "Main-Kinzig-Kreis ohne die Stadt Hanau",
-  "state": "Hessen",
-  "explanation": "SchLÜchtern"
-}, {
-  "tag": "SLZ",
-  "county": "Wartburgkreis",
-  "state": "Thüringen",
-  "explanation": "SaLZungen"
-}, {
-  "tag": "SM",
-  "county": "Landkreis Schmalkalden-Meiningen",
-  "state": "Thüringen",
-  "explanation": "SchMalkalden"
-}, {
-  "tag": "SMÜ",
-  "county": "Landkreis Augsburg",
-  "state": "Bayern",
-  "explanation": "SchwabMÜnchen"
-}, {
-  "tag": "SN",
-  "county": "Stadt Schwerin",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "SchweriN"
-}, {
-  "tag": "SO",
-  "county": "Kreis Soest",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "SOest"
-}, {
-  "tag": "SOB",
-  "county": "Landkreis Neuburg-Schrobenhausen",
-  "state": "Bayern",
-  "explanation": "SchrOBenhausen"
-}, {
-  "tag": "SOG",
-  "county": "Landkreis Weilheim-Schongau",
-  "state": "Bayern",
-  "explanation": "SchOnGau"
-}, {
-  "tag": "SOK",
-  "county": "Saale-Orla-Kreis",
-  "state": "Thüringen",
-  "explanation": "Saale-Orla-Kreis"
-}, {
-  "tag": "SÖM",
-  "county": "Landkreis Sömmerda",
-  "state": "Thüringen",
-  "explanation": "SÖMmerda"
-}, {
-  "tag": "SON",
-  "county": "Landkreis Sonneberg",
-  "state": "Thüringen",
-  "explanation": "SONneberg"
-}, {
-  "tag": "SP",
-  "county": "Stadt Speyer",
-  "state": "Rheinland-Pfalz",
-  "explanation": "SPeyer"
-}, {
-  "tag": "SPB",
-  "county": "Landkreis Spree-Neiße",
-  "state": "Brandenburg",
-  "explanation": "SPremBerg"
-}, {
-  "tag": "SPN",
-  "county": "Landkreis Spree-Neiße",
-  "state": "Brandenburg",
-  "explanation": "SPree, Neiße"
-}, {
-  "tag": "SR",
-  "county": "Stadt Straubing, Landkreis Straubing-Bogen",
-  "state": "Bayern",
-  "explanation": "StRaubing"
-}, {
-  "tag": "SRB",
-  "county": "Landkreis Märkisch-Oderland",
-  "state": "Brandenburg",
-  "explanation": "StRausBerg"
-}, {
-  "tag": "SRO",
-  "county": "Saale-Holzland-Kreis",
-  "state": "Thüringen",
-  "explanation": "StadtROda"
-}, {
-  "tag": "ST",
-  "county": "Kreis Steinfurt",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "STeinfurt"
-}, {
-  "tag": "STA",
-  "county": "Landkreis Starnberg",
-  "state": "Bayern",
-  "explanation": "STArnberg"
-}, {
-  "tag": "STB",
-  "county": "Landkreis Ludwigslust-Parchim",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "STernBerg"
-}, {
-  "tag": "STD",
-  "county": "Landkreis Stade",
-  "state": "Niedersachsen",
-  "explanation": "STaDe"
-}, {
-  "tag": "STE",
-  "county": "Landkreis Lichtenfels",
-  "state": "Bayern",
-  "explanation": "STaffelstEin"
-}, {
-  "tag": "STL",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "STolLberg"
-}, {
-  "tag": "STO",
-  "county": "Landkreis Stockach",
-  "state": "Baden-Württemberg",
-  "explanation": "STOckach"
-}, {
-  "tag": "SU",
-  "county": "Rhein-Sieg-Kreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "SiegbUrg"
-}, {
-  "tag": "SUL",
-  "county": "Landkreis Amberg-Sulzbach",
-  "state": "Bayern",
-  "explanation": "SULzbach"
-}, {
-  "tag": "SÜW",
-  "county": "Landkreis Südliche Weinstraße",
-  "state": "Rheinland-Pfalz",
-  "explanation": "SÜdliche Weinstraße"
-}, {
-  "tag": "SW",
-  "county": "Stadt Schweinfurt, Landkreis Schweinfurt",
-  "state": "Bayern",
-  "explanation": "SchWeinfurt"
-}, {
-  "tag": "SWA",
-  "county": "Rheingau-Taunus-Kreis",
-  "state": "Hessen",
-  "explanation": "SchWAlbach"
-}, {
-  "tag": "SY",
-  "county": "Landkreis Diepholz",
-  "state": "Niedersachsen",
-  "explanation": "SYke"
-}, {
-  "tag": "SZ",
-  "county": "Stadt Salzgitter",
-  "state": "Niedersachsen",
-  "explanation": "SalZgitter"
-}, {
-  "tag": "SZB",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "SchwarZenBerg"
-}, {
-  "tag": "TBB",
-  "county": "Main-Tauber-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "TauBerBischofsheim"
-}, {
-  "tag": "TDO",
-  "county": "Landkreis Nordsachsen",
-  "state": "Sachsen",
-  "explanation": "Torgau, Delitzsch, Oschatz"
-}, {
-  "tag": "TE",
-  "county": "Kreis Steinfurt",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "TEcklenburg"
-}, {
-  "tag": "TET",
-  "county": "Landkreis Rostock",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "TETerow"
-}, {
-  "tag": "TF",
-  "county": "Landkreis Teltow-Fläming",
-  "state": "Brandenburg",
-  "explanation": "Teltow, Fläming"
-}, {
-  "tag": "TG",
-  "county": "Landkreis Nordsachsen",
-  "state": "Sachsen",
-  "explanation": "TorGau"
-}, {
-  "tag": "THL",
-  "county": "Thüringen, Landesregierung und Landtag",
-  "state": "Thüringen",
-  "explanation": "THüringer Landtag"
-}, {
-  "tag": "THW",
-  "county": "Bundesanstalt Technisches Hilfswerk",
-  "state": "bundesweit",
-  "explanation": "Technisches HilfsWerk"
-}, {
-  "tag": "TIR",
-  "county": "Landkreis Tirschenreuth",
-  "state": "Bayern",
-  "explanation": "TIRschenreuth"
-}, {
-  "tag": "TO",
-  "county": "Landkreis Nordsachsen",
-  "state": "Sachsen",
-  "explanation": "Torgau, Oschatz"
-}, {
-  "tag": "TÖL",
-  "county": "Landkreis Bad Tölz-Wolfratshausen",
-  "state": "Bayern",
-  "explanation": "TÖLz"
-}, {
-  "tag": "TP",
-  "county": "Landkreis Uckermark",
-  "state": "Brandenburg",
-  "explanation": "TemPlin"
-}, {
-  "tag": "TR",
-  "county": "Landkreis Trier-Saarburg und Stadt Trier",
-  "state": "Rheinland-Pfalz",
-  "explanation": "TRier"
-}, {
-  "tag": "TS",
-  "county": "Landkreis Traunstein",
-  "state": "Bayern",
-  "explanation": "TraunStein"
-}, {
-  "tag": "TT",
-  "county": "Bodenseekreis",
-  "state": "Baden-Württemberg",
-  "explanation": "TeTtnang"
-}, {
-  "tag": "TÜ",
-  "county": "Landkreis Tübingen",
-  "state": "Baden-Württemberg",
-  "explanation": "TÜbingen"
-}, {
-  "tag": "TUT",
-  "county": "Landkreis Tuttlingen",
-  "state": "Baden-Württemberg",
-  "explanation": "TUTtlingen"
-}, {
-  "tag": "UE",
-  "county": "Landkreis Uelzen",
-  "state": "Niedersachsen",
-  "explanation": "UElzen"
-}, {
-  "tag": "UEM",
-  "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "UEckerMünde"
-}, {
-  "tag": "UFF",
-  "county": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-  "state": "Bayern",
-  "explanation": "UFFenheim"
-}, {
-  "tag": "UH",
-  "county": "Unstrut-Hainich-Kreis",
-  "state": "Thüringen",
-  "explanation": "Unstrut, Hainich"
-}, {
-  "tag": "UL",
-  "county": "Stadt Ulm, Alb-Donau-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "ULm"
-}, {
-  "tag": "UM",
-  "county": "Landkreis Uckermark",
-  "state": "Brandenburg",
-  "explanation": "UckerMark"
-}, {
-  "tag": "UN",
-  "county": "Kreis Unna",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "UNna"
-}, {
-  "tag": "USI",
-  "county": "Hochtaunuskreis",
-  "state": "Hessen",
-  "explanation": "USIngen"
-}, {
-  "tag": "ÜB",
-  "county": "Bodenseekreis, Landkreis Ravensburg",
-  "state": "Baden-Württemberg",
-  "explanation": "ÜBerlingen"
-}, {
-  "tag": "V",
-  "county": "Vogtlandkreis",
-  "state": "Sachsen",
-  "explanation": "Vogtland"
-}, {
-  "tag": "VAI",
-  "county": "Landkreis Ludwigsburg",
-  "state": "Baden-Württemberg",
-  "explanation": "VAIhingen"
-}, {
-  "tag": "VB",
-  "county": "Vogelsbergkreis",
-  "state": "Hessen",
-  "explanation": "VogelsBerg"
-}, {
-  "tag": "VEC",
-  "county": "Landkreis Vechta",
-  "state": "Niedersachsen",
-  "explanation": "VEChta"
-}, {
-  "tag": "VER",
-  "county": "Landkreis Verden",
-  "state": "Niedersachsen",
-  "explanation": "VERden"
-}, {
-  "tag": "VG",
-  "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Vorpommern, Greifswald"
-}, {
-  "tag": "VIB",
-  "county": "Landkreis Landshut, Landkreis Rottal-Inn",
-  "state": "Bayern",
-  "explanation": "VIlsBiburg"
-}, {
-  "tag": "VIE",
-  "county": "Kreis Viersen",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "VIErsen"
-}, {
-  "tag": "VIT",
-  "county": "Landkreis Regen",
-  "state": "Bayern",
-  "explanation": "VIechTach"
-}, {
-  "tag": "VK",
-  "county": "Stadt Völklingen (Mittelstadt im Regionalverband Saarbrücken)",
-  "state": "Saarland",
-  "explanation": "VölKlingen"
-}, {
-  "tag": "VOH",
-  "county": "Landkreis Neustadt an der Waldnaab",
-  "state": "Bayern",
-  "explanation": "VOHenstrauß"
-}, {
-  "tag": "VR",
-  "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "Vorpommern, Rügen"
-}, {
-  "tag": "VS",
-  "county": "Schwarzwald-Baar-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "Villingen-Schwenningen"
-}, {
-  "tag": "W",
-  "county": "Stadt Wuppertal",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "Wuppertal"
-}, {
-  "tag": "WA",
-  "county": "Landkreis Waldeck-Frankenberg",
-  "state": "Hessen",
-  "explanation": "WAldeck"
-}, {
-  "tag": "WAF",
-  "county": "Kreis Warendorf",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "WArendorF"
-}, {
-  "tag": "WAK",
-  "county": "Wartburgkreis",
-  "state": "Thüringen",
-  "explanation": "WArtburgKreis"
-}, {
-  "tag": "WAN",
-  "county": "Stadt Herne",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "WANne"
-}, {
-  "tag": "WAR",
-  "county": "Kreis Höxter",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "WARburg"
-}, {
-  "tag": "WAT",
-  "county": "Stadt Bochum",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "WATtenscheid"
-}, {
-  "tag": "WB",
-  "county": "Landkreis Wittenberg",
-  "state": "Sachsen-Anhalt",
-  "explanation": "WittenBerg"
-}, {
-  "tag": "WBS",
-  "county": "Landkreis Eichsfeld",
-  "state": "Thüringen",
-  "explanation": "WorBiS"
-}, {
-  "tag": "WDA",
-  "county": "Landkreis Zwickau",
-  "state": "Sachsen",
-  "explanation": "WerDAu"
-}, {
-  "tag": "WE",
-  "county": "Stadt Weimar",
-  "state": "Thüringen",
-  "explanation": "WEimar"
-}, {
-  "tag": "WEL",
-  "county": "Landkreis Limburg-Weilburg",
-  "state": "Hessen",
-  "explanation": "WEiLburg"
-}, {
-  "tag": "WEN",
-  "county": "Stadt Weiden in der Oberpfalz",
-  "state": "Bayern",
-  "explanation": "WEideN"
-}, {
-  "tag": "WER",
-  "county": "Landkreis Dillingen an der Donau, Landkreis Augsburg",
-  "state": "Bayern",
-  "explanation": "WERtingen"
-}, {
-  "tag": "WES",
-  "county": "Kreis Wesel",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "WESel"
-}, {
-  "tag": "WF",
-  "county": "Landkreis Wolfenbüttel",
-  "state": "Niedersachsen",
-  "explanation": "WolFenbüttel"
-}, {
-  "tag": "WG",
-  "county": "Landkreis Ravensburg",
-  "state": "Baden-Württemberg",
-  "explanation": "WanGen"
-}, {
-  "tag": "WHV",
-  "county": "Stadt Wilhelmshaven",
-  "state": "Niedersachsen",
-  "explanation": "WilhelmsHaVen"
-}, {
-  "tag": "WI",
-  "county": "Stadt Wiesbaden",
-  "state": "Hessen",
-  "explanation": "WIesbaden"
-}, {
-  "tag": "WIL",
-  "county": "Landkreis Bernkastel-Wittlich",
-  "state": "Rheinland-Pfalz",
-  "explanation": "WIttLich"
-}, {
-  "tag": "WIN",
-  "county": "Winden (fiktiver Ort)",
-  "state": "Filmproduktion",
-  "explanation": "aus der Serie Dark"
-}, {
-  "tag": "WIS",
-  "county": "Landkreis Nordwestmecklenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "WISmar"
-}, {
-  "tag": "WIT",
-  "county": "Ennepe-Ruhr-Kreis",
-  "state": "Nordrhein-Westfalen",
-  "explanation": "WITten"
-}, {
-  "tag": "WIV",
-  "county": "fiktiver Ort",
-  "state": "Filmproduktion",
-  "explanation": "aus dem Film Hanne"
-}, {
-  "tag": "WIZ",
-  "county": "Werra-Meißner-Kreis",
-  "state": "Hessen",
-  "explanation": "WItZenhausen"
-}, {
-  "tag": "WK",
-  "county": "Landkreis Ostprignitz-Ruppin",
-  "state": "Brandenburg",
-  "explanation": "WittstocK"
-}, {
-  "tag": "WL",
-  "county": "Landkreis Harburg",
-  "state": "Niedersachsen",
-  "explanation": "Winsen (Luhe)"
-}, {
-  "tag": "WLG",
-  "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "WoLGast"
-}, {
-  "tag": "WM",
-  "county": "Landkreis Weilheim-Schongau",
-  "state": "Bayern",
-  "explanation": "WeilheiM"
-}, {
-  "tag": "WMS",
-  "county": "Landkreis Börde",
-  "state": "Sachsen-Anhalt",
-  "explanation": "WolMirStedt"
-}, {
-  "tag": "WN",
-  "county": "Rems-Murr-Kreis",
-  "state": "Baden-Württemberg",
-  "explanation": "WaiblingeN"
-}, {
-  "tag": "WND",
-  "county": "Landkreis St. Wendel",
-  "state": "Saarland",
-  "explanation": "WeNDel"
-}, {
-  "tag": "WO",
-  "county": "Stadt Worms",
-  "state": "Rheinland-Pfalz",
-  "explanation": "WOrms"
-}, {
-  "tag": "WOB",
-  "county": "Stadt Wolfsburg",
-  "state": "Niedersachsen",
-  "explanation": "WOlfsBurg"
-}, {
-  "tag": "WOH",
-  "county": "Landkreis Kassel",
-  "state": "Hessen",
-  "explanation": "WOlfHagen"
-}, {
-  "tag": "WOL",
-  "county": "Ortenaukreis, Landkreis Freudenstadt",
-  "state": "Baden-Württemberg",
-  "explanation": "WOLfach"
-}, {
-  "tag": "WOR",
-  "county": "Landkreis Bad Tölz-Wolfratshausen, Landkreis München, Landkreis Starnberg",
-  "state": "Bayern",
-  "explanation": "WOlfRatshausen"
-}, {
-  "tag": "WOS",
-  "county": "Landkreis Freyung-Grafenau",
-  "state": "Bayern",
-  "explanation": "WOlfStein"
-}, {
-  "tag": "WR",
-  "county": "Landkreis Harz",
-  "state": "Sachsen-Anhalt",
-  "explanation": "WernigeRode"
-}, {
-  "tag": "WRN",
-  "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-  "state": "Mecklenburg-Vorpommern",
-  "explanation": "WaReN"
-}, {
-  "tag": "WS",
-  "county": "Landkreis Rosenheim",
-  "state": "Bayern",
-  "explanation": "WasSerburg"
-}, {
-  "tag": "WSF",
-  "county": "Burgenlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "WeisSenFels"
-}, {
-  "tag": "WST",
-  "county": "Landkreis Ammerland",
-  "state": "Niedersachsen",
-  "explanation": "WesterSTede"
-}, {
-  "tag": "WSW",
-  "county": "Landkreis Görlitz",
-  "state": "Sachsen",
-  "explanation": "WeisSWasser"
-}, {
-  "tag": "WT",
-  "county": "Landkreis Waldshut",
-  "state": "Baden-Württemberg",
-  "explanation": "WaldshuT"
-}, {
-  "tag": "WTL",
-  "county": "Landkreis Osnabrück",
-  "state": "Niedersachsen",
-  "explanation": "WitTLage"
-}, {
-  "tag": "WTM",
-  "county": "Landkreis Wittmund",
-  "state": "Niedersachsen",
-  "explanation": "WitTMund"
-}, {
-  "tag": "WÜ",
-  "county": "Landkreis Würzburg, Stadt Würzburg",
-  "state": "Bayern",
-  "explanation": "WÜrzburg"
-}, {
-  "tag": "WUG",
-  "county": "Landkreis Weißenburg-Gunzenhausen",
-  "state": "Bayern",
-  "explanation": "WeißenbUrG"
-}, {
-  "tag": "WÜM",
-  "county": "Landkreis Cham",
-  "state": "Bayern",
-  "explanation": "WaldMÜnchen (mit einem Buchstabendreher)"
-}, {
-  "tag": "WUN",
-  "county": "Landkreis Wunsiedel im Fichtelgebirge",
-  "state": "Bayern",
-  "explanation": "WUNsiedel"
-}, {
-  "tag": "WUR",
-  "county": "Landkreis Leipzig",
-  "state": "Sachsen",
-  "explanation": "WURzen"
-}, {
-  "tag": "WW",
-  "county": "Westerwaldkreis",
-  "state": "Rheinland-Pfalz",
-  "explanation": "WesterWald"
-}, {
-  "tag": "WZ",
-  "county": "Stadt Wetzlar (Sonderstatusstadt im Lahn-Dill-Kreis)",
-  "state": "Hessen",
-  "explanation": "WetZlar"
-}, {
-  "tag": "WZL",
-  "county": "Landkreis Börde",
-  "state": "Sachsen-Anhalt",
-  "explanation": "WanZLeben"
-}, {
-  "tag": "X",
-  "county": "Internationale Hauptquartiere (NATO)",
-  "state": "bundesweit",
-  "explanation": "willkürlich gewählt"
-}, {
-  "tag": "Y",
-  "county": "Bundeswehr",
-  "state": "bundesweit",
-  "explanation": "willkürlich gewählt"
-}, {
-  "tag": "Z",
-  "county": "Landkreis Zwickau",
-  "state": "Sachsen",
-  "explanation": "Zwickau"
-}, {
-  "tag": "ZE",
-  "county": "Landkreis Anhalt-Bitterfeld",
-  "state": "Sachsen-Anhalt",
-  "explanation": "ZErbst"
-}, {
-  "tag": "ZEL",
-  "county": "Landkreis Cochem-Zell",
-  "state": "Rheinland-Pfalz",
-  "explanation": "ZELl"
-}, {
-  "tag": "ZI",
-  "county": "Landkreis Görlitz",
-  "state": "Sachsen",
-  "explanation": "ZIttau"
-}, {
-  "tag": "ZIG",
-  "county": "Schwalm-Eder-Kreis",
-  "state": "Hessen",
-  "explanation": "ZIeGenhain"
-}, {
-  "tag": "ZP",
-  "county": "Erzgebirgskreis",
-  "state": "Sachsen",
-  "explanation": "ZschoPau"
-}, {
-  "tag": "ZR",
-  "county": "Landkreis Greiz",
-  "state": "Thüringen",
-  "explanation": "ZeulenRoda"
-}, {
-  "tag": "ZW",
-  "county": "Stadt Zweibrücken, Landkreis Südwestpfalz",
-  "state": "Rheinland-Pfalz",
-  "explanation": "ZWeibrücken"
-}, {
-  "tag": "ZZ",
-  "county": "Burgenlandkreis",
-  "state": "Sachsen-Anhalt",
-  "explanation": "ZeitZ"
-}]
+[
+  {
+    "tag": "A",
+    "county": "Stadt Augsburg, Landkreis Augsburg",
+    "state": "Bayern",
+    "explanation": "Augsburg",
+    "id": 0
+  },
+  {
+    "tag": "AA",
+    "county": "Ostalbkreis",
+    "state": "Baden-Württemberg",
+    "explanation": "AAlen",
+    "id": 1
+  },
+  {
+    "tag": "AB",
+    "county": "Stadt Aschaffenburg, Landkreis Aschaffenburg",
+    "state": "Bayern",
+    "explanation": "AschaffenBurg",
+    "id": 2
+  },
+  {
+    "tag": "ABG",
+    "county": "Landkreis Altenburger Land",
+    "state": "Thüringen",
+    "explanation": "AltenBurG",
+    "id": 3
+  },
+  {
+    "tag": "ABI",
+    "county": "Landkreis Anhalt-Bitterfeld",
+    "state": "Sachsen-Anhalt",
+    "explanation": "Anhalt, BItterfeld",
+    "id": 4
+  },
+  {
+    "tag": "AC",
+    "county": "Städteregion Aachen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "AaChen",
+    "id": 5
+  },
+  {
+    "tag": "AE",
+    "county": "Vogtlandkreis",
+    "state": "Sachsen",
+    "explanation": "AuErbach",
+    "id": 6
+  },
+  {
+    "tag": "AH",
+    "county": "Kreis Borken",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "AHaus",
+    "id": 7
+  },
+  {
+    "tag": "AIB",
+    "county": "Landkreis München, Landkreis Rosenheim",
+    "state": "Bayern",
+    "explanation": "AIBling",
+    "id": 8
+  },
+  {
+    "tag": "AIC",
+    "county": "Landkreis Aichach-Friedberg",
+    "state": "Bayern",
+    "explanation": "AIChach",
+    "id": 9
+  },
+  {
+    "tag": "AK",
+    "county": "Landkreis Altenkirchen (Westerwald)",
+    "state": "Rheinland-Pfalz",
+    "explanation": "AltenKirchen",
+    "id": 10
+  },
+  {
+    "tag": "ALF",
+    "county": "Landkreis Hildesheim",
+    "state": "Niedersachsen",
+    "explanation": "ALFeld",
+    "id": 11
+  },
+  {
+    "tag": "ALZ",
+    "county": "Landkreis Aschaffenburg",
+    "state": "Bayern",
+    "explanation": "ALZenau",
+    "id": 12
+  },
+  {
+    "tag": "AM",
+    "county": "Stadt Amberg",
+    "state": "Bayern",
+    "explanation": "AMberg",
+    "id": 13
+  },
+  {
+    "tag": "AN",
+    "county": "Stadt Ansbach, Landkreis Ansbach",
+    "state": "Bayern",
+    "explanation": "ANsbach",
+    "id": 14
+  },
+  {
+    "tag": "ANA",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "ANnAberg",
+    "id": 15
+  },
+  {
+    "tag": "ANG",
+    "county": "Landkreis Uckermark",
+    "state": "Brandenburg",
+    "explanation": "ANGermünde",
+    "id": 16
+  },
+  {
+    "tag": "ANK",
+    "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "ANKlam",
+    "id": 17
+  },
+  {
+    "tag": "AÖ",
+    "county": "Landkreis Altötting",
+    "state": "Bayern",
+    "explanation": "AltÖtting",
+    "id": 18
+  },
+  {
+    "tag": "AP",
+    "county": "Landkreis Weimarer Land",
+    "state": "Thüringen",
+    "explanation": "APolda",
+    "id": 19
+  },
+  {
+    "tag": "APD",
+    "county": "Landkreis Weimarer Land",
+    "state": "Thüringen",
+    "explanation": "APolDa",
+    "id": 20
+  },
+  {
+    "tag": "ARN",
+    "county": "Ilm-Kreis",
+    "state": "Thüringen",
+    "explanation": "ARNstadt",
+    "id": 21
+  },
+  {
+    "tag": "ART",
+    "county": "Kyffhäuserkreis",
+    "state": "Thüringen",
+    "explanation": "ARTern",
+    "id": 22
+  },
+  {
+    "tag": "AS",
+    "county": "Landkreis Amberg-Sulzbach",
+    "state": "Bayern",
+    "explanation": "Amberg, Sulzbach",
+    "id": 23
+  },
+  {
+    "tag": "ASL",
+    "county": "Salzlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "ASchersLeben",
+    "id": 24
+  },
+  {
+    "tag": "ASZ",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "Aue, SchwarZenberg",
+    "id": 25
+  },
+  {
+    "tag": "AT",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "AltenTreptow",
+    "id": 26
+  },
+  {
+    "tag": "AU",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "AUe",
+    "id": 27
+  },
+  {
+    "tag": "AUR",
+    "county": "Landkreis Aurich",
+    "state": "Niedersachsen",
+    "explanation": "AURich",
+    "id": 28
+  },
+  {
+    "tag": "AW",
+    "county": "Landkreis Ahrweiler",
+    "state": "Rheinland-Pfalz",
+    "explanation": "AhrWeiler",
+    "id": 29
+  },
+  {
+    "tag": "AZ",
+    "county": "Landkreis Alzey-Worms",
+    "state": "Rheinland-Pfalz",
+    "explanation": "AlZey",
+    "id": 30
+  },
+  {
+    "tag": "AZE",
+    "county": "Landkreis Anhalt-Bitterfeld",
+    "state": "Sachsen-Anhalt",
+    "explanation": "Anhalt-ZErbst",
+    "id": 31
+  },
+  {
+    "tag": "B",
+    "county": "Berlin",
+    "state": "Berlin",
+    "explanation": "Berlin",
+    "id": 32
+  },
+  {
+    "tag": "BA",
+    "county": "Stadt Bamberg, Landkreis Bamberg",
+    "state": "Bayern",
+    "explanation": "BAmberg",
+    "id": 33
+  },
+  {
+    "tag": "BAD",
+    "county": "Stadt Baden-Baden",
+    "state": "Baden-Württemberg",
+    "explanation": "BADen-Baden",
+    "id": 34
+  },
+  {
+    "tag": "BAR",
+    "county": "Landkreis Barnim",
+    "state": "Brandenburg",
+    "explanation": "BARnim",
+    "id": 35
+  },
+  {
+    "tag": "BB",
+    "county": "Landkreis Böblingen",
+    "state": "Baden-Württemberg",
+    "explanation": "BöBlingen",
+    "id": 36
+  },
+  {
+    "tag": "BBG",
+    "county": "Salzlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "BernBurG",
+    "id": 37
+  },
+  {
+    "tag": "BBL",
+    "county": "Brandenburg, Landesregierung, Landtag und Polizei",
+    "state": "Brandenburg",
+    "explanation": "BrandenBurgische Landesregierung",
+    "id": 38
+  },
+  {
+    "tag": "BC",
+    "county": "Landkreis Biberach",
+    "state": "Baden-Württemberg",
+    "explanation": "BiberaCh",
+    "id": 39
+  },
+  {
+    "tag": "BCH",
+    "county": "Neckar-Odenwald-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "BuCHen",
+    "id": 40
+  },
+  {
+    "tag": "BD",
+    "county": "Deutscher Bundestag, Bundesrat, Bundespräsidialamt, Bundesregierung, Bundesministerien, Bundesfinanzverwaltung und Bundesverfassungsgericht",
+    "state": "bundesweit",
+    "explanation": "BundesDienst",
+    "id": 41
+  },
+  {
+    "tag": "BE",
+    "county": "Kreis Warendorf",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BEckum",
+    "id": 42
+  },
+  {
+    "tag": "BED",
+    "county": "Landkreis Mittelsachsen",
+    "state": "Sachsen",
+    "explanation": "Brand-ErbisDorf",
+    "id": 43
+  },
+  {
+    "tag": "BER",
+    "county": "Landkreis Barnim",
+    "state": "Brandenburg",
+    "explanation": "BERnau",
+    "id": 44
+  },
+  {
+    "tag": "BF",
+    "county": "Kreis Steinfurt",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BurgsteinFurt",
+    "id": 45
+  },
+  {
+    "tag": "BGD",
+    "county": "Landkreis Berchtesgadener Land",
+    "state": "Bayern",
+    "explanation": "BerchtesGaDen",
+    "id": 46
+  },
+  {
+    "tag": "BGL",
+    "county": "Landkreis Berchtesgadener Land",
+    "state": "Bayern",
+    "explanation": "BerchtesGadener Land",
+    "id": 47
+  },
+  {
+    "tag": "BH",
+    "county": "Ortenaukreis, Landkreis Rastatt",
+    "state": "Baden-Württemberg",
+    "explanation": "BüHl",
+    "id": 48
+  },
+  {
+    "tag": "BI",
+    "county": "Stadt Bielefeld",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BIelefeld",
+    "id": 49
+  },
+  {
+    "tag": "BID",
+    "county": "Landkreis Marburg-Biedenkopf",
+    "state": "Hessen",
+    "explanation": "BIeDenkopf",
+    "id": 50
+  },
+  {
+    "tag": "BIN",
+    "county": "Landkreis Mainz-Bingen",
+    "state": "Rheinland-Pfalz",
+    "explanation": "BINgen",
+    "id": 51
+  },
+  {
+    "tag": "BIR",
+    "county": "Landkreis Birkenfeld",
+    "state": "Rheinland-Pfalz",
+    "explanation": "BIRkenfeld",
+    "id": 52
+  },
+  {
+    "tag": "BIT",
+    "county": "Eifelkreis Bitburg-Prüm",
+    "state": "Rheinland-Pfalz",
+    "explanation": "BITburg",
+    "id": 53
+  },
+  {
+    "tag": "BIW",
+    "county": "Landkreis Bautzen",
+    "state": "Sachsen",
+    "explanation": "BIschofsWerda",
+    "id": 54
+  },
+  {
+    "tag": "BK",
+    "county": "Landkreis Backnang",
+    "state": "Baden-Württemberg",
+    "explanation": "BacKnang",
+    "id": 55
+  },
+  {
+    "tag": "BKS",
+    "county": "Landkreis Bernkastel-Wittlich",
+    "state": "Rheinland-Pfalz",
+    "explanation": "BernKaStel",
+    "id": 56
+  },
+  {
+    "tag": "BL",
+    "county": "Zollernalbkreis",
+    "state": "Baden-Württemberg",
+    "explanation": "BaLingen",
+    "id": 57
+  },
+  {
+    "tag": "BLB",
+    "county": "Kreis Siegen-Wittgenstein",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BerLeBurg",
+    "id": 58
+  },
+  {
+    "tag": "BLK",
+    "county": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "BurgenLandKreis",
+    "id": 59
+  },
+  {
+    "tag": "BM",
+    "county": "Rhein-Erft-Kreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BergheiM",
+    "id": 60
+  },
+  {
+    "tag": "BN",
+    "county": "Stadt Bonn, Diplomaten",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BonN",
+    "id": 61
+  },
+  {
+    "tag": "BNA",
+    "county": "Landkreis Leipzig",
+    "state": "Sachsen",
+    "explanation": "BorNA",
+    "id": 62
+  },
+  {
+    "tag": "BO",
+    "county": "Stadt Bochum",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BOchum",
+    "id": 63
+  },
+  {
+    "tag": "BÖ",
+    "county": "Landkreis Börde",
+    "state": "Sachsen-Anhalt",
+    "explanation": "BÖrde",
+    "id": 64
+  },
+  {
+    "tag": "BOG",
+    "county": "Landkreis Straubing-Bogen",
+    "state": "Bayern",
+    "explanation": "BOGen",
+    "id": 65
+  },
+  {
+    "tag": "BOH",
+    "county": "Kreis Borken",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BOcHolt",
+    "id": 66
+  },
+  {
+    "tag": "BOR",
+    "county": "Kreis Borken",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BORken",
+    "id": 67
+  },
+  {
+    "tag": "BOT",
+    "county": "Stadt Bottrop",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BOTtrop",
+    "id": 68
+  },
+  {
+    "tag": "BP",
+    "county": "Bundespolizei",
+    "state": "bundesweit",
+    "explanation": "BundesPolizei",
+    "id": 69
+  },
+  {
+    "tag": "BRA",
+    "county": "Landkreis Wesermarsch",
+    "state": "Niedersachsen",
+    "explanation": "BRAke",
+    "id": 70
+  },
+  {
+    "tag": "BRB",
+    "county": "Stadt Brandenburg an der Havel",
+    "state": "Brandenburg",
+    "explanation": "BRandenBurg",
+    "id": 71
+  },
+  {
+    "tag": "BRG",
+    "county": "Landkreis Jerichower Land",
+    "state": "Sachsen-Anhalt",
+    "explanation": "BuRG",
+    "id": 72
+  },
+  {
+    "tag": "BRK",
+    "county": "Landkreis Bad Kissingen",
+    "state": "Bayern",
+    "explanation": "BRücKenau",
+    "id": 73
+  },
+  {
+    "tag": "BRL",
+    "county": "Landkreis Goslar",
+    "state": "Niedersachsen",
+    "explanation": "BRaunLage",
+    "id": 74
+  },
+  {
+    "tag": "BRV",
+    "county": "Landkreis Rotenburg (Wümme)",
+    "state": "Niedersachsen",
+    "explanation": "BRemerVörde",
+    "id": 75
+  },
+  {
+    "tag": "BS",
+    "county": "Stadt Braunschweig, Polizeidirektion Braunschweig",
+    "state": "Niedersachsen",
+    "explanation": "BraunSchweig",
+    "id": 76
+  },
+  {
+    "tag": "BSB",
+    "county": "Landkreis Osnabrück",
+    "state": "Niedersachsen",
+    "explanation": "BerSenBrück",
+    "id": 77
+  },
+  {
+    "tag": "BSK",
+    "county": "Landkreis Oder-Spree",
+    "state": "Brandenburg",
+    "explanation": "BeeSKow",
+    "id": 78
+  },
+  {
+    "tag": "BT",
+    "county": "Stadt Bayreuth, Landkreis Bayreuth",
+    "state": "Bayern",
+    "explanation": "BayreuTh",
+    "id": 79
+  },
+  {
+    "tag": "BTF",
+    "county": "Landkreis Anhalt-Bitterfeld",
+    "state": "Sachsen-Anhalt",
+    "explanation": "BitTerFeld",
+    "id": 80
+  },
+  {
+    "tag": "BÜD",
+    "county": "Wetteraukreis",
+    "state": "Hessen",
+    "explanation": "BÜDingen",
+    "id": 81
+  },
+  {
+    "tag": "BUL",
+    "county": "Landkreis Amberg-Sulzbach, Landkreis Schwandorf",
+    "state": "Bayern",
+    "explanation": "BUrgLengenfeld",
+    "id": 82
+  },
+  {
+    "tag": "BÜR",
+    "county": "Kreis Paderborn",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "BÜRen",
+    "id": 83
+  },
+  {
+    "tag": "BÜS",
+    "county": "Gemeinde Büsingen am Hochrhein (Gemeinde im Landkreis Konstanz, deutsche Exklave in der Schweiz)",
+    "state": "Baden-Württemberg",
+    "explanation": "BÜSingen",
+    "id": 84
+  },
+  {
+    "tag": "BÜZ",
+    "county": "Landkreis Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "BÜtZow",
+    "id": 85
+  },
+  {
+    "tag": "BW",
+    "county": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
+    "state": "bundesweit",
+    "explanation": "Bundes-Wasserstraßen- und Schifffahrtsverwaltung",
+    "id": 86
+  },
+  {
+    "tag": "BWL",
+    "county": "Baden-Württemberg, Landesregierung, Landtag und Polizei",
+    "state": "Baden-Württemberg",
+    "explanation": "Baden-Württembergischer Landtag",
+    "id": 87
+  },
+  {
+    "tag": "BYL",
+    "county": "Bayern, Landesregierung und Landtag",
+    "state": "Bayern",
+    "explanation": "BaYerischer Landtag",
+    "id": 88
+  },
+  {
+    "tag": "BZ",
+    "county": "Landkreis Bautzen",
+    "state": "Sachsen",
+    "explanation": "BautZen",
+    "id": 89
+  },
+  {
+    "tag": "C",
+    "county": "Stadt Chemnitz",
+    "state": "Sachsen",
+    "explanation": "Chemnitz",
+    "id": 90
+  },
+  {
+    "tag": "CA",
+    "county": "Landkreis Oberspreewald-Lausitz",
+    "state": "Brandenburg",
+    "explanation": "CAlau",
+    "id": 91
+  },
+  {
+    "tag": "CAS",
+    "county": "Kreis Recklinghausen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "CAStrop",
+    "id": 92
+  },
+  {
+    "tag": "CB",
+    "county": "Stadt Cottbus",
+    "state": "Brandenburg",
+    "explanation": "CottBus",
+    "id": 93
+  },
+  {
+    "tag": "CE",
+    "county": "Landkreis Celle",
+    "state": "Niedersachsen",
+    "explanation": "CElle",
+    "id": 94
+  },
+  {
+    "tag": "CHA",
+    "county": "Landkreis Cham",
+    "state": "Bayern",
+    "explanation": "CHAm",
+    "id": 95
+  },
+  {
+    "tag": "CLP",
+    "county": "Landkreis Cloppenburg",
+    "state": "Niedersachsen",
+    "explanation": "CLopPenburg",
+    "id": 96
+  },
+  {
+    "tag": "CLZ",
+    "county": "Landkreis Goslar",
+    "state": "Niedersachsen",
+    "explanation": "CLausthal-Zellerfeld",
+    "id": 97
+  },
+  {
+    "tag": "CO",
+    "county": "Stadt Coburg und Landkreis Coburg",
+    "state": "Bayern",
+    "explanation": "COburg",
+    "id": 98
+  },
+  {
+    "tag": "COC",
+    "county": "Landkreis Cochem-Zell",
+    "state": "Rheinland-Pfalz",
+    "explanation": "COChem",
+    "id": 99
+  },
+  {
+    "tag": "COE",
+    "county": "Kreis Coesfeld",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "COEsfeld",
+    "id": 100
+  },
+  {
+    "tag": "CR",
+    "county": "Landkreis Schwäbisch Hall",
+    "state": "Baden-Württemberg",
+    "explanation": "CRailsheim",
+    "id": 101
+  },
+  {
+    "tag": "CUX",
+    "county": "Landkreis Cuxhaven",
+    "state": "Niedersachsen",
+    "explanation": "CUXhaven",
+    "id": 102
+  },
+  {
+    "tag": "CW",
+    "county": "Landkreis Calw",
+    "state": "Baden-Württemberg",
+    "explanation": "CalW",
+    "id": 103
+  },
+  {
+    "tag": "D",
+    "county": "Stadt Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "Düsseldorf",
+    "id": 104
+  },
+  {
+    "tag": "DA",
+    "county": "Landkreis Darmstadt-Dieburg und Stadt Darmstadt",
+    "state": "Hessen",
+    "explanation": "DArmstadt",
+    "id": 105
+  },
+  {
+    "tag": "DAH",
+    "county": "Landkreis Dachau",
+    "state": "Bayern",
+    "explanation": "DAcHau",
+    "id": 106
+  },
+  {
+    "tag": "DAN",
+    "county": "Landkreis Lüchow-Dannenberg",
+    "state": "Niedersachsen",
+    "explanation": "DANnenberg",
+    "id": 107
+  },
+  {
+    "tag": "DAU",
+    "county": "Landkreis Vulkaneifel",
+    "state": "Rheinland-Pfalz",
+    "explanation": "DAUn",
+    "id": 108
+  },
+  {
+    "tag": "DBR",
+    "county": "Landkreis Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "DoBeRan",
+    "id": 109
+  },
+  {
+    "tag": "DD",
+    "county": "Stadt Dresden, Polizei Sachsen",
+    "state": "Sachsen",
+    "explanation": "DresDen",
+    "id": 110
+  },
+  {
+    "tag": "DE",
+    "county": "Stadt Dessau-Roßlau",
+    "state": "Sachsen-Anhalt",
+    "explanation": "DEssau",
+    "id": 111
+  },
+  {
+    "tag": "DEG",
+    "county": "Landkreis Deggendorf",
+    "state": "Bayern",
+    "explanation": "DEGgendorf",
+    "id": 112
+  },
+  {
+    "tag": "DEL",
+    "county": "Stadt Delmenhorst",
+    "state": "Niedersachsen",
+    "explanation": "DELmenhorst",
+    "id": 113
+  },
+  {
+    "tag": "DGF",
+    "county": "Landkreis Dingolfing-Landau",
+    "state": "Bayern",
+    "explanation": "DinGolFing",
+    "id": 114
+  },
+  {
+    "tag": "DH",
+    "county": "Landkreis Diepholz",
+    "state": "Niedersachsen",
+    "explanation": "DiepHolz",
+    "id": 115
+  },
+  {
+    "tag": "DI",
+    "county": "Landkreis Darmstadt-Dieburg",
+    "state": "Hessen",
+    "explanation": "DIeburg",
+    "id": 116
+  },
+  {
+    "tag": "DIL",
+    "county": "Lahn-Dill-Kreis ohne die Stadt Wetzlar",
+    "state": "Hessen",
+    "explanation": "DILlenburg",
+    "id": 117
+  },
+  {
+    "tag": "DIN",
+    "county": "Kreis Wesel",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "DINslaken",
+    "id": 118
+  },
+  {
+    "tag": "DIZ",
+    "county": "Rhein-Lahn-Kreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "DIeZ",
+    "id": 119
+  },
+  {
+    "tag": "DKB",
+    "county": "Landkreis Ansbach",
+    "state": "Bayern",
+    "explanation": "DinKelsBühl",
+    "id": 120
+  },
+  {
+    "tag": "DL",
+    "county": "Landkreis Mittelsachsen",
+    "state": "Sachsen",
+    "explanation": "DöbeLn",
+    "id": 121
+  },
+  {
+    "tag": "DLG",
+    "county": "Landkreis Dillingen an der Donau",
+    "state": "Bayern",
+    "explanation": "DilLinGen",
+    "id": 122
+  },
+  {
+    "tag": "DM",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "DemMin",
+    "id": 123
+  },
+  {
+    "tag": "DN",
+    "county": "Kreis Düren",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "DüreN",
+    "id": 124
+  },
+  {
+    "tag": "DO",
+    "county": "Stadt Dortmund",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "DOrtmund",
+    "id": 125
+  },
+  {
+    "tag": "DON",
+    "county": "Landkreis Donau-Ries",
+    "state": "Bayern",
+    "explanation": "DONauwörth",
+    "id": 126
+  },
+  {
+    "tag": "DU",
+    "county": "Stadt Duisburg",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "DUisburg",
+    "id": 127
+  },
+  {
+    "tag": "DUD",
+    "county": "Landkreis Göttingen ohne die Stadt Göttingen",
+    "state": "Niedersachsen",
+    "explanation": "DUDerstadt",
+    "id": 128
+  },
+  {
+    "tag": "DÜW",
+    "county": "Landkreis Bad Dürkheim",
+    "state": "Rheinland-Pfalz",
+    "explanation": "DÜrkheim an der Weinstraße",
+    "id": 129
+  },
+  {
+    "tag": "DW",
+    "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "state": "Sachsen",
+    "explanation": "DippoldisWalde",
+    "id": 130
+  },
+  {
+    "tag": "DZ",
+    "county": "Landkreis Nordsachsen",
+    "state": "Sachsen",
+    "explanation": "DelitZsch",
+    "id": 131
+  },
+  {
+    "tag": "E",
+    "county": "Stadt Essen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "Essen",
+    "id": 132
+  },
+  {
+    "tag": "EA",
+    "county": "Stadt Eisenach",
+    "state": "Thüringen",
+    "explanation": "EisenAch",
+    "id": 133
+  },
+  {
+    "tag": "EB",
+    "county": "Landkreis Nordsachsen",
+    "state": "Sachsen",
+    "explanation": "EilenBurg",
+    "id": 134
+  },
+  {
+    "tag": "EBE",
+    "county": "Landkreis Ebersberg",
+    "state": "Bayern",
+    "explanation": "EBErsberg",
+    "id": 135
+  },
+  {
+    "tag": "EBN",
+    "county": "Landkreis Haßberge",
+    "state": "Bayern",
+    "explanation": "EBerN",
+    "id": 136
+  },
+  {
+    "tag": "EBS",
+    "county": "Landkreis Forchheim, Landkreis Kulmbach, Landkreis Bayreuth",
+    "state": "Bayern",
+    "explanation": "EBermannStadt",
+    "id": 137
+  },
+  {
+    "tag": "ECK",
+    "county": "Kreis Rendsburg-Eckernförde",
+    "state": "Schleswig-Holstein",
+    "explanation": "ECKernförde",
+    "id": 138
+  },
+  {
+    "tag": "ED",
+    "county": "Landkreis Erding",
+    "state": "Bayern",
+    "explanation": "ErDing",
+    "id": 139
+  },
+  {
+    "tag": "EE",
+    "county": "Landkreis Elbe-Elster",
+    "state": "Brandenburg",
+    "explanation": "Elbe, Elster",
+    "id": 140
+  },
+  {
+    "tag": "EF",
+    "county": "Stadt Erfurt",
+    "state": "Thüringen",
+    "explanation": "ErFurt",
+    "id": 141
+  },
+  {
+    "tag": "EG",
+    "county": "Landkreis Rottal-Inn",
+    "state": "Bayern",
+    "explanation": "EGgenfelden",
+    "id": 142
+  },
+  {
+    "tag": "EH",
+    "county": "Landkreis Oder-Spree",
+    "state": "Brandenburg",
+    "explanation": "EisenHüttenstadt",
+    "id": 143
+  },
+  {
+    "tag": "EI",
+    "county": "Landkreis Eichstätt",
+    "state": "Bayern",
+    "explanation": "EIchstätt",
+    "id": 144
+  },
+  {
+    "tag": "EIC",
+    "county": "Landkreis Eichsfeld",
+    "state": "Thüringen",
+    "explanation": "EIChsfeld",
+    "id": 145
+  },
+  {
+    "tag": "EIL",
+    "county": "Landkreis Mansfeld-Südharz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "EIsLeben",
+    "id": 146
+  },
+  {
+    "tag": "EIN",
+    "county": "Landkreis Northeim",
+    "state": "Niedersachsen",
+    "explanation": "EINbeck",
+    "id": 147
+  },
+  {
+    "tag": "EIS",
+    "county": "Saale-Holzland-Kreis",
+    "state": "Thüringen",
+    "explanation": "EISenberg",
+    "id": 148
+  },
+  {
+    "tag": "EL",
+    "county": "Landkreis Emsland",
+    "state": "Niedersachsen",
+    "explanation": "EmsLand",
+    "id": 149
+  },
+  {
+    "tag": "EM",
+    "county": "Landkreis Emmendingen",
+    "state": "Baden-Württemberg",
+    "explanation": "EMmendingen",
+    "id": 150
+  },
+  {
+    "tag": "EMD",
+    "county": "Stadt Emden",
+    "state": "Niedersachsen",
+    "explanation": "EMDen",
+    "id": 151
+  },
+  {
+    "tag": "EMS",
+    "county": "Rhein-Lahn-Kreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "EMS",
+    "id": 152
+  },
+  {
+    "tag": "EN",
+    "county": "Ennepe-Ruhr-Kreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "ENnepe",
+    "id": 153
+  },
+  {
+    "tag": "ER",
+    "county": "Stadt Erlangen",
+    "state": "Bayern",
+    "explanation": "ERlangen",
+    "id": 154
+  },
+  {
+    "tag": "ERB",
+    "county": "Odenwaldkreis",
+    "state": "Hessen",
+    "explanation": "ERBach",
+    "id": 155
+  },
+  {
+    "tag": "ERH",
+    "county": "Landkreis Erlangen-Höchstadt",
+    "state": "Bayern",
+    "explanation": "ERlangen, Höchstadt",
+    "id": 156
+  },
+  {
+    "tag": "ERK",
+    "county": "Kreis Heinsberg",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "ERKelenz",
+    "id": 157
+  },
+  {
+    "tag": "ERZ",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "ERZgebirge",
+    "id": 158
+  },
+  {
+    "tag": "ES",
+    "county": "Landkreis Esslingen",
+    "state": "Baden-Württemberg",
+    "explanation": "ESslingen",
+    "id": 159
+  },
+  {
+    "tag": "ESB",
+    "county": "Landkreis Neustadt an der Waldnaab, Landkreis Amberg-Sulzbach, Landkreis Bayreuth, Landkreis Nürnberger Land",
+    "state": "Bayern",
+    "explanation": "ESchenBach",
+    "id": 160
+  },
+  {
+    "tag": "ESW",
+    "county": "Werra-Meißner-Kreis",
+    "state": "Hessen",
+    "explanation": "ESchWege",
+    "id": 161
+  },
+  {
+    "tag": "EU",
+    "county": "Kreis Euskirchen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "EUskirchen",
+    "id": 162
+  },
+  {
+    "tag": "EW",
+    "county": "Landkreis Barnim",
+    "state": "Brandenburg",
+    "explanation": "EbersWalde",
+    "id": 163
+  },
+  {
+    "tag": "F",
+    "county": "Stadt Frankfurt am Main",
+    "state": "Hessen",
+    "explanation": "Frankfurt",
+    "id": 164
+  },
+  {
+    "tag": "FB",
+    "county": "Wetteraukreis",
+    "state": "Hessen",
+    "explanation": "FriedBerg",
+    "id": 165
+  },
+  {
+    "tag": "FD",
+    "county": "Landkreis Fulda",
+    "state": "Hessen",
+    "explanation": "FulDa",
+    "id": 166
+  },
+  {
+    "tag": "FDB",
+    "county": "Landkreis Aichach-Friedberg",
+    "state": "Bayern",
+    "explanation": "FrieDBerg",
+    "id": 167
+  },
+  {
+    "tag": "FDS",
+    "county": "Landkreis Freudenstadt",
+    "state": "Baden-Württemberg",
+    "explanation": "FreuDenStadt",
+    "id": 168
+  },
+  {
+    "tag": "FEU",
+    "county": "Landkreis Ansbach",
+    "state": "Bayern",
+    "explanation": "FEUchtwangen",
+    "id": 169
+  },
+  {
+    "tag": "FF",
+    "county": "Stadt Frankfurt (Oder)",
+    "state": "Brandenburg",
+    "explanation": "FrankFurt",
+    "id": 170
+  },
+  {
+    "tag": "FFB",
+    "county": "Landkreis Fürstenfeldbruck",
+    "state": "Bayern",
+    "explanation": "FürstenFeldBruck",
+    "id": 171
+  },
+  {
+    "tag": "FG",
+    "county": "Landkreis Mittelsachsen",
+    "state": "Sachsen",
+    "explanation": "FreiberG",
+    "id": 172
+  },
+  {
+    "tag": "FI",
+    "county": "Landkreis Elbe-Elster",
+    "state": "Brandenburg",
+    "explanation": "FInsterwalde",
+    "id": 173
+  },
+  {
+    "tag": "FKB",
+    "county": "Landkreis Waldeck-Frankenberg",
+    "state": "Hessen",
+    "explanation": "FranKenBerg",
+    "id": 174
+  },
+  {
+    "tag": "FL",
+    "county": "Stadt Flensburg",
+    "state": "Schleswig-Holstein",
+    "explanation": "FLensburg",
+    "id": 175
+  },
+  {
+    "tag": "FLÖ",
+    "county": "Landkreis Mittelsachsen",
+    "state": "Sachsen",
+    "explanation": "FLÖha",
+    "id": 176
+  },
+  {
+    "tag": "FN",
+    "county": "Bodenseekreis",
+    "state": "Baden-Württemberg",
+    "explanation": "FriedrichshafeN",
+    "id": 177
+  },
+  {
+    "tag": "FO",
+    "county": "Landkreis Forchheim",
+    "state": "Bayern",
+    "explanation": "FOrchheim",
+    "id": 178
+  },
+  {
+    "tag": "FOR",
+    "county": "Landkreis Spree-Neiße",
+    "state": "Brandenburg",
+    "explanation": "FORst",
+    "id": 179
+  },
+  {
+    "tag": "FR",
+    "county": "Landkreis Breisgau-Hochschwarzwald, Stadt Freiburg im Breisgau",
+    "state": "Baden-Württemberg",
+    "explanation": "FReiburg",
+    "id": 180
+  },
+  {
+    "tag": "FRG",
+    "county": "Landkreis Freyung-Grafenau",
+    "state": "Bayern",
+    "explanation": "FReyung, Grafenau",
+    "id": 181
+  },
+  {
+    "tag": "FRI",
+    "county": "Landkreis Friesland",
+    "state": "Niedersachsen",
+    "explanation": "FRIesland",
+    "id": 182
+  },
+  {
+    "tag": "FRW",
+    "county": "Landkreis Märkisch-Oderland",
+    "state": "Brandenburg",
+    "explanation": "FReienWalde",
+    "id": 183
+  },
+  {
+    "tag": "FS",
+    "county": "Landkreis Freising",
+    "state": "Bayern",
+    "explanation": "FreiSing",
+    "id": 184
+  },
+  {
+    "tag": "FT",
+    "county": "Stadt Frankenthal (Pfalz)",
+    "state": "Rheinland-Pfalz",
+    "explanation": "FrankenThal",
+    "id": 185
+  },
+  {
+    "tag": "FTL",
+    "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "state": "Sachsen",
+    "explanation": "FreiTaL",
+    "id": 186
+  },
+  {
+    "tag": "FÜ",
+    "county": "Landkreis Fürth, Stadt Fürth",
+    "state": "Bayern",
+    "explanation": "FÜrth",
+    "id": 187
+  },
+  {
+    "tag": "FÜS",
+    "county": "Landkreis Ostallgäu",
+    "state": "Bayern",
+    "explanation": "FÜSsen",
+    "id": 188
+  },
+  {
+    "tag": "FW",
+    "county": "Landkreis Oder-Spree",
+    "state": "Brandenburg",
+    "explanation": "FürstenWalde",
+    "id": 189
+  },
+  {
+    "tag": "FZ",
+    "county": "Schwalm-Eder-Kreis",
+    "state": "Hessen",
+    "explanation": "FritZlar",
+    "id": 190
+  },
+  {
+    "tag": "G",
+    "county": "Stadt Gera",
+    "state": "Thüringen",
+    "explanation": "Gera",
+    "id": 191
+  },
+  {
+    "tag": "GA",
+    "county": "Altmarkkreis Salzwedel",
+    "state": "Sachsen-Anhalt",
+    "explanation": "GArdelegen",
+    "id": 192
+  },
+  {
+    "tag": "GAN",
+    "county": "Landkreis Northeim",
+    "state": "Niedersachsen",
+    "explanation": "GANdersheim",
+    "id": 193
+  },
+  {
+    "tag": "GAP",
+    "county": "Landkreis Garmisch-Partenkirchen",
+    "state": "Bayern",
+    "explanation": "GArmisch-Partenkirchen",
+    "id": 194
+  },
+  {
+    "tag": "GC",
+    "county": "Landkreis Zwickau",
+    "state": "Sachsen",
+    "explanation": "GlauChau",
+    "id": 195
+  },
+  {
+    "tag": "GD",
+    "county": "Ostalbkreis",
+    "state": "Baden-Württemberg",
+    "explanation": "GmünD",
+    "id": 196
+  },
+  {
+    "tag": "GDB",
+    "county": "Landkreis Nordwestmecklenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "GaDeBusch",
+    "id": 197
+  },
+  {
+    "tag": "GE",
+    "county": "Stadt Gelsenkirchen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GElsenkirchen",
+    "id": 198
+  },
+  {
+    "tag": "GEL",
+    "county": "Kreis Kleve",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GELdern",
+    "id": 199
+  },
+  {
+    "tag": "GEO",
+    "county": "Landkreis Schweinfurt, Landkreis Haßberge",
+    "state": "Bayern",
+    "explanation": "GErOlzhofen",
+    "id": 200
+  },
+  {
+    "tag": "GER",
+    "county": "Landkreis Germersheim",
+    "state": "Rheinland-Pfalz",
+    "explanation": "GERmersheim",
+    "id": 201
+  },
+  {
+    "tag": "GF",
+    "county": "Landkreis Gifhorn",
+    "state": "Niedersachsen",
+    "explanation": "GiFhorn",
+    "id": 202
+  },
+  {
+    "tag": "GG",
+    "county": "Kreis Groß-Gerau",
+    "state": "Hessen",
+    "explanation": "Groß-Gerau",
+    "id": 203
+  },
+  {
+    "tag": "GHA",
+    "county": "Landkreis Leipzig",
+    "state": "Sachsen",
+    "explanation": "GeitHAin",
+    "id": 204
+  },
+  {
+    "tag": "GHC",
+    "county": "Landkreis Wittenberg",
+    "state": "Sachsen-Anhalt",
+    "explanation": "GräfenHainiChen",
+    "id": 205
+  },
+  {
+    "tag": "GI",
+    "county": "Landkreis Gießen",
+    "state": "Hessen",
+    "explanation": "GIeßen",
+    "id": 206
+  },
+  {
+    "tag": "GK",
+    "county": "Kreis Heinsberg",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GeilenKirchen",
+    "id": 207
+  },
+  {
+    "tag": "GL",
+    "county": "Rheinisch-Bergischer Kreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GLadbach",
+    "id": 208
+  },
+  {
+    "tag": "GLA",
+    "county": "Kreis Recklinghausen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GLAdbeck",
+    "id": 209
+  },
+  {
+    "tag": "GM",
+    "county": "Oberbergischer Kreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GumMersbach",
+    "id": 210
+  },
+  {
+    "tag": "GMN",
+    "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "GrimMeN",
+    "id": 211
+  },
+  {
+    "tag": "GN",
+    "county": "Main-Kinzig-Kreis ohne die Stadt Hanau",
+    "state": "Hessen",
+    "explanation": "GelnhauseN",
+    "id": 212
+  },
+  {
+    "tag": "GNT",
+    "county": "Landkreis Jerichower Land",
+    "state": "Sachsen-Anhalt",
+    "explanation": "GeNThin",
+    "id": 213
+  },
+  {
+    "tag": "GÖ",
+    "county": "Landkreis Göttingen, Stadt Göttingen",
+    "state": "Niedersachsen",
+    "explanation": "GÖttingen",
+    "id": 214
+  },
+  {
+    "tag": "GOA",
+    "county": "Rhein-Hunsrück-Kreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "GOAr",
+    "id": 215
+  },
+  {
+    "tag": "GOH",
+    "county": "Rhein-Lahn-Kreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "GOarsHausen",
+    "id": 216
+  },
+  {
+    "tag": "GP",
+    "county": "Landkreis Göppingen",
+    "state": "Baden-Württemberg",
+    "explanation": "GöpPingen",
+    "id": 217
+  },
+  {
+    "tag": "GR",
+    "county": "Landkreis Görlitz",
+    "state": "Sachsen",
+    "explanation": "GöRlitz",
+    "id": 218
+  },
+  {
+    "tag": "GRA",
+    "county": "Landkreis Freyung-Grafenau",
+    "state": "Bayern",
+    "explanation": "GRAfenau",
+    "id": 219
+  },
+  {
+    "tag": "GRH",
+    "county": "Landkreis Meißen",
+    "state": "Sachsen",
+    "explanation": "GRoßenHain",
+    "id": 220
+  },
+  {
+    "tag": "GRI",
+    "county": "Landkreis Rottal-Inn",
+    "state": "Bayern",
+    "explanation": "GRIesbach",
+    "id": 221
+  },
+  {
+    "tag": "GRM",
+    "county": "Landkreis Leipzig",
+    "state": "Sachsen",
+    "explanation": "GRimMa",
+    "id": 222
+  },
+  {
+    "tag": "GRZ",
+    "county": "Landkreis Greiz",
+    "state": "Thüringen",
+    "explanation": "GReiZ",
+    "id": 223
+  },
+  {
+    "tag": "GS",
+    "county": "Landkreis Goslar",
+    "state": "Niedersachsen",
+    "explanation": "GoSlar",
+    "id": 224
+  },
+  {
+    "tag": "GT",
+    "county": "Kreis Gütersloh",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GüTersloh",
+    "id": 225
+  },
+  {
+    "tag": "GTH",
+    "county": "Landkreis Gotha",
+    "state": "Thüringen",
+    "explanation": "GoTHa",
+    "id": 226
+  },
+  {
+    "tag": "GÜ",
+    "county": "Landkreis Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "GÜstrow",
+    "id": 227
+  },
+  {
+    "tag": "GUB",
+    "county": "Landkreis Spree-Neiße",
+    "state": "Brandenburg",
+    "explanation": "GUBen",
+    "id": 228
+  },
+  {
+    "tag": "GUN",
+    "county": "Landkreis Weißenburg-Gunzenhausen",
+    "state": "Bayern",
+    "explanation": "GUNzenhausen",
+    "id": 229
+  },
+  {
+    "tag": "GV",
+    "county": "Rhein-Kreis Neuss",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "GreVenbroich",
+    "id": 230
+  },
+  {
+    "tag": "GVM",
+    "county": "Landkreis Nordwestmecklenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "GreVesMühlen",
+    "id": 231
+  },
+  {
+    "tag": "GW",
+    "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "GreifsWald",
+    "id": 232
+  },
+  {
+    "tag": "GZ",
+    "county": "Landkreis Günzburg",
+    "state": "Bayern",
+    "explanation": "GünZburg",
+    "id": 233
+  },
+  {
+    "tag": "H",
+    "county": "Region Hannover",
+    "state": "Niedersachsen",
+    "explanation": "Hannover",
+    "id": 234
+  },
+  {
+    "tag": "HA",
+    "county": "Stadt Hagen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "HAgen",
+    "id": 235
+  },
+  {
+    "tag": "HAB",
+    "county": "Landkreis Bad Kissingen",
+    "state": "Bayern",
+    "explanation": "HAmmelBurg",
+    "id": 236
+  },
+  {
+    "tag": "HAL",
+    "county": "Stadt Halle (Saale)",
+    "state": "Sachsen-Anhalt",
+    "explanation": "HALle",
+    "id": 237
+  },
+  {
+    "tag": "HAM",
+    "county": "Stadt Hamm",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "HAMm",
+    "id": 238
+  },
+  {
+    "tag": "HAS",
+    "county": "Landkreis Haßberge",
+    "state": "Bayern",
+    "explanation": "HASsfurt",
+    "id": 239
+  },
+  {
+    "tag": "HB",
+    "county": "Stadt Bremen, Senat und Bürgerschaft, Stadt Bremerhaven",
+    "state": "Bremen",
+    "explanation": "Hansestadt Bremen",
+    "id": 240
+  },
+  {
+    "tag": "HBN",
+    "county": "Landkreis Hildburghausen",
+    "state": "Thüringen",
+    "explanation": "HildBurghauseN",
+    "id": 241
+  },
+  {
+    "tag": "HBS",
+    "county": "Landkreis Harz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "HalBerStadt",
+    "id": 242
+  },
+  {
+    "tag": "HC",
+    "county": "Landkreis Mittelsachsen",
+    "state": "Sachsen",
+    "explanation": "HainiChen",
+    "id": 243
+  },
+  {
+    "tag": "HCH",
+    "county": "Zollernalbkreis, Landkreis Freudenstadt",
+    "state": "Baden-Württemberg",
+    "explanation": "HeCHingen",
+    "id": 244
+  },
+  {
+    "tag": "HD",
+    "county": "Stadt Heidelberg, Rhein-Neckar-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "HeiDelberg",
+    "id": 245
+  },
+  {
+    "tag": "HDH",
+    "county": "Landkreis Heidenheim",
+    "state": "Baden-Württemberg",
+    "explanation": "HeiDenHeim",
+    "id": 246
+  },
+  {
+    "tag": "HDL",
+    "county": "Landkreis Börde",
+    "state": "Sachsen-Anhalt",
+    "explanation": "HalDensLeben",
+    "id": 247
+  },
+  {
+    "tag": "HE",
+    "county": "Landkreis Helmstedt",
+    "state": "Niedersachsen",
+    "explanation": "HElmstedt",
+    "id": 248
+  },
+  {
+    "tag": "HEB",
+    "county": "Landkreis Nürnberger Land",
+    "state": "Bayern",
+    "explanation": "HErsBruck",
+    "id": 249
+  },
+  {
+    "tag": "HEF",
+    "county": "Landkreis Hersfeld-Rotenburg",
+    "state": "Hessen",
+    "explanation": "HErsFeld",
+    "id": 250
+  },
+  {
+    "tag": "HEI",
+    "county": "Kreis Dithmarschen",
+    "state": "Schleswig-Holstein",
+    "explanation": "HEIde",
+    "id": 251
+  },
+  {
+    "tag": "HEL",
+    "county": "Hessen, Landesregierung und Landtag",
+    "state": "Hessen",
+    "explanation": "HEssischer Landtag",
+    "id": 252
+  },
+  {
+    "tag": "HER",
+    "county": "Stadt Herne",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "HERne",
+    "id": 253
+  },
+  {
+    "tag": "HET",
+    "county": "Landkreis Mansfeld-Südharz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "HETtstedt",
+    "id": 254
+  },
+  {
+    "tag": "HF",
+    "county": "Kreis Herford",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "HerFord",
+    "id": 255
+  },
+  {
+    "tag": "HG",
+    "county": "Hochtaunuskreis",
+    "state": "Hessen",
+    "explanation": "HomburG",
+    "id": 256
+  },
+  {
+    "tag": "HGN",
+    "county": "Landkreis Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "HaGeNow",
+    "id": 257
+  },
+  {
+    "tag": "HGW",
+    "county": "Stadt Greifswald (große kreisangehörige Stadt im Landkreis Vorpommern-Greifswald)",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Hansestadt GreifsWald",
+    "id": 258
+  },
+  {
+    "tag": "HH",
+    "county": "Freie und Hansestadt Hamburg, Senat und Bürgerschaft",
+    "state": "Hamburg",
+    "explanation": "Hansestadt Hamburg",
+    "id": 259
+  },
+  {
+    "tag": "HHM",
+    "county": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "HoHenMölsen",
+    "id": 260
+  },
+  {
+    "tag": "HI",
+    "county": "Landkreis Hildesheim",
+    "state": "Niedersachsen",
+    "explanation": "HIldesheim",
+    "id": 261
+  },
+  {
+    "tag": "HIG",
+    "county": "Landkreis Eichsfeld",
+    "state": "Thüringen",
+    "explanation": "HeilIGenstadt",
+    "id": 262
+  },
+  {
+    "tag": "HIP",
+    "county": "Landkreis Roth",
+    "state": "Bayern",
+    "explanation": "HIlPoltstein",
+    "id": 263
+  },
+  {
+    "tag": "HK",
+    "county": "Landkreis Heidekreis",
+    "state": "Niedersachsen",
+    "explanation": "HeideKreis",
+    "id": 264
+  },
+  {
+    "tag": "HL",
+    "county": "Stadt Lübeck",
+    "state": "Schleswig-Holstein",
+    "explanation": "Hansestadt Lübeck",
+    "id": 265
+  },
+  {
+    "tag": "HM",
+    "county": "Landkreis Hameln-Pyrmont",
+    "state": "Niedersachsen",
+    "explanation": "HaMeln",
+    "id": 266
+  },
+  {
+    "tag": "HMÜ",
+    "county": "Landkreis Göttingen ohne die Stadt Göttingen",
+    "state": "Niedersachsen",
+    "explanation": "Hann. MÜnden",
+    "id": 267
+  },
+  {
+    "tag": "HN",
+    "county": "Stadt Heilbronn, Landkreis Heilbronn",
+    "state": "Baden-Württemberg",
+    "explanation": "HeilbronN",
+    "id": 268
+  },
+  {
+    "tag": "HO",
+    "county": "Stadt Hof, Landkreis Hof",
+    "state": "Bayern",
+    "explanation": "HOf",
+    "id": 269
+  },
+  {
+    "tag": "HOG",
+    "county": "Landkreis Kassel",
+    "state": "Hessen",
+    "explanation": "HOfGeismar",
+    "id": 270
+  },
+  {
+    "tag": "HOH",
+    "county": "Landkreis Haßberge",
+    "state": "Bayern",
+    "explanation": "HOfHeim",
+    "id": 271
+  },
+  {
+    "tag": "HOL",
+    "county": "Landkreis Holzminden",
+    "state": "Niedersachsen",
+    "explanation": "HOLzminden",
+    "id": 272
+  },
+  {
+    "tag": "HOM",
+    "county": "Saarpfalz-Kreis ohne die Stadt St. Ingbert",
+    "state": "Saarland",
+    "explanation": "HOMburg",
+    "id": 273
+  },
+  {
+    "tag": "HOR",
+    "county": "Landkreis Freudenstadt",
+    "state": "Baden-Württemberg",
+    "explanation": "HORb",
+    "id": 274
+  },
+  {
+    "tag": "HÖS",
+    "county": "Landkreis Erlangen-Höchstadt",
+    "state": "Bayern",
+    "explanation": "HÖchStadt",
+    "id": 275
+  },
+  {
+    "tag": "HOT",
+    "county": "Landkreis Zwickau",
+    "state": "Sachsen",
+    "explanation": "HOhensTein",
+    "id": 276
+  },
+  {
+    "tag": "HP",
+    "county": "Kreis Bergstraße",
+    "state": "Hessen",
+    "explanation": "HepPenheim",
+    "id": 277
+  },
+  {
+    "tag": "HR",
+    "county": "Schwalm-Eder-Kreis",
+    "state": "Hessen",
+    "explanation": "HombeRg",
+    "id": 278
+  },
+  {
+    "tag": "HRO",
+    "county": "Stadt Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Hansestadt ROstock",
+    "id": 279
+  },
+  {
+    "tag": "HS",
+    "county": "Kreis Heinsberg",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "HeinSberg",
+    "id": 280
+  },
+  {
+    "tag": "HSK",
+    "county": "Hochsauerlandkreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "HochSauerlandKreis",
+    "id": 281
+  },
+  {
+    "tag": "HST",
+    "county": "Stadt Stralsund (große kreisangehörige Stadt im Landkreis Vorpommern-Rügen)",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Hansestadt STralsund",
+    "id": 282
+  },
+  {
+    "tag": "HU",
+    "county": "Stadt Hanau (Sonderstatusstadt im Main-Kinzig-Kreis), Main-Kinzig-Kreis (übriges Kreisgebiet)",
+    "state": "Hessen",
+    "explanation": "HanaU",
+    "id": 283
+  },
+  {
+    "tag": "HV",
+    "county": "Landkreis Stendal",
+    "state": "Sachsen-Anhalt",
+    "explanation": "HaVelberg",
+    "id": 284
+  },
+  {
+    "tag": "HVL",
+    "county": "Landkreis Havelland",
+    "state": "Brandenburg",
+    "explanation": "HaVelLand",
+    "id": 285
+  },
+  {
+    "tag": "HWI",
+    "county": "Stadt Wismar (große kreisangehörige Stadt im Landkreis Nordwestmecklenburg)",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Hansestadt WIsmar",
+    "id": 286
+  },
+  {
+    "tag": "HX",
+    "county": "Kreis Höxter",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "HöXter",
+    "id": 287
+  },
+  {
+    "tag": "HY",
+    "county": "Landkreis Bautzen",
+    "state": "Sachsen",
+    "explanation": "HoYerswerda",
+    "id": 288
+  },
+  {
+    "tag": "HZ",
+    "county": "Landkreis Harz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "HarZ",
+    "id": 289
+  },
+  {
+    "tag": "IGB",
+    "county": "Stadt St. Ingbert (Mittelstadt im Saarpfalz-Kreis)",
+    "state": "Saarland",
+    "explanation": "InGBert",
+    "id": 290
+  },
+  {
+    "tag": "IK",
+    "county": "Ilm-Kreis",
+    "state": "Thüringen",
+    "explanation": "Ilm-Kreis",
+    "id": 291
+  },
+  {
+    "tag": "IL",
+    "county": "Ilm-Kreis",
+    "state": "Thüringen",
+    "explanation": "ILmenau",
+    "id": 292
+  },
+  {
+    "tag": "ILL",
+    "county": "Landkreis Neu-Ulm",
+    "state": "Bayern",
+    "explanation": "ILLertissen",
+    "id": 293
+  },
+  {
+    "tag": "IN",
+    "county": "Stadt Ingolstadt",
+    "state": "Bayern",
+    "explanation": "INgolstadt",
+    "id": 294
+  },
+  {
+    "tag": "IZ",
+    "county": "Kreis Steinburg",
+    "state": "Schleswig-Holstein",
+    "explanation": "ItZehoe",
+    "id": 295
+  },
+  {
+    "tag": "J",
+    "county": "Stadt Jena",
+    "state": "Thüringen",
+    "explanation": "Jena",
+    "id": 296
+  },
+  {
+    "tag": "JE",
+    "county": "Landkreis Wittenberg",
+    "state": "Sachsen-Anhalt",
+    "explanation": "JEssen",
+    "id": 297
+  },
+  {
+    "tag": "JL",
+    "county": "Landkreis Jerichower Land",
+    "state": "Sachsen-Anhalt",
+    "explanation": "Jerichower Land",
+    "id": 298
+  },
+  {
+    "tag": "JÜL",
+    "county": "Kreis Düren",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "JÜLich",
+    "id": 299
+  },
+  {
+    "tag": "K",
+    "county": "Stadt Köln",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "Köln",
+    "id": 300
+  },
+  {
+    "tag": "KA",
+    "county": "Landkreis Karlsruhe, Stadt Karlsruhe",
+    "state": "Baden-Württemberg",
+    "explanation": "KArlsruhe",
+    "id": 301
+  },
+  {
+    "tag": "KB",
+    "county": "Landkreis Waldeck-Frankenberg",
+    "state": "Hessen",
+    "explanation": "KorBach",
+    "id": 302
+  },
+  {
+    "tag": "KC",
+    "county": "Landkreis Kronach",
+    "state": "Bayern",
+    "explanation": "KronaCh",
+    "id": 303
+  },
+  {
+    "tag": "KE",
+    "county": "Stadt Kempten (Allgäu)",
+    "state": "Bayern",
+    "explanation": "KEmpten",
+    "id": 304
+  },
+  {
+    "tag": "KEH",
+    "county": "Landkreis Kelheim",
+    "state": "Bayern",
+    "explanation": "KElHeim",
+    "id": 305
+  },
+  {
+    "tag": "KEL",
+    "county": "Ortenaukreis",
+    "state": "Baden-Württemberg",
+    "explanation": "KEhL",
+    "id": 306
+  },
+  {
+    "tag": "KEM",
+    "county": "Landkreis Tirschenreuth, Landkreis Bayreuth",
+    "state": "Bayern",
+    "explanation": "KEMnath",
+    "id": 307
+  },
+  {
+    "tag": "KF",
+    "county": "Stadt Kaufbeuren",
+    "state": "Bayern",
+    "explanation": "KauFbeuren",
+    "id": 308
+  },
+  {
+    "tag": "KG",
+    "county": "Landkreis Bad Kissingen",
+    "state": "Bayern",
+    "explanation": "KissinGen",
+    "id": 309
+  },
+  {
+    "tag": "KH",
+    "county": "Landkreis Bad Kreuznach",
+    "state": "Rheinland-Pfalz",
+    "explanation": "KreuznacH",
+    "id": 310
+  },
+  {
+    "tag": "KI",
+    "county": "Stadt Kiel",
+    "state": "Schleswig-Holstein",
+    "explanation": "KIel",
+    "id": 311
+  },
+  {
+    "tag": "KIB",
+    "county": "Donnersbergkreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "KIrchheimBolanden",
+    "id": 312
+  },
+  {
+    "tag": "KK",
+    "county": "Kreis Viersen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "Kempen, Krefeld",
+    "id": 313
+  },
+  {
+    "tag": "KL",
+    "county": "Stadt Kaiserslautern, Landkreis Kaiserslautern",
+    "state": "Rheinland-Pfalz",
+    "explanation": "KaisersLautern",
+    "id": 314
+  },
+  {
+    "tag": "KLE",
+    "county": "Kreis Kleve",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "KLEve",
+    "id": 315
+  },
+  {
+    "tag": "KLZ",
+    "county": "Altmarkkreis Salzwedel",
+    "state": "Sachsen-Anhalt",
+    "explanation": "KLötZe",
+    "id": 316
+  },
+  {
+    "tag": "KM",
+    "county": "Landkreis Bautzen",
+    "state": "Sachsen",
+    "explanation": "KaMenz",
+    "id": 317
+  },
+  {
+    "tag": "KN",
+    "county": "Landkreis Konstanz ohne die Gemeinde Büsingen am Hochrhein",
+    "state": "Baden-Württemberg",
+    "explanation": "KoNstanz",
+    "id": 318
+  },
+  {
+    "tag": "KO",
+    "county": "Stadt Koblenz",
+    "state": "Rheinland-Pfalz",
+    "explanation": "KOblenz",
+    "id": 319
+  },
+  {
+    "tag": "KÖN",
+    "county": "Landkreis Rhön-Grabfeld",
+    "state": "Bayern",
+    "explanation": "KÖNigshofen",
+    "id": 320
+  },
+  {
+    "tag": "KÖT",
+    "county": "Landkreis Anhalt-Bitterfeld",
+    "state": "Sachsen-Anhalt",
+    "explanation": "KÖThen",
+    "id": 321
+  },
+  {
+    "tag": "KÖZ",
+    "county": "Landkreis Cham",
+    "state": "Bayern",
+    "explanation": "KÖtZting",
+    "id": 322
+  },
+  {
+    "tag": "KR",
+    "county": "Stadt Krefeld",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "KRefeld",
+    "id": 323
+  },
+  {
+    "tag": "KRU",
+    "county": "Landkreis Günzburg",
+    "state": "Bayern",
+    "explanation": "KRUmbach",
+    "id": 324
+  },
+  {
+    "tag": "KS",
+    "county": "Landkreis Kassel und Stadt Kassel",
+    "state": "Hessen",
+    "explanation": "KasSel",
+    "id": 325
+  },
+  {
+    "tag": "KT",
+    "county": "Landkreis Kitzingen",
+    "state": "Bayern",
+    "explanation": "KiTzingen",
+    "id": 326
+  },
+  {
+    "tag": "KU",
+    "county": "Landkreis Kulmbach",
+    "state": "Bayern",
+    "explanation": "KUlmbach",
+    "id": 327
+  },
+  {
+    "tag": "KÜN",
+    "county": "Hohenlohekreis",
+    "state": "Baden-Württemberg",
+    "explanation": "KÜNzelsau",
+    "id": 328
+  },
+  {
+    "tag": "KUS",
+    "county": "Landkreis Kusel",
+    "state": "Rheinland-Pfalz",
+    "explanation": "KUSel",
+    "id": 329
+  },
+  {
+    "tag": "KW",
+    "county": "Landkreis Dahme-Spreewald",
+    "state": "Brandenburg",
+    "explanation": "Königs Wusterhausen",
+    "id": 330
+  },
+  {
+    "tag": "KY",
+    "county": "Landkreis Ostprignitz-Ruppin",
+    "state": "Brandenburg",
+    "explanation": "KYritz",
+    "id": 331
+  },
+  {
+    "tag": "KYF",
+    "county": "Kyffhäuserkreis",
+    "state": "Thüringen",
+    "explanation": "KYFfhäuser",
+    "id": 332
+  },
+  {
+    "tag": "L",
+    "county": "Sachsen",
+    "state": "Stadt Leipzig, Landkreis Leipzig",
+    "explanation": "Leipzig",
+    "id": 333
+  },
+  {
+    "tag": "LA",
+    "county": "Stadt Landshut, Landkreis Landshut",
+    "state": "Bayern",
+    "explanation": "LAndshut",
+    "id": 334
+  },
+  {
+    "tag": "LAN",
+    "county": "Landkreis Dingolfing-Landau",
+    "state": "Bayern",
+    "explanation": "LANdau",
+    "id": 335
+  },
+  {
+    "tag": "LAU",
+    "county": "Landkreis Nürnberger Land",
+    "state": "Bayern",
+    "explanation": "LAUf",
+    "id": 336
+  },
+  {
+    "tag": "LB",
+    "county": "Landkreis Ludwigsburg",
+    "state": "Baden-Württemberg",
+    "explanation": "LudwigsBurg",
+    "id": 337
+  },
+  {
+    "tag": "LBS",
+    "county": "Saale-Orla-Kreis",
+    "state": "Thüringen",
+    "explanation": "LoBenStein",
+    "id": 338
+  },
+  {
+    "tag": "LBZ",
+    "county": "Landkreis Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "LüBZ",
+    "id": 339
+  },
+  {
+    "tag": "LC",
+    "county": "Landkreis Dahme-Spreewald",
+    "state": "Brandenburg",
+    "explanation": "LuCkau",
+    "id": 340
+  },
+  {
+    "tag": "LD",
+    "county": "Stadt Landau in der Pfalz",
+    "state": "Rheinland-Pfalz",
+    "explanation": "LanDau",
+    "id": 341
+  },
+  {
+    "tag": "LDK",
+    "county": "Lahn-Dill-Kreis ohne die Stadt Wetzlar",
+    "state": "Hessen",
+    "explanation": "Lahn-Dill-Kreis",
+    "id": 342
+  },
+  {
+    "tag": "LDS",
+    "county": "Landkreis Dahme-Spreewald",
+    "state": "Brandenburg",
+    "explanation": "Landkreis Dahme-Spreewald",
+    "id": 343
+  },
+  {
+    "tag": "LEO",
+    "county": "Landkreis Böblingen",
+    "state": "Baden-Württemberg",
+    "explanation": "LEOnberg",
+    "id": 344
+  },
+  {
+    "tag": "LER",
+    "county": "Landkreis Leer",
+    "state": "Niedersachsen",
+    "explanation": "LEeR",
+    "id": 345
+  },
+  {
+    "tag": "LEV",
+    "county": "Stadt Leverkusen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "LEVerkusen",
+    "id": 346
+  },
+  {
+    "tag": "LF",
+    "county": "Landkreis Berchtesgadener Land, Landkreis Altötting, Landkreis Traunstein",
+    "state": "Bayern",
+    "explanation": "LauFen",
+    "id": 347
+  },
+  {
+    "tag": "LG",
+    "county": "Landkreis Lüneburg",
+    "state": "Niedersachsen",
+    "explanation": "LüneburG",
+    "id": 348
+  },
+  {
+    "tag": "LH",
+    "county": "Kreis Coesfeld, Kreis Unna",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "LüdingHausen",
+    "id": 349
+  },
+  {
+    "tag": "LI",
+    "county": "Landkreis Lindau (Bodensee)",
+    "state": "Bayern",
+    "explanation": "LIndau",
+    "id": 350
+  },
+  {
+    "tag": "LIB",
+    "county": "Landkreis Elbe-Elster",
+    "state": "Brandenburg",
+    "explanation": "LIeBenwerda",
+    "id": 351
+  },
+  {
+    "tag": "LIF",
+    "county": "Landkreis Lichtenfels",
+    "state": "Bayern",
+    "explanation": "LIchtenFels",
+    "id": 352
+  },
+  {
+    "tag": "LIP",
+    "county": "Kreis Lippe",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "LIPpe",
+    "id": 353
+  },
+  {
+    "tag": "LL",
+    "county": "Landkreis Landsberg am Lech",
+    "state": "Bayern",
+    "explanation": "Landsberg am Lech",
+    "id": 354
+  },
+  {
+    "tag": "LM",
+    "county": "Landkreis Limburg-Weilburg",
+    "state": "Hessen",
+    "explanation": "LiMburg",
+    "id": 355
+  },
+  {
+    "tag": "LN",
+    "county": "Landkreis Dahme-Spreewald",
+    "state": "Brandenburg",
+    "explanation": "LübbeN",
+    "id": 356
+  },
+  {
+    "tag": "LÖ",
+    "county": "Landkreis Lörrach",
+    "state": "Baden-Württemberg",
+    "explanation": "LÖrrach",
+    "id": 357
+  },
+  {
+    "tag": "LÖB",
+    "county": "Landkreis Görlitz",
+    "state": "Sachsen",
+    "explanation": "LÖBau",
+    "id": 358
+  },
+  {
+    "tag": "LOS",
+    "county": "Landkreis Oder-Spree",
+    "state": "Brandenburg",
+    "explanation": "Landkreis Oder-Spre",
+    "id": 359
+  },
+  {
+    "tag": "LP",
+    "county": "Kreis Soest",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "LiPpstadt",
+    "id": 360
+  },
+  {
+    "tag": "LR",
+    "county": "Ortenaukreis",
+    "state": "Baden-Württemberg",
+    "explanation": "LahR",
+    "id": 361
+  },
+  {
+    "tag": "LRO",
+    "county": "Landkreis Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Landkreis ROstock",
+    "id": 362
+  },
+  {
+    "tag": "LSA",
+    "county": "Sachsen-Anhalt, Landesregierung, Landtag und Polizei",
+    "state": "Sachsen-Anhalt",
+    "explanation": "Land Sachsen-Anhalt",
+    "id": 363
+  },
+  {
+    "tag": "LSN",
+    "county": "Sachsen, Landesregierung und Landtag",
+    "state": "Sachsen",
+    "explanation": "Landtag SachseN",
+    "id": 364
+  },
+  {
+    "tag": "LSZ",
+    "county": "Unstrut-Hainich-Kreis",
+    "state": "Thüringen",
+    "explanation": "LangenSalZa",
+    "id": 365
+  },
+  {
+    "tag": "LU",
+    "county": "Stadt Ludwigshafen am Rhein",
+    "state": "Rheinland-Pfalz",
+    "explanation": "LUdwigshafen",
+    "id": 366
+  },
+  {
+    "tag": "LÜN",
+    "county": "Kreis Unna",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "LÜNen",
+    "id": 367
+  },
+  {
+    "tag": "LUP",
+    "county": "Landkreis Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "LUdwigslust, Parchim",
+    "id": 368
+  },
+  {
+    "tag": "LWL",
+    "county": "Landkreis Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "LudWigsLust",
+    "id": 369
+  },
+  {
+    "tag": "M",
+    "county": "Landkreis München, Stadt München",
+    "state": "Bayern",
+    "explanation": "München",
+    "id": 370
+  },
+  {
+    "tag": "MA",
+    "county": "Stadt Mannheim",
+    "state": "Baden-Württemberg",
+    "explanation": "MAnnheim",
+    "id": 371
+  },
+  {
+    "tag": "MAB",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "MArienBerg",
+    "id": 372
+  },
+  {
+    "tag": "MAI",
+    "county": "Landkreis Kelheim, Landkreis Landshut",
+    "state": "Bayern",
+    "explanation": "MAInburg",
+    "id": 373
+  },
+  {
+    "tag": "MAK",
+    "county": "Landkreis Wunsiedel im Fichtelgebirge",
+    "state": "Bayern",
+    "explanation": "MArKtredwitz",
+    "id": 374
+  },
+  {
+    "tag": "MAL",
+    "county": "Landkreis Landshut",
+    "state": "Bayern",
+    "explanation": "MALlersdorf",
+    "id": 375
+  },
+  {
+    "tag": "MB",
+    "county": "Landkreis Miesbach",
+    "state": "Bayern",
+    "explanation": "MiesBach",
+    "id": 376
+  },
+  {
+    "tag": "MC",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "MalChin",
+    "id": 377
+  },
+  {
+    "tag": "MD",
+    "county": "Stadt Magdeburg",
+    "state": "Sachsen-Anhalt",
+    "explanation": "MagDeburg",
+    "id": 378
+  },
+  {
+    "tag": "ME",
+    "county": "Kreis Mettmann",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "MEttmann",
+    "id": 379
+  },
+  {
+    "tag": "MED",
+    "county": "Kreis Dithmarschen",
+    "state": "Schleswig-Holstein",
+    "explanation": "MElDorf",
+    "id": 380
+  },
+  {
+    "tag": "MEG",
+    "county": "Schwalm-Eder-Kreis",
+    "state": "Hessen",
+    "explanation": "MElsunGen",
+    "id": 381
+  },
+  {
+    "tag": "MEI",
+    "county": "Landkreis Meißen",
+    "state": "Sachsen",
+    "explanation": "MEIßen",
+    "id": 382
+  },
+  {
+    "tag": "MEK",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "Mittlerer ErzgebirgsKreis",
+    "id": 383
+  },
+  {
+    "tag": "MEL",
+    "county": "Landkreis Osnabrück",
+    "state": "Niedersachsen",
+    "explanation": "MELle",
+    "id": 384
+  },
+  {
+    "tag": "MER",
+    "county": "Saalekreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "MERseburg",
+    "id": 385
+  },
+  {
+    "tag": "MET",
+    "county": "Landkreis Rhön-Grabfeld",
+    "state": "Bayern",
+    "explanation": "MEllrichstadT",
+    "id": 386
+  },
+  {
+    "tag": "MG",
+    "county": "Stadt Mönchengladbach",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "MönchenGladbach",
+    "id": 387
+  },
+  {
+    "tag": "MGH",
+    "county": "Main-Tauber-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "MerGentHeim",
+    "id": 388
+  },
+  {
+    "tag": "MGN",
+    "county": "Landkreis Schmalkalden-Meiningen",
+    "state": "Thüringen",
+    "explanation": "MeininGeN",
+    "id": 389
+  },
+  {
+    "tag": "MH",
+    "county": "Stadt Mülheim an der Ruhr",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "MülHeim",
+    "id": 390
+  },
+  {
+    "tag": "MHL",
+    "county": "Unstrut-Hainich-Kreis",
+    "state": "Thüringen",
+    "explanation": "MüHLhausen",
+    "id": 391
+  },
+  {
+    "tag": "MI",
+    "county": "Kreis Minden-Lübbecke",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "MInden",
+    "id": 392
+  },
+  {
+    "tag": "MIL",
+    "county": "Landkreis Miltenberg",
+    "state": "Bayern",
+    "explanation": "MILtenberg",
+    "id": 393
+  },
+  {
+    "tag": "MK",
+    "county": "Märkischer Kreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "Märkischer Kreis",
+    "id": 394
+  },
+  {
+    "tag": "MKK",
+    "county": "Main-Kinzig-Kreis ohne die Stadt Hanau",
+    "state": "Hessen",
+    "explanation": "Main-Kinzig-Kreis",
+    "id": 395
+  },
+  {
+    "tag": "ML",
+    "county": "Landkreis Mansfeld-Südharz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "Mansfelder Land",
+    "id": 396
+  },
+  {
+    "tag": "MM",
+    "county": "Stadt Memmingen",
+    "state": "Bayern",
+    "explanation": "MemMingen",
+    "id": 397
+  },
+  {
+    "tag": "MN",
+    "county": "Landkreis Unterallgäu",
+    "state": "Bayern",
+    "explanation": "MiNdelheim",
+    "id": 398
+  },
+  {
+    "tag": "MO",
+    "county": "Kreis Wesel",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "MOers",
+    "id": 399
+  },
+  {
+    "tag": "MOD",
+    "county": "Landkreis Ostallgäu",
+    "state": "Bayern",
+    "explanation": "MarktOberDorf",
+    "id": 400
+  },
+  {
+    "tag": "MOL",
+    "county": "Landkreis Märkisch-Oderland",
+    "state": "Brandenburg",
+    "explanation": "Märkisch-OderLand",
+    "id": 401
+  },
+  {
+    "tag": "MON",
+    "county": "Städteregion Aachen, Kreis Düren",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "MONschau",
+    "id": 402
+  },
+  {
+    "tag": "MOS",
+    "county": "Neckar-Odenwald-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "MOSbach",
+    "id": 403
+  },
+  {
+    "tag": "MQ",
+    "county": "Saalekreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "Merseburg, Querfurt",
+    "id": 404
+  },
+  {
+    "tag": "MR",
+    "county": "Landkreis Marburg-Biedenkopf",
+    "state": "Hessen",
+    "explanation": "MaRburg",
+    "id": 405
+  },
+  {
+    "tag": "MS",
+    "county": "Stadt Münster",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "MünSter",
+    "id": 406
+  },
+  {
+    "tag": "MSE",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Mecklenburgische SEenplatte",
+    "id": 407
+  },
+  {
+    "tag": "MSH",
+    "county": "Landkreis Mansfeld-Südharz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "Mansfeld, SüdHarz",
+    "id": 408
+  },
+  {
+    "tag": "MSP",
+    "county": "Landkreis Main-Spessart",
+    "state": "Bayern",
+    "explanation": "Main, SPessart",
+    "id": 409
+  },
+  {
+    "tag": "MST",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Mecklenburg-STrelitz",
+    "id": 410
+  },
+  {
+    "tag": "MTK",
+    "county": "Main-Taunus-Kreis",
+    "state": "Hessen",
+    "explanation": "Main-Taunus-Kreis",
+    "id": 411
+  },
+  {
+    "tag": "MTL",
+    "county": "Landkreis Leipzig",
+    "state": "Sachsen",
+    "explanation": "MuldenTaL",
+    "id": 412
+  },
+  {
+    "tag": "MUC",
+    "county": "Stadt München",
+    "state": "Bayern",
+    "explanation": "Internationale Kennung des Münchner Flughafens",
+    "id": 413
+  },
+  {
+    "tag": "MÜ",
+    "county": "Landkreis Mühldorf am Inn",
+    "state": "Bayern",
+    "explanation": "MÜhldorf",
+    "id": 414
+  },
+  {
+    "tag": "MÜB",
+    "county": "Landkreis Hof, Landkreis Bayreuth",
+    "state": "Bayern",
+    "explanation": "MÜnchBerg",
+    "id": 415
+  },
+  {
+    "tag": "MÜL",
+    "county": "Landkreis Breisgau-Hochschwarzwald",
+    "state": "Baden-Württemberg",
+    "explanation": "MÜLheim (Baden)",
+    "id": 416
+  },
+  {
+    "tag": "MÜR",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "MÜRitz",
+    "id": 417
+  },
+  {
+    "tag": "MVL",
+    "county": "Mecklenburg-Vorpommern, Landesregierung, Landtag und Polizei",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Mecklenburg-Vorpommerscher Landtag",
+    "id": 418
+  },
+  {
+    "tag": "MW",
+    "county": "Landkreis Mittelsachsen",
+    "state": "Sachsen",
+    "explanation": "MittWeida",
+    "id": 419
+  },
+  {
+    "tag": "MY",
+    "county": "Landkreis Mayen-Koblenz",
+    "state": "Rheinland-Pfalz",
+    "explanation": "MaYen",
+    "id": 420
+  },
+  {
+    "tag": "MYK",
+    "county": "Landkreis Mayen-Koblenz",
+    "state": "Rheinland-Pfalz",
+    "explanation": "MaYen, Koblenz",
+    "id": 421
+  },
+  {
+    "tag": "MZ",
+    "county": "Landkreis Mainz-Bingen, Stadt Mainz",
+    "state": "Rheinland-Pfalz",
+    "explanation": "MainZ",
+    "id": 422
+  },
+  {
+    "tag": "MZG",
+    "county": "Landkreis Merzig-Wadern",
+    "state": "Saarland",
+    "explanation": "MerZiG",
+    "id": 423
+  },
+  {
+    "tag": "N",
+    "county": "Landkreis Nürnberger Land, Stadt Nürnberg",
+    "state": "Bayern",
+    "explanation": "Nürnberg",
+    "id": 424
+  },
+  {
+    "tag": "NAB",
+    "county": "Landkreis Schwandorf, Landkreis Amberg-Sulzbach",
+    "state": "Bayern",
+    "explanation": "NABburg",
+    "id": 425
+  },
+  {
+    "tag": "NAI",
+    "county": "Landkreis Hof",
+    "state": "Bayern",
+    "explanation": "NAIla",
+    "id": 426
+  },
+  {
+    "tag": "NAU",
+    "county": "Landkreis Havelland",
+    "state": "Brandenburg",
+    "explanation": "NAUen",
+    "id": 427
+  },
+  {
+    "tag": "NB",
+    "county": "Stadt Neubrandenburg (große kreisangehörige Stadt im Landkreis Mecklenburgische Seenplatte)",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "NeuBrandenburg",
+    "id": 428
+  },
+  {
+    "tag": "ND",
+    "county": "Landkreis Neuburg-Schrobenhausen",
+    "state": "Bayern",
+    "explanation": "Neuburg an der Donau",
+    "id": 429
+  },
+  {
+    "tag": "NDH",
+    "county": "Landkreis Nordhausen",
+    "state": "Thüringen",
+    "explanation": "NorDHausen",
+    "id": 430
+  },
+  {
+    "tag": "NE",
+    "county": "Rhein-Kreis Neuss",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "NEuss",
+    "id": 431
+  },
+  {
+    "tag": "NEA",
+    "county": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+    "state": "Bayern",
+    "explanation": "NEustadt an der Aisch",
+    "id": 432
+  },
+  {
+    "tag": "NEB",
+    "county": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "NEBra",
+    "id": 433
+  },
+  {
+    "tag": "NEC",
+    "county": "Stadt Coburg und Landkreis Coburg",
+    "state": "Bayern",
+    "explanation": "NEustadt bei Coburg",
+    "id": 434
+  },
+  {
+    "tag": "NEN",
+    "county": "Landkreis Schwandorf",
+    "state": "Bayern",
+    "explanation": "NEuNburg",
+    "id": 435
+  },
+  {
+    "tag": "NES",
+    "county": "Landkreis Rhön-Grabfeld",
+    "state": "Bayern",
+    "explanation": "NEustadt an der Saale",
+    "id": 436
+  },
+  {
+    "tag": "NEU",
+    "county": "Landkreis Breisgau-Hochschwarzwald",
+    "state": "Baden-Württemberg",
+    "explanation": "Titisee-NEUstadt",
+    "id": 437
+  },
+  {
+    "tag": "NEW",
+    "county": "Landkreis Neustadt an der Waldnaab",
+    "state": "Bayern",
+    "explanation": "NEustadt an der Waldnaab",
+    "id": 438
+  },
+  {
+    "tag": "NF",
+    "county": "Kreis Nordfriesland",
+    "state": "Schleswig-Holstein",
+    "explanation": "NordFriesland",
+    "id": 439
+  },
+  {
+    "tag": "NH",
+    "county": "Landkreis Sonneberg",
+    "state": "Thüringen",
+    "explanation": "NeuHaus",
+    "id": 440
+  },
+  {
+    "tag": "NI",
+    "county": "Landkreis Nienburg/Weser",
+    "state": "Niedersachsen",
+    "explanation": "NIenburg",
+    "id": 441
+  },
+  {
+    "tag": "NK",
+    "county": "Landkreis Neunkirchen",
+    "state": "Saarland",
+    "explanation": "NeunKirchen",
+    "id": 442
+  },
+  {
+    "tag": "NL",
+    "county": "Niedersachsen, Landesregierung und Landtag",
+    "state": "Niedersachsen",
+    "explanation": "Niedersächsischer Landtag",
+    "id": 443
+  },
+  {
+    "tag": "NM",
+    "county": "Landkreis Neumarkt in der Oberpfalz",
+    "state": "Bayern",
+    "explanation": "NeuMarkt",
+    "id": 444
+  },
+  {
+    "tag": "NMB",
+    "county": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "NauMBurg",
+    "id": 445
+  },
+  {
+    "tag": "NMS",
+    "county": "Stadt Neumünster",
+    "state": "Schleswig-Holstein",
+    "explanation": "NeuMünSter",
+    "id": 446
+  },
+  {
+    "tag": "NÖ",
+    "county": "Landkreis Donau-Ries",
+    "state": "Bayern",
+    "explanation": "NÖrdlingen",
+    "id": 447
+  },
+  {
+    "tag": "NOH",
+    "county": "Landkreis Grafschaft Bentheim",
+    "state": "Niedersachsen",
+    "explanation": "NOrdHorn",
+    "id": 448
+  },
+  {
+    "tag": "NOL",
+    "county": "Landkreis Görlitz",
+    "state": "Sachsen",
+    "explanation": "Niederschlesische OberLausitz",
+    "id": 449
+  },
+  {
+    "tag": "NOM",
+    "county": "Landkreis Northeim",
+    "state": "Niedersachsen",
+    "explanation": "NOrtheiM",
+    "id": 450
+  },
+  {
+    "tag": "NOR",
+    "county": "Landkreis Aurich",
+    "state": "Niedersachsen",
+    "explanation": "NORden",
+    "id": 451
+  },
+  {
+    "tag": "NP",
+    "county": "Landkreis Ostprignitz-Ruppin",
+    "state": "Brandenburg",
+    "explanation": "NeurupPin",
+    "id": 452
+  },
+  {
+    "tag": "NR",
+    "county": "Landkreis Neuwied",
+    "state": "Rheinland-Pfalz",
+    "explanation": "Neuwied am Rhein",
+    "id": 453
+  },
+  {
+    "tag": "NRW",
+    "county": "Nordrhein-Westfalen, Landesregierung, Landtag und Polizei",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "NordRhein-Westfalen",
+    "id": 454
+  },
+  {
+    "tag": "NT",
+    "county": "Landkreis Esslingen",
+    "state": "Baden-Württemberg",
+    "explanation": "NürTingen",
+    "id": 455
+  },
+  {
+    "tag": "NU",
+    "county": "Landkreis Neu-Ulm",
+    "state": "Bayern",
+    "explanation": "Neu-Ulm",
+    "id": 456
+  },
+  {
+    "tag": "NVP",
+    "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "NordVorPommern",
+    "id": 457
+  },
+  {
+    "tag": "NW",
+    "county": "Stadt Neustadt an der Weinstraße",
+    "state": "Rheinland-Pfalz",
+    "explanation": "Neustadt an der Weinstraße",
+    "id": 458
+  },
+  {
+    "tag": "NWM",
+    "county": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "NordWestMecklenburg",
+    "id": 459
+  },
+  {
+    "tag": "NY",
+    "county": "Landkreis Görlitz",
+    "state": "Sachsen",
+    "explanation": "NieskY",
+    "id": 460
+  },
+  {
+    "tag": "NZ",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "NeustrelitZ",
+    "id": 461
+  },
+  {
+    "tag": "OA",
+    "county": "Landkreis Oberallgäu",
+    "state": "Bayern",
+    "explanation": "OberAllgäu",
+    "id": 462
+  },
+  {
+    "tag": "OAL",
+    "county": "Landkreis Ostallgäu",
+    "state": "Bayern",
+    "explanation": "OstALlgäu",
+    "id": 463
+  },
+  {
+    "tag": "OB",
+    "county": "Stadt Oberhausen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "OBerhausen",
+    "id": 464
+  },
+  {
+    "tag": "OBB",
+    "county": "Landkreis Miltenberg",
+    "state": "Bayern",
+    "explanation": "OBernBurg",
+    "id": 465
+  },
+  {
+    "tag": "OBG",
+    "county": "Landkreis Stendal",
+    "state": "Sachsen-Anhalt",
+    "explanation": "OsterBurG",
+    "id": 466
+  },
+  {
+    "tag": "OC",
+    "county": "Landkreis Börde",
+    "state": "Sachsen-Anhalt",
+    "explanation": "OsChersleben",
+    "id": 467
+  },
+  {
+    "tag": "OCH",
+    "county": "Landkreis Würzburg",
+    "state": "Bayern",
+    "explanation": "OCHsenfurt",
+    "id": 468
+  },
+  {
+    "tag": "OD",
+    "county": "Kreis Stormarn",
+    "state": "Schleswig-Holstein",
+    "explanation": "OlDesloe",
+    "id": 469
+  },
+  {
+    "tag": "OE",
+    "county": "Kreis Olpe",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "OlpE",
+    "id": 470
+  },
+  {
+    "tag": "OF",
+    "county": "Landkreis Offenbach und Stadt Offenbach am Main",
+    "state": "Hessen",
+    "explanation": "OFfenbach",
+    "id": 471
+  },
+  {
+    "tag": "OG",
+    "county": "Ortenaukreis",
+    "state": "Baden-Württemberg",
+    "explanation": "OffenburG",
+    "id": 472
+  },
+  {
+    "tag": "OH",
+    "county": "Kreis Ostholstein",
+    "state": "Schleswig-Holstein",
+    "explanation": "OstHolstein",
+    "id": 473
+  },
+  {
+    "tag": "OHA",
+    "county": "Landkreis Göttingen",
+    "state": "Niedersachsen",
+    "explanation": "Osterode am HArz",
+    "id": 474
+  },
+  {
+    "tag": "ÖHR",
+    "county": "Hohenlohekreis",
+    "state": "Baden-Württemberg",
+    "explanation": "ÖHRingen",
+    "id": 475
+  },
+  {
+    "tag": "OHV",
+    "county": "Landkreis Oberhavel",
+    "state": "Brandenburg",
+    "explanation": "OberHaVel",
+    "id": 476
+  },
+  {
+    "tag": "OHZ",
+    "county": "Landkreis Osterholz",
+    "state": "Niedersachsen",
+    "explanation": "OsterHolZ",
+    "id": 477
+  },
+  {
+    "tag": "OK",
+    "county": "Landkreis Börde",
+    "state": "Sachsen-Anhalt",
+    "explanation": "OhreKreis",
+    "id": 478
+  },
+  {
+    "tag": "OL",
+    "county": "Landkreis Oldenburg, Stadt Oldenburg",
+    "state": "Niedersachsen",
+    "explanation": "OLdenburg",
+    "id": 479
+  },
+  {
+    "tag": "OP",
+    "county": "Stadt Leverkusen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "OPladen",
+    "id": 480
+  },
+  {
+    "tag": "OPR",
+    "county": "Landkreis Ostprignitz-Ruppin",
+    "state": "Brandenburg",
+    "explanation": "OstPrignitz, Ruppin",
+    "id": 481
+  },
+  {
+    "tag": "OS",
+    "county": "Stadt Osnabrück, Landkreis Osnabrück",
+    "state": "Niedersachsen",
+    "explanation": "OSnabrück",
+    "id": 482
+  },
+  {
+    "tag": "OSL",
+    "county": "Landkreis Oberspreewald-Lausitz",
+    "state": "Brandenburg",
+    "explanation": "OberSpreewald, Lausitz",
+    "id": 483
+  },
+  {
+    "tag": "OTW",
+    "county": "Landkreis Ottweiler",
+    "state": "Saarland",
+    "explanation": "OTtWeiler",
+    "id": 484
+  },
+  {
+    "tag": "OVI",
+    "county": "Landkreis Schwandorf",
+    "state": "Bayern",
+    "explanation": "OberVIechtach",
+    "id": 485
+  },
+  {
+    "tag": "OVL",
+    "county": "Vogtlandkreis",
+    "state": "Sachsen",
+    "explanation": "OberVogtLand",
+    "id": 486
+  },
+  {
+    "tag": "OVP",
+    "county": "Landkreis Ostvorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "OstVorPommern",
+    "id": 487
+  },
+  {
+    "tag": "OZ",
+    "county": "Landkreis Nordsachsen",
+    "state": "Sachsen",
+    "explanation": "OschatZ",
+    "id": 488
+  },
+  {
+    "tag": "P",
+    "county": "Stadt Potsdam",
+    "state": "Brandenburg",
+    "explanation": "Potsdam",
+    "id": 489
+  },
+  {
+    "tag": "PA",
+    "county": "Stadt Passau, Landkreis Passau",
+    "state": "Bayern",
+    "explanation": "PAssau",
+    "id": 490
+  },
+  {
+    "tag": "PAF",
+    "county": "Landkreis Pfaffenhofen an der Ilm",
+    "state": "Bayern",
+    "explanation": "PfAFfenhofen",
+    "id": 491
+  },
+  {
+    "tag": "PAN",
+    "county": "Landkreis Rottal-Inn",
+    "state": "Bayern",
+    "explanation": "PfArrkircheN",
+    "id": 492
+  },
+  {
+    "tag": "PAR",
+    "county": "Landkreis Neumarkt in der Oberpfalz, Landkreis Kelheim",
+    "state": "Bayern",
+    "explanation": "PARsberg",
+    "id": 493
+  },
+  {
+    "tag": "PB",
+    "county": "Kreis Paderborn",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "PaderBorn",
+    "id": 494
+  },
+  {
+    "tag": "PCH",
+    "county": "Landkreis Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "ParCHim",
+    "id": 495
+  },
+  {
+    "tag": "PE",
+    "county": "Landkreis Peine",
+    "state": "Niedersachsen",
+    "explanation": "PEine",
+    "id": 496
+  },
+  {
+    "tag": "PEG",
+    "county": "Landkreis Forchheim, Landkreis Nürnberger Land, Landkreis Bayreuth",
+    "state": "Bayern",
+    "explanation": "PEGnitz",
+    "id": 497
+  },
+  {
+    "tag": "PF",
+    "county": "Enzkreis, Stadt Pforzheim",
+    "state": "Baden-Württemberg",
+    "explanation": "PForzheim",
+    "id": 498
+  },
+  {
+    "tag": "PI",
+    "county": "Kreis Pinneberg",
+    "state": "Schleswig-Holstein",
+    "explanation": "PInneberg",
+    "id": 499
+  },
+  {
+    "tag": "PIR",
+    "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "state": "Sachsen",
+    "explanation": "PIRna",
+    "id": 500
+  },
+  {
+    "tag": "PL",
+    "county": "Vogtlandkreis",
+    "state": "Sachsen",
+    "explanation": "PLauen",
+    "id": 501
+  },
+  {
+    "tag": "PLÖ",
+    "county": "Kreis Plön",
+    "state": "Schleswig-Holstein",
+    "explanation": "PLÖn",
+    "id": 502
+  },
+  {
+    "tag": "PM",
+    "county": "Landkreis Potsdam-Mittelmark",
+    "state": "Brandenburg",
+    "explanation": "Potsdam, Mittelmark",
+    "id": 503
+  },
+  {
+    "tag": "PN",
+    "county": "Saale-Orla-Kreis",
+    "state": "Thüringen",
+    "explanation": "PößNeck",
+    "id": 504
+  },
+  {
+    "tag": "PR",
+    "county": "Landkreis Prignitz",
+    "state": "Brandenburg",
+    "explanation": "PRignitz",
+    "id": 505
+  },
+  {
+    "tag": "PRÜ",
+    "county": "Eifelkreis Bitburg-Prüm",
+    "state": "Rheinland-Pfalz",
+    "explanation": "PRÜm",
+    "id": 506
+  },
+  {
+    "tag": "PS",
+    "county": "Stadt Pirmasens, Landkreis Südwestpfalz",
+    "state": "Rheinland-Pfalz",
+    "explanation": "PirmaSens",
+    "id": 507
+  },
+  {
+    "tag": "PW",
+    "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "PaseWalk",
+    "id": 508
+  },
+  {
+    "tag": "PZ",
+    "county": "Landkreis Uckermark",
+    "state": "Brandenburg",
+    "explanation": "PrenZlau",
+    "id": 509
+  },
+  {
+    "tag": "QFT",
+    "county": "Saalekreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "QuerFurT",
+    "id": 510
+  },
+  {
+    "tag": "QLB",
+    "county": "Landkreis Harz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "QuedLinBurg",
+    "id": 511
+  },
+  {
+    "tag": "R",
+    "county": "Landkreis Regensburg, Stadt Regensburg",
+    "state": "Bayern",
+    "explanation": "Regensburg",
+    "id": 512
+  },
+  {
+    "tag": "RA",
+    "county": "Landkreis Rastatt",
+    "state": "Baden-Württemberg",
+    "explanation": "Württemberg",
+    "id": 513
+  },
+  {
+    "tag": "RC",
+    "county": "Vogtlandkreis",
+    "state": "Sachsen",
+    "explanation": "ReiChenbach",
+    "id": 514
+  },
+  {
+    "tag": "RD",
+    "county": "Kreis Rendsburg-Eckernförde",
+    "state": "Schleswig-Holstein",
+    "explanation": "RenDsburg",
+    "id": 515
+  },
+  {
+    "tag": "RDG",
+    "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Ribnitz-DamGarten",
+    "id": 516
+  },
+  {
+    "tag": "RE",
+    "county": "Kreis Recklinghausen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "REcklinghausen",
+    "id": 517
+  },
+  {
+    "tag": "REG",
+    "county": "Landkreis Regen",
+    "state": "Bayern",
+    "explanation": "REGen",
+    "id": 518
+  },
+  {
+    "tag": "REH",
+    "county": "Landkreis Hof, Landkreis Wunsiedel im Fichtelgebirge",
+    "state": "Bayern",
+    "explanation": "REHau",
+    "id": 519
+  },
+  {
+    "tag": "REI",
+    "county": "Landkreis Berchtesgadener Land",
+    "state": "Bayern",
+    "explanation": "REIchenhall",
+    "id": 520
+  },
+  {
+    "tag": "RG",
+    "county": "Landkreis Meißen",
+    "state": "Sachsen",
+    "explanation": "Riesa, Großenhain",
+    "id": 521
+  },
+  {
+    "tag": "RH",
+    "county": "Landkreis Roth",
+    "state": "Bayern",
+    "explanation": "RotH",
+    "id": 522
+  },
+  {
+    "tag": "RI",
+    "county": "Landkreis Schaumburg",
+    "state": "Niedersachsen",
+    "explanation": "RInteln",
+    "id": 523
+  },
+  {
+    "tag": "RID",
+    "county": "Landkreis Kelheim",
+    "state": "Bayern",
+    "explanation": "RIeDenburg",
+    "id": 524
+  },
+  {
+    "tag": "RIE",
+    "county": "Landkreis Meißen",
+    "state": "Sachsen",
+    "explanation": "RIEsa",
+    "id": 525
+  },
+  {
+    "tag": "RL",
+    "county": "Landkreis Mittelsachsen",
+    "state": "Sachsen",
+    "explanation": "RochLitz",
+    "id": 526
+  },
+  {
+    "tag": "RM",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Röbel/Müritz",
+    "id": 527
+  },
+  {
+    "tag": "RN",
+    "county": "Landkreis Havelland",
+    "state": "Brandenburg",
+    "explanation": "RatheNow",
+    "id": 528
+  },
+  {
+    "tag": "RO",
+    "county": "Stadt Rosenheim, Landkreis Rosenheim",
+    "state": "Bayern",
+    "explanation": "ROsenheim",
+    "id": 529
+  },
+  {
+    "tag": "ROD",
+    "county": "Landkreis Cham, Landkreis Schwandorf",
+    "state": "Bayern",
+    "explanation": "RODing",
+    "id": 530
+  },
+  {
+    "tag": "ROF",
+    "county": "Landkreis Hersfeld-Rotenburg",
+    "state": "Hessen",
+    "explanation": "ROtenburg an der Fulda",
+    "id": 531
+  },
+  {
+    "tag": "ROK",
+    "county": "Donnersbergkreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "ROcKenhausen",
+    "id": 532
+  },
+  {
+    "tag": "ROL",
+    "county": "Landkreis Landshut , Landkreis Kelheim",
+    "state": "Bayern",
+    "explanation": "ROttenburg an der Laaber",
+    "id": 533
+  },
+  {
+    "tag": "ROS",
+    "county": "Landkreis Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "ROStock",
+    "id": 534
+  },
+  {
+    "tag": "ROT",
+    "county": "Landkreis Ansbach",
+    "state": "Bayern",
+    "explanation": "ROthenburg ob der Tauber",
+    "id": 535
+  },
+  {
+    "tag": "ROW",
+    "county": "Landkreis Rotenburg (Wümme)",
+    "state": "Niedersachsen",
+    "explanation": "ROtenburg (Wümme)",
+    "id": 536
+  },
+  {
+    "tag": "RP",
+    "county": "Rhein-Pfalz-Kreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "Rhein-Pfalz",
+    "id": 537
+  },
+  {
+    "tag": "RPL",
+    "county": "Rheinland-Pfalz, Landesregierung, Landtag und Polizei",
+    "state": "Rheinland-Pfalz",
+    "explanation": "Rheinland-Pfälzischer Landtag",
+    "id": 538
+  },
+  {
+    "tag": "RS",
+    "county": "Stadt Remscheid",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "RemScheid",
+    "id": 539
+  },
+  {
+    "tag": "RSL",
+    "county": "Stadt Dessau-Roßlau",
+    "state": "Sachsen-Anhalt",
+    "explanation": "RosSLau",
+    "id": 540
+  },
+  {
+    "tag": "RT",
+    "county": "Landkreis Reutlingen",
+    "state": "Baden-Württemberg",
+    "explanation": "ReuTlingen",
+    "id": 541
+  },
+  {
+    "tag": "RU",
+    "county": "Landkreis Saalfeld-Rudolstadt",
+    "state": "Thüringen",
+    "explanation": "RUdolstadt",
+    "id": 542
+  },
+  {
+    "tag": "RÜD",
+    "county": "Rheingau-Taunus-Kreis",
+    "state": "Hessen",
+    "explanation": "RÜDesheim",
+    "id": 543
+  },
+  {
+    "tag": "RÜG",
+    "county": "Landkreis Vorpommern-Rügen",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "RÜGen",
+    "id": 544
+  },
+  {
+    "tag": "RV",
+    "county": "Landkreis Ravensburg",
+    "state": "Baden-Württemberg",
+    "explanation": "RaVensburg",
+    "id": 545
+  },
+  {
+    "tag": "RW",
+    "county": "Landkreis Rottweil",
+    "state": "Baden-Württemberg",
+    "explanation": "RottWeil",
+    "id": 546
+  },
+  {
+    "tag": "RZ",
+    "county": "Kreis Herzogtum Lauenburg",
+    "state": "Schleswig-Holstein",
+    "explanation": "RatZeburg",
+    "id": 547
+  },
+  {
+    "tag": "S",
+    "county": "Stadt Stuttgart",
+    "state": "Baden-Württemberg",
+    "explanation": "Stuttgart",
+    "id": 548
+  },
+  {
+    "tag": "SAB",
+    "county": "Landkreis Trier-Saarburg",
+    "state": "Rheinland-Pfalz",
+    "explanation": "SAarBurg",
+    "id": 549
+  },
+  {
+    "tag": "SAD",
+    "county": "Landkreis Schwandorf",
+    "state": "Bayern",
+    "explanation": "SchwAnDorf",
+    "id": 550
+  },
+  {
+    "tag": "SAL",
+    "county": "Saarland, Landesregierung, Landtag und Polizei",
+    "state": "Saarland",
+    "explanation": "SAarländischer Landtag",
+    "id": 551
+  },
+  {
+    "tag": "SAN",
+    "county": "Landkreis Hof, Landkreis Kulmbach, Landkreis Kronach",
+    "state": "Bayern",
+    "explanation": "StAdtsteiNach",
+    "id": 552
+  },
+  {
+    "tag": "SAW",
+    "county": "Altmarkkreis Salzwedel",
+    "state": "Sachsen-Anhalt",
+    "explanation": "SAlzWedel",
+    "id": 553
+  },
+  {
+    "tag": "SÄK",
+    "county": "Landkreis Säckingen",
+    "state": "Baden-Württemberg",
+    "explanation": "SÄcKingen",
+    "id": 554
+  },
+  {
+    "tag": "SB",
+    "county": "Regionalverband Saarbrücken ohne die Stadt Völklingen",
+    "state": "Saarland",
+    "explanation": "SaarBrücken",
+    "id": 555
+  },
+  {
+    "tag": "SBG",
+    "county": "Landkreis Vorpommern-Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "StrasBurG",
+    "id": 556
+  },
+  {
+    "tag": "SBK",
+    "county": "Salzlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "SchöneBecK",
+    "id": 557
+  },
+  {
+    "tag": "SC",
+    "county": "Stadt Schwabach",
+    "state": "Bayern",
+    "explanation": "SChwabach",
+    "id": 558
+  },
+  {
+    "tag": "SCZ",
+    "county": "Saale-Orla-Kreis",
+    "state": "Thüringen",
+    "explanation": "SChleiZ",
+    "id": 559
+  },
+  {
+    "tag": "SDH",
+    "county": "Kyffhäuserkreis",
+    "state": "Thüringen",
+    "explanation": "SonDersHausen",
+    "id": 560
+  },
+  {
+    "tag": "SDL",
+    "county": "Landkreis Stendal",
+    "state": "Sachsen-Anhalt",
+    "explanation": "StenDaL",
+    "id": 561
+  },
+  {
+    "tag": "SDT",
+    "county": "Landkreis Uckermark",
+    "state": "Brandenburg",
+    "explanation": "SchweDT",
+    "id": 562
+  },
+  {
+    "tag": "SE",
+    "county": "Kreis Segeberg",
+    "state": "Schleswig-Holstein",
+    "explanation": "SEgeberg",
+    "id": 563
+  },
+  {
+    "tag": "SEB",
+    "county": "Landkreis Sächsische Schweiz-Osterzgebirge",
+    "state": "Sachsen",
+    "explanation": "SEBnitz",
+    "id": 564
+  },
+  {
+    "tag": "SEE",
+    "county": "Landkreis Märkisch-Oderland",
+    "state": "Brandenburg",
+    "explanation": "SEElow",
+    "id": 565
+  },
+  {
+    "tag": "SEF",
+    "county": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+    "state": "Bayern",
+    "explanation": "SchEinFeld",
+    "id": 566
+  },
+  {
+    "tag": "SEL",
+    "county": "Landkreis Wunsiedel im Fichtelgebirge",
+    "state": "Bayern",
+    "explanation": "SELb",
+    "id": 567
+  },
+  {
+    "tag": "SFB",
+    "county": "Landkreis Oberspreewald-Lausitz",
+    "state": "Brandenburg",
+    "explanation": "SenFtenBerg",
+    "id": 568
+  },
+  {
+    "tag": "SFT",
+    "county": "Salzlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "StaßFurT",
+    "id": 569
+  },
+  {
+    "tag": "SG",
+    "county": "Stadt Solingen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "SolinGen",
+    "id": 570
+  },
+  {
+    "tag": "SGH",
+    "county": "Landkreis Mansfeld-Südharz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "SanGerHausen",
+    "id": 571
+  },
+  {
+    "tag": "SH",
+    "county": "Schleswig-Holstein, Landesregierung, Landtag und Polizei",
+    "state": "Schleswig-Holstein",
+    "explanation": "Schleswig-Holstein",
+    "id": 572
+  },
+  {
+    "tag": "SHA",
+    "county": "Landkreis Schwäbisch Hall",
+    "state": "Baden-Württemberg",
+    "explanation": "Schwäbisch HAll",
+    "id": 573
+  },
+  {
+    "tag": "SHG",
+    "county": "Landkreis Schaumburg",
+    "state": "Niedersachsen",
+    "explanation": "StadtHaGen",
+    "id": 574
+  },
+  {
+    "tag": "SHK",
+    "county": "Saale-Holzland-Kreis",
+    "state": "Thüringen",
+    "explanation": "Saale-Holzland-Kreis",
+    "id": 575
+  },
+  {
+    "tag": "SHL",
+    "county": "Stadt Suhl",
+    "state": "Thüringen",
+    "explanation": "SuHL",
+    "id": 576
+  },
+  {
+    "tag": "SI",
+    "county": "Kreis Siegen-Wittgenstein",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "SIegen",
+    "id": 577
+  },
+  {
+    "tag": "SIG",
+    "county": "Landkreis Sigmaringen",
+    "state": "Baden-Württemberg",
+    "explanation": "SIGmaringen",
+    "id": 578
+  },
+  {
+    "tag": "SIM",
+    "county": "Rhein-Hunsrück-Kreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "SIMmern",
+    "id": 579
+  },
+  {
+    "tag": "SK",
+    "county": "Saalekreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "SaaleKreis",
+    "id": 580
+  },
+  {
+    "tag": "SL",
+    "county": "Kreis Schleswig-Flensburg",
+    "state": "Schleswig-Holstein",
+    "explanation": "SchLeswig",
+    "id": 581
+  },
+  {
+    "tag": "SLE",
+    "county": "Kreis Düren, Kreis Euskirchen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "SchLEiden",
+    "id": 582
+  },
+  {
+    "tag": "SLF",
+    "county": "Landkreis Saalfeld-Rudolstadt",
+    "state": "Thüringen",
+    "explanation": "SaaLFeld",
+    "id": 583
+  },
+  {
+    "tag": "SLG",
+    "county": "Landkreis Saulgau",
+    "state": "Baden-Württemberg",
+    "explanation": "SauLGau",
+    "id": 584
+  },
+  {
+    "tag": "SLK",
+    "county": "Salzlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "SalzLandKreis",
+    "id": 585
+  },
+  {
+    "tag": "SLN",
+    "county": "Landkreis Altenburger Land",
+    "state": "Thüringen",
+    "explanation": "SchmölLN",
+    "id": 586
+  },
+  {
+    "tag": "SLS",
+    "county": "Landkreis Saarlouis",
+    "state": "Saarland",
+    "explanation": "SaarLouiS",
+    "id": 587
+  },
+  {
+    "tag": "SLÜ",
+    "county": "Main-Kinzig-Kreis ohne die Stadt Hanau",
+    "state": "Hessen",
+    "explanation": "SchLÜchtern",
+    "id": 588
+  },
+  {
+    "tag": "SLZ",
+    "county": "Wartburgkreis",
+    "state": "Thüringen",
+    "explanation": "SaLZungen",
+    "id": 589
+  },
+  {
+    "tag": "SM",
+    "county": "Landkreis Schmalkalden-Meiningen",
+    "state": "Thüringen",
+    "explanation": "SchMalkalden",
+    "id": 590
+  },
+  {
+    "tag": "SMÜ",
+    "county": "Landkreis Augsburg",
+    "state": "Bayern",
+    "explanation": "SchwabMÜnchen",
+    "id": 591
+  },
+  {
+    "tag": "SN",
+    "county": "Stadt Schwerin",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "SchweriN",
+    "id": 592
+  },
+  {
+    "tag": "SO",
+    "county": "Kreis Soest",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "SOest",
+    "id": 593
+  },
+  {
+    "tag": "SOB",
+    "county": "Landkreis Neuburg-Schrobenhausen",
+    "state": "Bayern",
+    "explanation": "SchrOBenhausen",
+    "id": 594
+  },
+  {
+    "tag": "SOG",
+    "county": "Landkreis Weilheim-Schongau",
+    "state": "Bayern",
+    "explanation": "SchOnGau",
+    "id": 595
+  },
+  {
+    "tag": "SOK",
+    "county": "Saale-Orla-Kreis",
+    "state": "Thüringen",
+    "explanation": "Saale-Orla-Kreis",
+    "id": 596
+  },
+  {
+    "tag": "SÖM",
+    "county": "Landkreis Sömmerda",
+    "state": "Thüringen",
+    "explanation": "SÖMmerda",
+    "id": 597
+  },
+  {
+    "tag": "SON",
+    "county": "Landkreis Sonneberg",
+    "state": "Thüringen",
+    "explanation": "SONneberg",
+    "id": 598
+  },
+  {
+    "tag": "SP",
+    "county": "Stadt Speyer",
+    "state": "Rheinland-Pfalz",
+    "explanation": "SPeyer",
+    "id": 599
+  },
+  {
+    "tag": "SPB",
+    "county": "Landkreis Spree-Neiße",
+    "state": "Brandenburg",
+    "explanation": "SPremBerg",
+    "id": 600
+  },
+  {
+    "tag": "SPN",
+    "county": "Landkreis Spree-Neiße",
+    "state": "Brandenburg",
+    "explanation": "SPree, Neiße",
+    "id": 601
+  },
+  {
+    "tag": "SR",
+    "county": "Stadt Straubing, Landkreis Straubing-Bogen",
+    "state": "Bayern",
+    "explanation": "StRaubing",
+    "id": 602
+  },
+  {
+    "tag": "SRB",
+    "county": "Landkreis Märkisch-Oderland",
+    "state": "Brandenburg",
+    "explanation": "StRausBerg",
+    "id": 603
+  },
+  {
+    "tag": "SRO",
+    "county": "Saale-Holzland-Kreis",
+    "state": "Thüringen",
+    "explanation": "StadtROda",
+    "id": 604
+  },
+  {
+    "tag": "ST",
+    "county": "Kreis Steinfurt",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "STeinfurt",
+    "id": 605
+  },
+  {
+    "tag": "STA",
+    "county": "Landkreis Starnberg",
+    "state": "Bayern",
+    "explanation": "STArnberg",
+    "id": 606
+  },
+  {
+    "tag": "STB",
+    "county": "Landkreis Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "STernBerg",
+    "id": 607
+  },
+  {
+    "tag": "STD",
+    "county": "Landkreis Stade",
+    "state": "Niedersachsen",
+    "explanation": "STaDe",
+    "id": 608
+  },
+  {
+    "tag": "STE",
+    "county": "Landkreis Lichtenfels",
+    "state": "Bayern",
+    "explanation": "STaffelstEin",
+    "id": 609
+  },
+  {
+    "tag": "STL",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "STolLberg",
+    "id": 610
+  },
+  {
+    "tag": "STO",
+    "county": "Landkreis Stockach",
+    "state": "Baden-Württemberg",
+    "explanation": "STOckach",
+    "id": 611
+  },
+  {
+    "tag": "SU",
+    "county": "Rhein-Sieg-Kreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "SiegbUrg",
+    "id": 612
+  },
+  {
+    "tag": "SUL",
+    "county": "Landkreis Amberg-Sulzbach",
+    "state": "Bayern",
+    "explanation": "SULzbach",
+    "id": 613
+  },
+  {
+    "tag": "SÜW",
+    "county": "Landkreis Südliche Weinstraße",
+    "state": "Rheinland-Pfalz",
+    "explanation": "SÜdliche Weinstraße",
+    "id": 614
+  },
+  {
+    "tag": "SW",
+    "county": "Stadt Schweinfurt, Landkreis Schweinfurt",
+    "state": "Bayern",
+    "explanation": "SchWeinfurt",
+    "id": 615
+  },
+  {
+    "tag": "SWA",
+    "county": "Rheingau-Taunus-Kreis",
+    "state": "Hessen",
+    "explanation": "SchWAlbach",
+    "id": 616
+  },
+  {
+    "tag": "SY",
+    "county": "Landkreis Diepholz",
+    "state": "Niedersachsen",
+    "explanation": "SYke",
+    "id": 617
+  },
+  {
+    "tag": "SZ",
+    "county": "Stadt Salzgitter",
+    "state": "Niedersachsen",
+    "explanation": "SalZgitter",
+    "id": 618
+  },
+  {
+    "tag": "SZB",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "SchwarZenBerg",
+    "id": 619
+  },
+  {
+    "tag": "TBB",
+    "county": "Main-Tauber-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "TauBerBischofsheim",
+    "id": 620
+  },
+  {
+    "tag": "TDO",
+    "county": "Landkreis Nordsachsen",
+    "state": "Sachsen",
+    "explanation": "Torgau, Delitzsch, Oschatz",
+    "id": 621
+  },
+  {
+    "tag": "TE",
+    "county": "Kreis Steinfurt",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "TEcklenburg",
+    "id": 622
+  },
+  {
+    "tag": "TET",
+    "county": "Landkreis Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "TETerow",
+    "id": 623
+  },
+  {
+    "tag": "TF",
+    "county": "Landkreis Teltow-Fläming",
+    "state": "Brandenburg",
+    "explanation": "Teltow, Fläming",
+    "id": 624
+  },
+  {
+    "tag": "TG",
+    "county": "Landkreis Nordsachsen",
+    "state": "Sachsen",
+    "explanation": "TorGau",
+    "id": 625
+  },
+  {
+    "tag": "THL",
+    "county": "Thüringen, Landesregierung und Landtag",
+    "state": "Thüringen",
+    "explanation": "THüringer Landtag",
+    "id": 626
+  },
+  {
+    "tag": "THW",
+    "county": "Bundesanstalt Technisches Hilfswerk",
+    "state": "bundesweit",
+    "explanation": "Technisches HilfsWerk",
+    "id": 627
+  },
+  {
+    "tag": "TIR",
+    "county": "Landkreis Tirschenreuth",
+    "state": "Bayern",
+    "explanation": "TIRschenreuth",
+    "id": 628
+  },
+  {
+    "tag": "TO",
+    "county": "Landkreis Nordsachsen",
+    "state": "Sachsen",
+    "explanation": "Torgau, Oschatz",
+    "id": 629
+  },
+  {
+    "tag": "TÖL",
+    "county": "Landkreis Bad Tölz-Wolfratshausen",
+    "state": "Bayern",
+    "explanation": "TÖLz",
+    "id": 630
+  },
+  {
+    "tag": "TP",
+    "county": "Landkreis Uckermark",
+    "state": "Brandenburg",
+    "explanation": "TemPlin",
+    "id": 631
+  },
+  {
+    "tag": "TR",
+    "county": "Landkreis Trier-Saarburg und Stadt Trier",
+    "state": "Rheinland-Pfalz",
+    "explanation": "TRier",
+    "id": 632
+  },
+  {
+    "tag": "TS",
+    "county": "Landkreis Traunstein",
+    "state": "Bayern",
+    "explanation": "TraunStein",
+    "id": 633
+  },
+  {
+    "tag": "TT",
+    "county": "Bodenseekreis",
+    "state": "Baden-Württemberg",
+    "explanation": "TeTtnang",
+    "id": 634
+  },
+  {
+    "tag": "TÜ",
+    "county": "Landkreis Tübingen",
+    "state": "Baden-Württemberg",
+    "explanation": "TÜbingen",
+    "id": 635
+  },
+  {
+    "tag": "TUT",
+    "county": "Landkreis Tuttlingen",
+    "state": "Baden-Württemberg",
+    "explanation": "TUTtlingen",
+    "id": 636
+  },
+  {
+    "tag": "UE",
+    "county": "Landkreis Uelzen",
+    "state": "Niedersachsen",
+    "explanation": "UElzen",
+    "id": 637
+  },
+  {
+    "tag": "UEM",
+    "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "UEckerMünde",
+    "id": 638
+  },
+  {
+    "tag": "UFF",
+    "county": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+    "state": "Bayern",
+    "explanation": "UFFenheim",
+    "id": 639
+  },
+  {
+    "tag": "UH",
+    "county": "Unstrut-Hainich-Kreis",
+    "state": "Thüringen",
+    "explanation": "Unstrut, Hainich",
+    "id": 640
+  },
+  {
+    "tag": "UL",
+    "county": "Stadt Ulm, Alb-Donau-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "ULm",
+    "id": 641
+  },
+  {
+    "tag": "UM",
+    "county": "Landkreis Uckermark",
+    "state": "Brandenburg",
+    "explanation": "UckerMark",
+    "id": 642
+  },
+  {
+    "tag": "UN",
+    "county": "Kreis Unna",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "UNna",
+    "id": 643
+  },
+  {
+    "tag": "USI",
+    "county": "Hochtaunuskreis",
+    "state": "Hessen",
+    "explanation": "USIngen",
+    "id": 644
+  },
+  {
+    "tag": "ÜB",
+    "county": "Bodenseekreis, Landkreis Ravensburg",
+    "state": "Baden-Württemberg",
+    "explanation": "ÜBerlingen",
+    "id": 645
+  },
+  {
+    "tag": "V",
+    "county": "Vogtlandkreis",
+    "state": "Sachsen",
+    "explanation": "Vogtland",
+    "id": 646
+  },
+  {
+    "tag": "VAI",
+    "county": "Landkreis Ludwigsburg",
+    "state": "Baden-Württemberg",
+    "explanation": "VAIhingen",
+    "id": 647
+  },
+  {
+    "tag": "VB",
+    "county": "Vogelsbergkreis",
+    "state": "Hessen",
+    "explanation": "VogelsBerg",
+    "id": 648
+  },
+  {
+    "tag": "VEC",
+    "county": "Landkreis Vechta",
+    "state": "Niedersachsen",
+    "explanation": "VEChta",
+    "id": 649
+  },
+  {
+    "tag": "VER",
+    "county": "Landkreis Verden",
+    "state": "Niedersachsen",
+    "explanation": "VERden",
+    "id": 650
+  },
+  {
+    "tag": "VG",
+    "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Vorpommern, Greifswald",
+    "id": 651
+  },
+  {
+    "tag": "VIB",
+    "county": "Landkreis Landshut, Landkreis Rottal-Inn",
+    "state": "Bayern",
+    "explanation": "VIlsBiburg",
+    "id": 652
+  },
+  {
+    "tag": "VIE",
+    "county": "Kreis Viersen",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "VIErsen",
+    "id": 653
+  },
+  {
+    "tag": "VIT",
+    "county": "Landkreis Regen",
+    "state": "Bayern",
+    "explanation": "VIechTach",
+    "id": 654
+  },
+  {
+    "tag": "VK",
+    "county": "Stadt Völklingen (Mittelstadt im Regionalverband Saarbrücken)",
+    "state": "Saarland",
+    "explanation": "VölKlingen",
+    "id": 655
+  },
+  {
+    "tag": "VOH",
+    "county": "Landkreis Neustadt an der Waldnaab",
+    "state": "Bayern",
+    "explanation": "VOHenstrauß",
+    "id": 656
+  },
+  {
+    "tag": "VR",
+    "county": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "Vorpommern, Rügen",
+    "id": 657
+  },
+  {
+    "tag": "VS",
+    "county": "Schwarzwald-Baar-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "Villingen-Schwenningen",
+    "id": 658
+  },
+  {
+    "tag": "W",
+    "county": "Stadt Wuppertal",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "Wuppertal",
+    "id": 659
+  },
+  {
+    "tag": "WA",
+    "county": "Landkreis Waldeck-Frankenberg",
+    "state": "Hessen",
+    "explanation": "WAldeck",
+    "id": 660
+  },
+  {
+    "tag": "WAF",
+    "county": "Kreis Warendorf",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "WArendorF",
+    "id": 661
+  },
+  {
+    "tag": "WAK",
+    "county": "Wartburgkreis",
+    "state": "Thüringen",
+    "explanation": "WArtburgKreis",
+    "id": 662
+  },
+  {
+    "tag": "WAN",
+    "county": "Stadt Herne",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "WANne",
+    "id": 663
+  },
+  {
+    "tag": "WAR",
+    "county": "Kreis Höxter",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "WARburg",
+    "id": 664
+  },
+  {
+    "tag": "WAT",
+    "county": "Stadt Bochum",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "WATtenscheid",
+    "id": 665
+  },
+  {
+    "tag": "WB",
+    "county": "Landkreis Wittenberg",
+    "state": "Sachsen-Anhalt",
+    "explanation": "WittenBerg",
+    "id": 666
+  },
+  {
+    "tag": "WBS",
+    "county": "Landkreis Eichsfeld",
+    "state": "Thüringen",
+    "explanation": "WorBiS",
+    "id": 667
+  },
+  {
+    "tag": "WDA",
+    "county": "Landkreis Zwickau",
+    "state": "Sachsen",
+    "explanation": "WerDAu",
+    "id": 668
+  },
+  {
+    "tag": "WE",
+    "county": "Stadt Weimar",
+    "state": "Thüringen",
+    "explanation": "WEimar",
+    "id": 669
+  },
+  {
+    "tag": "WEL",
+    "county": "Landkreis Limburg-Weilburg",
+    "state": "Hessen",
+    "explanation": "WEiLburg",
+    "id": 670
+  },
+  {
+    "tag": "WEN",
+    "county": "Stadt Weiden in der Oberpfalz",
+    "state": "Bayern",
+    "explanation": "WEideN",
+    "id": 671
+  },
+  {
+    "tag": "WER",
+    "county": "Landkreis Dillingen an der Donau, Landkreis Augsburg",
+    "state": "Bayern",
+    "explanation": "WERtingen",
+    "id": 672
+  },
+  {
+    "tag": "WES",
+    "county": "Kreis Wesel",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "WESel",
+    "id": 673
+  },
+  {
+    "tag": "WF",
+    "county": "Landkreis Wolfenbüttel",
+    "state": "Niedersachsen",
+    "explanation": "WolFenbüttel",
+    "id": 674
+  },
+  {
+    "tag": "WG",
+    "county": "Landkreis Ravensburg",
+    "state": "Baden-Württemberg",
+    "explanation": "WanGen",
+    "id": 675
+  },
+  {
+    "tag": "WHV",
+    "county": "Stadt Wilhelmshaven",
+    "state": "Niedersachsen",
+    "explanation": "WilhelmsHaVen",
+    "id": 676
+  },
+  {
+    "tag": "WI",
+    "county": "Stadt Wiesbaden",
+    "state": "Hessen",
+    "explanation": "WIesbaden",
+    "id": 677
+  },
+  {
+    "tag": "WIL",
+    "county": "Landkreis Bernkastel-Wittlich",
+    "state": "Rheinland-Pfalz",
+    "explanation": "WIttLich",
+    "id": 678
+  },
+  {
+    "tag": "WIN",
+    "county": "Winden (fiktiver Ort)",
+    "state": "Filmproduktion",
+    "explanation": "aus der Serie Dark",
+    "id": 679
+  },
+  {
+    "tag": "WIS",
+    "county": "Landkreis Nordwestmecklenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "WISmar",
+    "id": 680
+  },
+  {
+    "tag": "WIT",
+    "county": "Ennepe-Ruhr-Kreis",
+    "state": "Nordrhein-Westfalen",
+    "explanation": "WITten",
+    "id": 681
+  },
+  {
+    "tag": "WIV",
+    "county": "fiktiver Ort",
+    "state": "Filmproduktion",
+    "explanation": "aus dem Film Hanne",
+    "id": 682
+  },
+  {
+    "tag": "WIZ",
+    "county": "Werra-Meißner-Kreis",
+    "state": "Hessen",
+    "explanation": "WItZenhausen",
+    "id": 683
+  },
+  {
+    "tag": "WK",
+    "county": "Landkreis Ostprignitz-Ruppin",
+    "state": "Brandenburg",
+    "explanation": "WittstocK",
+    "id": 684
+  },
+  {
+    "tag": "WL",
+    "county": "Landkreis Harburg",
+    "state": "Niedersachsen",
+    "explanation": "Winsen (Luhe)",
+    "id": 685
+  },
+  {
+    "tag": "WLG",
+    "county": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "WoLGast",
+    "id": 686
+  },
+  {
+    "tag": "WM",
+    "county": "Landkreis Weilheim-Schongau",
+    "state": "Bayern",
+    "explanation": "WeilheiM",
+    "id": 687
+  },
+  {
+    "tag": "WMS",
+    "county": "Landkreis Börde",
+    "state": "Sachsen-Anhalt",
+    "explanation": "WolMirStedt",
+    "id": 688
+  },
+  {
+    "tag": "WN",
+    "county": "Rems-Murr-Kreis",
+    "state": "Baden-Württemberg",
+    "explanation": "WaiblingeN",
+    "id": 689
+  },
+  {
+    "tag": "WND",
+    "county": "Landkreis St. Wendel",
+    "state": "Saarland",
+    "explanation": "WeNDel",
+    "id": 690
+  },
+  {
+    "tag": "WO",
+    "county": "Stadt Worms",
+    "state": "Rheinland-Pfalz",
+    "explanation": "WOrms",
+    "id": 691
+  },
+  {
+    "tag": "WOB",
+    "county": "Stadt Wolfsburg",
+    "state": "Niedersachsen",
+    "explanation": "WOlfsBurg",
+    "id": 692
+  },
+  {
+    "tag": "WOH",
+    "county": "Landkreis Kassel",
+    "state": "Hessen",
+    "explanation": "WOlfHagen",
+    "id": 693
+  },
+  {
+    "tag": "WOL",
+    "county": "Ortenaukreis, Landkreis Freudenstadt",
+    "state": "Baden-Württemberg",
+    "explanation": "WOLfach",
+    "id": 694
+  },
+  {
+    "tag": "WOR",
+    "county": "Landkreis Bad Tölz-Wolfratshausen, Landkreis München, Landkreis Starnberg",
+    "state": "Bayern",
+    "explanation": "WOlfRatshausen",
+    "id": 695
+  },
+  {
+    "tag": "WOS",
+    "county": "Landkreis Freyung-Grafenau",
+    "state": "Bayern",
+    "explanation": "WOlfStein",
+    "id": 696
+  },
+  {
+    "tag": "WR",
+    "county": "Landkreis Harz",
+    "state": "Sachsen-Anhalt",
+    "explanation": "WernigeRode",
+    "id": 697
+  },
+  {
+    "tag": "WRN",
+    "county": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "explanation": "WaReN",
+    "id": 698
+  },
+  {
+    "tag": "WS",
+    "county": "Landkreis Rosenheim",
+    "state": "Bayern",
+    "explanation": "WasSerburg",
+    "id": 699
+  },
+  {
+    "tag": "WSF",
+    "county": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "WeisSenFels",
+    "id": 700
+  },
+  {
+    "tag": "WST",
+    "county": "Landkreis Ammerland",
+    "state": "Niedersachsen",
+    "explanation": "WesterSTede",
+    "id": 701
+  },
+  {
+    "tag": "WSW",
+    "county": "Landkreis Görlitz",
+    "state": "Sachsen",
+    "explanation": "WeisSWasser",
+    "id": 702
+  },
+  {
+    "tag": "WT",
+    "county": "Landkreis Waldshut",
+    "state": "Baden-Württemberg",
+    "explanation": "WaldshuT",
+    "id": 703
+  },
+  {
+    "tag": "WTL",
+    "county": "Landkreis Osnabrück",
+    "state": "Niedersachsen",
+    "explanation": "WitTLage",
+    "id": 704
+  },
+  {
+    "tag": "WTM",
+    "county": "Landkreis Wittmund",
+    "state": "Niedersachsen",
+    "explanation": "WitTMund",
+    "id": 705
+  },
+  {
+    "tag": "WÜ",
+    "county": "Landkreis Würzburg, Stadt Würzburg",
+    "state": "Bayern",
+    "explanation": "WÜrzburg",
+    "id": 706
+  },
+  {
+    "tag": "WUG",
+    "county": "Landkreis Weißenburg-Gunzenhausen",
+    "state": "Bayern",
+    "explanation": "WeißenbUrG",
+    "id": 707
+  },
+  {
+    "tag": "WÜM",
+    "county": "Landkreis Cham",
+    "state": "Bayern",
+    "explanation": "WaldMÜnchen (mit einem Buchstabendreher)",
+    "id": 708
+  },
+  {
+    "tag": "WUN",
+    "county": "Landkreis Wunsiedel im Fichtelgebirge",
+    "state": "Bayern",
+    "explanation": "WUNsiedel",
+    "id": 709
+  },
+  {
+    "tag": "WUR",
+    "county": "Landkreis Leipzig",
+    "state": "Sachsen",
+    "explanation": "WURzen",
+    "id": 710
+  },
+  {
+    "tag": "WW",
+    "county": "Westerwaldkreis",
+    "state": "Rheinland-Pfalz",
+    "explanation": "WesterWald",
+    "id": 711
+  },
+  {
+    "tag": "WZ",
+    "county": "Stadt Wetzlar (Sonderstatusstadt im Lahn-Dill-Kreis)",
+    "state": "Hessen",
+    "explanation": "WetZlar",
+    "id": 712
+  },
+  {
+    "tag": "WZL",
+    "county": "Landkreis Börde",
+    "state": "Sachsen-Anhalt",
+    "explanation": "WanZLeben",
+    "id": 713
+  },
+  {
+    "tag": "X",
+    "county": "Internationale Hauptquartiere (NATO)",
+    "state": "bundesweit",
+    "explanation": "willkürlich gewählt",
+    "id": 714
+  },
+  {
+    "tag": "Y",
+    "county": "Bundeswehr",
+    "state": "bundesweit",
+    "explanation": "willkürlich gewählt",
+    "id": 715
+  },
+  {
+    "tag": "Z",
+    "county": "Landkreis Zwickau",
+    "state": "Sachsen",
+    "explanation": "Zwickau",
+    "id": 716
+  },
+  {
+    "tag": "ZE",
+    "county": "Landkreis Anhalt-Bitterfeld",
+    "state": "Sachsen-Anhalt",
+    "explanation": "ZErbst",
+    "id": 717
+  },
+  {
+    "tag": "ZEL",
+    "county": "Landkreis Cochem-Zell",
+    "state": "Rheinland-Pfalz",
+    "explanation": "ZELl",
+    "id": 718
+  },
+  {
+    "tag": "ZI",
+    "county": "Landkreis Görlitz",
+    "state": "Sachsen",
+    "explanation": "ZIttau",
+    "id": 719
+  },
+  {
+    "tag": "ZIG",
+    "county": "Schwalm-Eder-Kreis",
+    "state": "Hessen",
+    "explanation": "ZIeGenhain",
+    "id": 720
+  },
+  {
+    "tag": "ZP",
+    "county": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "explanation": "ZschoPau",
+    "id": 721
+  },
+  {
+    "tag": "ZR",
+    "county": "Landkreis Greiz",
+    "state": "Thüringen",
+    "explanation": "ZeulenRoda",
+    "id": 722
+  },
+  {
+    "tag": "ZW",
+    "county": "Stadt Zweibrücken, Landkreis Südwestpfalz",
+    "state": "Rheinland-Pfalz",
+    "explanation": "ZWeibrücken",
+    "id": 723
+  },
+  {
+    "tag": "ZZ",
+    "county": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
+    "explanation": "ZeitZ",
+    "id": 724
+  }
+]
