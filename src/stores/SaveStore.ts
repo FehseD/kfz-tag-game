@@ -1,4 +1,17 @@
 import { defineStore } from "pinia";
+import { toRaw } from "vue";
+
+type saveData = {
+  ctt: {
+    rightAnswered: Array<number>
+    wrongerAnswered: Array<number>
+  }
+  ttc: {
+    rightAnswered: Array<number>
+    wrongerAnswered: Array<number>,
+  }
+  seen: Array<number>
+}
 
 export const useSaveStore = defineStore("saveStore", {
   state: () => ({
@@ -11,7 +24,7 @@ export const useSaveStore = defineStore("saveStore", {
       wrongerAnswered: [] as Array<number>,
     },
     seen: [] as Array<number>,
-  }),
+  } as saveData),
   actions: {
     saveNewRightAnswerCityToTag(id: number) {
       if (!this.ctt.rightAnswered.includes(id)) {
@@ -101,6 +114,33 @@ export const useSaveStore = defineStore("saveStore", {
         }
         resolve('done');
       });
+    },
+    triggerDownload(blob: Blob, filename: string) {
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+
+      link.href = url;
+      link.download = filename;
+
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+
+      URL.revokeObjectURL(url);
+    },
+    exportSaveData() {
+      const jsonString = JSON.stringify(toRaw(this.$state), null, 2);
+      const blob = new Blob([jsonString], {type: 'application/json'});
+      this.triggerDownload(blob, 'kftSave.sav');
+    },
+    importSaveData(saveData: saveData) {
+      console.log(saveData);
+      if (Object.keys(saveData).length == 3) {
+        this.$state = saveData;
+        this.saveInLocalStorage();
+      } else {
+        console.error('Wrong File');
+      }
     }
   },
   getters: {}

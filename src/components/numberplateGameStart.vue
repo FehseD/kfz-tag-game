@@ -28,6 +28,7 @@
       </div>
     </v-card>
   </div>
+  <settings-dialog/>
 </template>
 
 <script setup lang="ts">
@@ -46,6 +47,7 @@ import { storeToRefs } from "pinia";
 import { useSaveStore } from "@/stores/SaveStore";
 import { useGameStoreTagToCity } from "@/stores/GameStoreTagToCity";
 import { useGameDataStore } from "@/stores/GameDataStore";
+import SettingsDialog from "@/components/settingsDialog.vue";
 
 ChartJS.register(ArcElement, Tooltip, Legend)
 
