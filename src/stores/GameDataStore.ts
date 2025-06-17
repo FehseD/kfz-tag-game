@@ -8,14 +8,33 @@ export type GameData = {
   explanation: string
 }
 
+export type MapData = {
+  id: number,
+  data: Array<
+    {
+      lat: string,
+      lon: string,
+      geojson: {
+        coordinates: Array<Array<Array<number>>>
+      }
+    }>
+};
+
+
 export const useGameDataStore = defineStore("dataGameStore", {
   state: () => ({
-    data: [] as Array<GameData>
+    data: [] as Array<GameData>,
+    mapData: [] as MapData[],
   }),
   actions: {
+    async loadMapData() {
+      const res = await fetch('./mapData.json');
+      this.mapData = await res.json();
+    },
     async loadGameData() {
       const res = await fetch('./data.json');
       this.data = await res.json();
+      await this.loadMapData();
     },
   }
 });

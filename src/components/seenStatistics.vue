@@ -58,8 +58,10 @@ const zoom = ref(6);
 const found = computed(() => {
   let seenArray: Array<GameData> = [];
   saveStore.seen.forEach(seen => {
-    seenArray.push(gameDataStoreData.value.find((gameData) => gameData.id == seen) as GameData);
+    seenArray.push(gameDataStoreData.value.find((gameData) => gameData.id == seen) as GameData
+    );
   });
+  console.log(seenArray);
   return seenArray;
 });
 </script>

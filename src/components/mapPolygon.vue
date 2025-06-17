@@ -6,26 +6,33 @@
 </template>
 
 <script setup lang="ts">
-import { GameData } from "@/stores/GameDataStore";
-import { ref, Ref } from "vue";
+import { GameData, MapData, useGameDataStore } from "@/stores/GameDataStore";
+import { computed } from "vue";
 import { LMarker, LPolygon, LTooltip } from "@vue-leaflet/vue-leaflet";
+import { storeToRefs } from "pinia";
 
 const props = defineProps<{
   city: GameData
 }>();
 
-const latLngs: Ref<Array<Array<number>>> = ref([]);
-const pos: Ref<Array<number>> = ref([0, 0]);
-fetch('https://nominatim.openstreetmap.org/search?format=json&q=' + props.city.state + ' ' + props.city.explanation + '&limit=1&polygon_geojson=1').then(async (response) => {
-  const json = await response.json();
-  if (json.length == 0) {
-    console.log(props.city);
-  } else {
-    pos.value = [json[0].lat, json[0].lon];
-    latLngs.value = json[0].geojson.coordinates[0].map((lngsLat: Array<number>) => {
-      return [lngsLat[1], lngsLat[0]];
-    });
+
+const gameDataStoreMapData = storeToRefs(useGameDataStore());
+
+const pos = computed(() => {
+  const foundMapData = gameDataStoreMapData.mapData.value.find(value => value.id == props.city.id) as MapData;
+  console.log(foundMapData);
+  return [foundMapData.data[0].lat, foundMapData.data[0].lon];
+});
+
+const latLngs = computed(() => {
+  const foundMapData = gameDataStoreMapData.mapData.value.find(value => value.id == props.city.id) as MapData;
+  console.log(foundMapData);
+  if (foundMapData == undefined) {
+    console.log(props.city)
   }
+  return foundMapData.data[0].geojson.coordinates[0].map(value => {
+    return [value[1], value[0]];
+  });
 });
 </script>
 
