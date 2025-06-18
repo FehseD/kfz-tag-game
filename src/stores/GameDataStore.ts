@@ -15,6 +15,7 @@ export type MapData = {
       lat: string,
       lon: string,
       geojson: {
+        type: 'Point' | 'Polygon' | 'LineString' | 'MultiPolygon' | 'MultiLineString',
         coordinates: Array<Array<Array<number>>>
       }
     }>

@@ -61,7 +61,6 @@ const found = computed(() => {
     seenArray.push(gameDataStoreData.value.find((gameData) => gameData.id == seen) as GameData
     );
   });
-  console.log(seenArray);
   return seenArray;
 });
 </script>

@@ -20,16 +20,25 @@ const gameDataStoreMapData = storeToRefs(useGameDataStore());
 
 const pos = computed(() => {
   const foundMapData = gameDataStoreMapData.mapData.value.find(value => value.id == props.city.id) as MapData;
-  console.log(foundMapData);
+  if (foundMapData.data.length == 0) {
+    console.log(foundMapData);
+    return [0, 0];
+  }
   return [foundMapData.data[0].lat, foundMapData.data[0].lon];
 });
 
 const latLngs = computed(() => {
   const foundMapData = gameDataStoreMapData.mapData.value.find(value => value.id == props.city.id) as MapData;
+  if (foundMapData.data[0].geojson.type != "Polygon") {
+    console.log(foundMapData);
+    return [];
+  }
   console.log(foundMapData);
   if (foundMapData == undefined) {
-    console.log(props.city)
+    console.log(props.city);
+    return [];
   }
+
   return foundMapData.data[0].geojson.coordinates[0].map(value => {
     return [value[1], value[0]];
   });
