@@ -28,20 +28,27 @@ const pos = computed(() => {
 });
 
 const latLngs = computed(() => {
-  const foundMapData = gameDataStoreMapData.mapData.value.find(value => value.id == props.city.id) as MapData;
-  if (foundMapData.data[0].geojson.type != "Polygon") {
-    console.log(foundMapData);
-    return [];
-  }
-  console.log(foundMapData);
+  const foundMapData = gameDataStoreMapData.mapData.value.find(value => value.id == props.city.id) as MapData | undefined;
   if (foundMapData == undefined) {
     console.log(props.city);
     return [];
   }
 
-  return foundMapData.data[0].geojson.coordinates[0].map(value => {
-    return [value[1], value[0]];
-  });
+  if (foundMapData.data[0].geojson.type == "Polygon") {
+    return foundMapData.data[0].geojson.coordinates[0].map(value => {
+      return [value[1], value[0]];
+    });
+  }
+
+  if (foundMapData.data[0].geojson.type == "MultiPolygon") {
+    return foundMapData.data[0].geojson.coordinates[0][0].map(value => {
+      return [value[1], value[0]];
+    });
+  }
+
+  console.log(foundMapData);
+  return [];
+
 });
 </script>
 
